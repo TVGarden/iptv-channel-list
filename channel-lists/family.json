@@ -1,0 +1,353 @@
+[
+  {
+    "id": "AMGTV.us",
+    "name": "AMG TV",
+    "stream_urls": [
+      "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CanalIPe.pe",
+    "name": "Canal IPe",
+    "stream_urls": [
+      "https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8"
+    ],
+    "language": "spa",
+    "country": "PE"
+  },
+  {
+    "id": "ChurchofUgandaFamilyTelevision.ug",
+    "name": "Church of Uganda Family Television",
+    "stream_urls": [
+      "https://media.streambrothers.com:19360/8028/8028.m3u8"
+    ],
+    "language": "eng",
+    "country": "UG"
+  },
+  {
+    "id": "CWBTV.br",
+    "name": "CWB TV",
+    "stream_urls": [
+      "https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "DoveChannel.us",
+    "name": "Dove Channel",
+    "stream_urls": [
+      "https://dove-channel.plex.wurl.com/manifest/playlist.m3u8",
+      "https://dovenow-roku-ingest.cinedigm.com/master.m3u8",
+      "https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8",
+      "https://dovenow-tcl.amagi.tv/playlist.m3u8",
+      "https://dove-channel.vizio.wurl.com/manifest/playlist.m3u8",
+      "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8",
+      "https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "EstrellaGames.us",
+    "name": "Estrella Games",
+    "stream_urls": [
+      "https://estrella-games-oando.amagi.tv/playlist.m3u8",
+      "https://lnc-estrella-games.tubi.video/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "FamiliChannel.co",
+    "name": "Famili Channel",
+    "stream_urls": [
+      "https://cp.panelchs.com:1936/8012/8012/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CO"
+  },
+  {
+    "id": "FilmRiseFamily.us",
+    "name": "FilmRise Family",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "IONPlusEast.us",
+    "name": "ION Plus East",
+    "stream_urls": [
+      "https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8",
+      "https://lnc-ion-plus.tubi.video/playlist.m3u8",
+      "https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "JOJFamily.sk",
+    "name": "JOJ Family",
+    "stream_urls": [
+      "https://nn.geo.joj.sk/hls/family-540.m3u8",
+      "https://nn.geo.joj.sk/live/hls/family-540.m3u8",
+      "https://nn.geo.joj.sk/hls/family-360.m3u8"
+    ],
+    "language": "slk",
+    "country": "SK"
+  },
+  {
+    "id": "PlutoTVFamily.us",
+    "name": "Pluto TV Family",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc3fc6b9133f500099c7d98/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PositivTV.us",
+    "name": "Positiv TV",
+    "stream_urls": [
+      "https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Pro100TV.ru",
+    "name": "Pro100TV",
+    "stream_urls": [
+      "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "RakutenTVFamilyMovies.at",
+    "name": "Rakuten TV Family Movies",
+    "stream_urls": [
+      "https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8"
+    ],
+    "language": "deu",
+    "country": "AT"
+  },
+  {
+    "id": "RakutenTVFamilyMovies.ch",
+    "name": "Rakuten TV Family Movies",
+    "stream_urls": [
+      "https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8"
+    ],
+    "language": "deu",
+    "country": "CH"
+  },
+  {
+    "id": "RakutenTVFamilyMovies.es",
+    "name": "Rakuten TV Family Movies",
+    "stream_urls": [
+      "https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8",
+      "https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "RakutenTVFamilyMovies.fi",
+    "name": "Rakuten TV Family Movies",
+    "stream_urls": [
+      "https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8",
+      "https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8"
+    ],
+    "language": "fin",
+    "country": "FI"
+  },
+  {
+    "id": "RakutenTVFamilyMovies.fr",
+    "name": "Rakuten TV Family Movies",
+    "stream_urls": [
+      "https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8",
+      "https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "RakutenTVFamilyMovies.it",
+    "name": "Rakuten TV Family Movies",
+    "stream_urls": [
+      "https://rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "RakutenTVFamilyMovies.uk",
+    "name": "Rakuten TV Family Movies",
+    "stream_urls": [
+      "https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "RealFamilies.au",
+    "name": "Real Families",
+    "stream_urls": [
+      "https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "AU"
+  },
+  {
+    "id": "RealFamilies.us",
+    "name": "Real Families",
+    "stream_urls": [
+      "https://lds-realfamilies-plex.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "STS.ru",
+    "name": "STS",
+    "stream_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/16.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "SuperscreenTV.ng",
+    "name": "Superscreen TV",
+    "stream_urls": [
+      "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "NG"
+  },
+  {
+    "id": "TalangaTVCanal39.hn",
+    "name": "Talanga TV Canal 39",
+    "stream_urls": [
+      "https://stream.oursnetworktv.com/latin/Tv39Talanga/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "HN"
+  },
+  {
+    "id": "TelaViva.br",
+    "name": "Tela Viva",
+    "stream_urls": [
+      "https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "ThePetCollective.es",
+    "name": "The Pet Collective",
+    "stream_urls": [
+      "https://the-pet-collective-international-eu.rakuten.wurl.tv/playlist.m3u8",
+      "https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "ThePetCollective.in",
+    "name": "The Pet Collective",
+    "stream_urls": [
+      "https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "IN"
+  },
+  {
+    "id": "ThePetCollective.it",
+    "name": "The Pet Collective",
+    "stream_urls": [
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801317a0ccef00072aaf75/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+      "https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "ThePetCollective.se",
+    "name": "The Pet Collective",
+    "stream_urls": [
+      "https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "SE"
+  },
+  {
+    "id": "ThePetCollective.us",
+    "name": "The Pet Collective",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecd336d64c9000754cdf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4f5a07694c027be6ed1417/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abf097eb06300079b30f7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecd336d64c9000754cdf1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d819e738977e2c31096a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb1ad55268cae539bcedb08&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=637&terminate=false&userId=",
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8",
+      "https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8",
+      "https://the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TVFamilia.ve",
+    "name": "TV Familia",
+    "stream_urls": [
+      "https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8"
+    ],
+    "language": "spa",
+    "country": "VE"
+  },
+  {
+    "id": "TVFamille.mq",
+    "name": "TV Famille",
+    "stream_urls": [
+      "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "MQ"
+  },
+  {
+    "id": "TVSFamilyChannel.us",
+    "name": "TVS Family Channel",
+    "stream_urls": [
+      "https://rpn1.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "XtremaFamily.ar",
+    "name": "Xtrema Family",
+    "stream_urls": [
+      "https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "ZarokTV.iq",
+    "name": "Zarok TV",
+    "stream_urls": [
+      "https://zindisorani.zaroktv.com.tr/hls/stream.m3u8"
+    ],
+    "language": "kur",
+    "country": "IQ"
+  }
+]

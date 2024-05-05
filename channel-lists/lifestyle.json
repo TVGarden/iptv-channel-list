@@ -1,0 +1,685 @@
+[
+  {
+    "id": "10BoldSydney.au",
+    "name": "10 Bold Sydney",
+    "stream_urls": [
+      "https://i.mjh.nz/10bold-nsw.m3u8"
+    ],
+    "language": "eng",
+    "country": "AU",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "13P.cl",
+    "name": "13P",
+    "stream_urls": [
+      "https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "9LifeSydney.au",
+    "name": "9Life Sydney",
+    "stream_urls": [
+      "https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "AU",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "AntenaMonden.ro",
+    "name": "Antena Monden",
+    "stream_urls": [
+      "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
+    ],
+    "language": "ron",
+    "country": "RO"
+  },
+  {
+    "id": "AntiquesRoadTrip.us",
+    "name": "Antiques Road Trip",
+    "stream_urls": [
+      "https://lnc-antiques-road-trip.tubi.video/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "apartTV.lu",
+    "name": "apart TV",
+    "stream_urls": [
+      "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8"
+    ],
+    "language": "ltz",
+    "country": "LU"
+  },
+  {
+    "id": "AstroTV.de",
+    "name": "AstroTV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCwS3E2NaN3uorr9wf2_i6Cg.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "AyushTV.in",
+    "name": "Ayush TV",
+    "stream_urls": [
+      "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "id": "BethanyTV.ug",
+    "name": "Bethany TV",
+    "stream_urls": [
+      "https://readymedia.moderntv.cloud:8092/distribute/readymedia/tv_bethany_stream_ye/5-20-hls/live.m3u8"
+    ],
+    "language": "eng",
+    "country": "UG"
+  },
+  {
+    "id": "BetterHealthTV.us",
+    "name": "Better Health TV",
+    "stream_urls": [
+      "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "BizTV.us",
+    "name": "Biz TV",
+    "stream_urls": [
+      "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
+      "https://gideommd.mmdlive.lldns.net/gideommd/46c072b287224782a4d4ce93c3646589/manifest.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Bridezillas.uk",
+    "name": "Bridezillas",
+    "stream_urls": [
+      "https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "CardioTVSRC.ro",
+    "name": "Cardio TV SRC",
+    "stream_urls": [
+      "https://5947cbf6e693a.streamlock.net/live/play2/playlist.m3u8"
+    ],
+    "language": "ron",
+    "country": "RO"
+  },
+  {
+    "id": "CaTine.ro",
+    "name": "CaTine",
+    "stream_urls": [
+      "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8"
+    ],
+    "language": "ron",
+    "country": "RO"
+  },
+  {
+    "id": "Cats247.us",
+    "name": "Cats 24/7",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=599375885ceaac3cabccbed7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=635&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccbed7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CineLife.us",
+    "name": "CineLife",
+    "stream_urls": [
+      "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CodeFashionTV.bg",
+    "name": "Code Fashion TV",
+    "stream_urls": [
+      "https://cdn3.invivo.bg/Codefashion_5500/index.m3u8"
+    ],
+    "language": "bul",
+    "country": "BG"
+  },
+  {
+    "id": "CodeHealthTV.bg",
+    "name": "Code Health TV",
+    "stream_urls": [
+      "https://cdn3.invivo.bg/codehealth_test/index.m3u8"
+    ],
+    "language": "bul",
+    "country": "BG"
+  },
+  {
+    "id": "Complex.us",
+    "name": "Complex",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Diva.za",
+    "name": "Diva",
+    "stream_urls": [
+      "https://origin3.afxp.telemedia.co.za/PremiumFree/diva/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "ZA"
+  },
+  {
+    "id": "DoctorLive.in",
+    "name": "Doctor Live",
+    "stream_urls": [
+      "https://5a1178b42cc03.streamlock.net/8250/8250/playlist.m3u8"
+    ],
+    "language": "mal",
+    "country": "IN"
+  },
+  {
+    "id": "EStyloTV.do",
+    "name": "EStylo TV",
+    "stream_urls": [
+      "https://vdo2.streamgato.us:3035/live/estylotvlive.m3u8"
+    ],
+    "language": "spa",
+    "country": "DO"
+  },
+  {
+    "id": "FashionFinds.us",
+    "name": "Fashion Finds",
+    "stream_urls": [
+      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "FashionTelevision.uk",
+    "name": "Fashion Television",
+    "stream_urls": [
+      "https://fashiontv-fashiontv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "FashionTVEurope.fr",
+    "name": "FashionTV Europe",
+    "stream_urls": [
+      "https://fashiontv-fashiontv-2-es.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8",
+      "https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "FR"
+  },
+  {
+    "id": "FashionTVParis.fr",
+    "name": "FashionTV Paris",
+    "stream_urls": [
+      "https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "FashionTVPG16.fr",
+    "name": "FashionTV PG16",
+    "stream_urls": [
+      "https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8"
+    ],
+    "language": "eng",
+    "country": "FR"
+  },
+  {
+    "id": "FashionTVUHD.fr",
+    "name": "FashionTV UHD",
+    "stream_urls": [
+      "https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "FR"
+  },
+  {
+    "id": "FortunaTV.tr",
+    "name": "Fortuna TV",
+    "stream_urls": [
+      "https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "id": "Glamour.us",
+    "name": "Glamour",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "GlobalFashionChannel.us",
+    "name": "Global Fashion Channel",
+    "stream_urls": [
+      "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "GQ.us",
+    "name": "GQ",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "GuideLoveTV.ci",
+    "name": "Guide Love TV",
+    "stream_urls": [
+      "https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "CI"
+  },
+  {
+    "id": "HANDICAPTV.fr",
+    "name": "HANDICAP TV",
+    "stream_urls": [
+      "https://srv.webtvmanager.fr:3697/stream/play.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "HangulatTV.hu",
+    "name": "Hangulat TV",
+    "stream_urls": [
+      "https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8"
+    ],
+    "language": "hun",
+    "country": "HU"
+  },
+  {
+    "id": "JewelleryMaker.uk",
+    "name": "Jewellery Maker",
+    "stream_urls": [
+      "https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "KappaTV.in",
+    "name": "Kappa TV",
+    "stream_urls": [
+      "https://idvd.multitvsolution.com/idvo/kappatv.m3u8"
+    ],
+    "language": "mal",
+    "country": "IN"
+  },
+  {
+    "id": "KCKSLD12.us",
+    "name": "KCKS-LD12",
+    "stream_urls": [
+      "https://cdn.igocast.com/channel12_hls/channel12_master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "LIVExLIVE.us",
+    "name": "LIVExLIVE",
+    "stream_urls": [
+      "https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Localish.us",
+    "name": "Localish",
+    "stream_urls": [
+      "https://lnc-localish.tubi.video/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "LogosTVSalud.es",
+    "name": "Logos TV Salud",
+    "stream_urls": [
+      "https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "LuxeTV.lu",
+    "name": "Luxe TV",
+    "stream_urls": [
+      "https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8",
+      "https://alchimie-luxe-uk-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "LU"
+  },
+  {
+    "id": "MediCOOLTV.ro",
+    "name": "MediCOOL TV",
+    "stream_urls": [
+      "https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8"
+    ],
+    "language": "ron",
+    "country": "RO"
+  },
+  {
+    "id": "NTVStyle.ru",
+    "name": "NTV Style",
+    "stream_urls": [
+      "https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "OURTV.us",
+    "name": "OURTV",
+    "stream_urls": [
+      "https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVBestLife.us",
+    "name": "Pluto TV Best Life",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5887ba337b8e94223eb121bd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=630&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVCucina.it",
+    "name": "Pluto TV Cucina",
+    "stream_urls": [
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6261868633a2890007e87885/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "PlutoTVCuisine.fr",
+    "name": "Pluto TV Cuisine",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "PlutoTVFood.uk",
+    "name": "Pluto TV Food",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf930548ff9b00090d5686/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf930548ff9b00090d5686&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=500&terminate=false&userId="
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "PlutoTVHome.us",
+    "name": "Pluto TV Home",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5eb96303f5bb020008e7e44f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8044788b-0583-11eb-a18c-0242ac110002&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVHomesUnderHammer.us",
+    "name": "Pluto TV Homes Under Hammer",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8002db3c3e0b1c72/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVRealLife.it",
+    "name": "Pluto TV Real Life",
+    "stream_urls": [
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801976f92a750007a0699c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "PlutoTVYoga.fr",
+    "name": "Pluto TV Yoga",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60803e541a829e0008e91641/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb570-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca55bef6-f2a6-488a-be5d-c7ba24d93cdd"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "QS24tv.ch",
+    "name": "QS24.tv",
+    "stream_urls": [
+      "https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8"
+    ],
+    "language": "deu",
+    "country": "CH"
+  },
+  {
+    "id": "Revry.us",
+    "name": "Revry",
+    "stream_urls": [
+      "https://revry-revry-3-eu.rakuten.wurl.tv/playlist.m3u8",
+      "https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8",
+      "https://dai.google.com/linear/hls/event/gvO6-Y6TTjCxRf1QALU4VQ/master.m3u8",
+      "https://revry-revry-3-nz.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Revry2.us",
+    "name": "Revry 2",
+    "stream_urls": [
+      "https://785e3b6ff91d4c6db1d8a5b67a894571.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRY-BRIGHTCOVE/mt/brightcove/5/hls/master/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "RevryNews.us",
+    "name": "Revry News",
+    "stream_urls": [
+      "https://revry-revrynews-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8",
+      "https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-BRIGHTCOVE/mt/brightcove/44/hls/master/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "RevryQueer.us",
+    "name": "Revry Queer",
+    "stream_urls": [
+      "https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8",
+      "https://linear-43.frequency.stream/mt/galxy/43/hls/master/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "SmartLifeStyleTV.us",
+    "name": "Smart LifeStyle TV",
+    "stream_urls": [
+      "https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "SoReal.us",
+    "name": "So... Real",
+    "stream_urls": [
+      "https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8",
+      "https://soreal-tcl.amagi.tv/playlist.m3u8",
+      "https://lnc-so-real.tubi.video/playlist.m3u8",
+      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "SuperyachtTV.mc",
+    "name": "Superyacht TV",
+    "stream_urls": [
+      "https://sy.wns.live/hls/stream.m3u8"
+    ],
+    "language": "eng",
+    "country": "MC"
+  },
+  {
+    "id": "TheBeachChannel.us",
+    "name": "The Beach Channel",
+    "stream_urls": [
+      "https://cf-live29e5f8c.lwcdn.com/live/fallback/014dc067-4922-4168-bdcd-5278589269ed/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TheCraftistry.us",
+    "name": "The Craftistry",
+    "stream_urls": [
+      "https://studio71-craftistry-roku.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TheDesignNetwork.us",
+    "name": "The Design Network",
+    "stream_urls": [
+      "https://thedesignnetwork-tdn-6-eu.rakuten.wurl.tv/playlist.m3u8",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ff8c8bcf3d600078af3eb/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8",
+      "https://thedesignnetwork-tdn-6-ca.samsung.wurl.tv/playlist.m3u8",
+      "https://thedesignnetwork-tdn-1-nz.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TheJamieOliverChannel.us",
+    "name": "The Jamie Oliver Channel",
+    "stream_urls": [
+      "https://lnc-jamie-oliver.tubi.video/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TopSanteTV.fr",
+    "name": "Top Sante TV",
+    "stream_urls": [
+      "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/TopSante.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "TV5MondeStyle.fr",
+    "name": "TV5Monde Style",
+    "stream_urls": [
+      "https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "TVKesehatan.id",
+    "name": "TV Kesehatan",
+    "stream_urls": [
+      "https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8"
+    ],
+    "language": "ind",
+    "country": "ID"
+  },
+  {
+    "id": "VanityFair.us",
+    "name": "Vanity Fair",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Vogue.us",
+    "name": "Vogue",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Wapp.cl",
+    "name": "Wapp",
+    "stream_urls": [
+      "https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "WomanTV.tr",
+    "name": "Woman TV",
+    "stream_urls": [
+      "https://embedlp.becdn.net/womantv.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "id": "ZhiviHD.ru",
+    "name": "Zhivi! HD",
+    "stream_urls": [
+      "https://woobl.ru/hls987/Jivi_hd.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  }
+]

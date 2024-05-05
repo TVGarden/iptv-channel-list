@@ -1,0 +1,238 @@
+[
+  {
+    "id": "AmericasTestKitchen.us",
+    "name": "America's Test Kitchen",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=&appName=web&appVersion=5.10.0-63088da67b32904787b837429cfa9c5c605b7626&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=730453b0-df89-477c-a53d-9f59f9f46f37&deviceLat=37.7510&deviceLon=-97.8220&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.186&includeExtendedEvents=false&marketingRegion=US&serverSideAds=true&sid=130d48cd-22f9-11eb-9bad-0242ac110002&userId=",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84f54a82f05300080e6746&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=605&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://lnc-americas-test-kitchen.tubi.video/index.m3u8",
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "bonappetit.us",
+    "name": "bon appetit",
+    "stream_urls": [
+      "https://bonappetit-samsung.amagi.tv/playlist.m3u8",
+      "https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8",
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "ChefChampion.us",
+    "name": "Chef Champion",
+    "stream_urls": [
+      "https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "ChefRocShow.us",
+    "name": "Chef Roc Show",
+    "stream_urls": [
+      "https://rpn1.bozztv.com/36bay2/gusa-chefrock/mono.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CookingPanda.us",
+    "name": "Cooking Panda",
+    "stream_urls": [
+      "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Food52.us",
+    "name": "Food 52",
+    "stream_urls": [
+      "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8",
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "FoodTV.us",
+    "name": "Food TV",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5877ac8cb791f4eb4a140d81&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=601&terminate=false&userId="
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "GordonRamsaysHellsKitchen.us",
+    "name": "Gordon Ramsay's Hell's Kitchen",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e99f4423e067bd6df6903&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=294&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://lnc-gordon-ramsey.tubi.video/index.m3u8",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6f38792075160007d85823/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "GustoTV.us",
+    "name": "Gusto TV",
+    "stream_urls": [
+      "https://gustotv-samsung-gb.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8",
+      "https://gustotv-gustotv-2-se.samsung.wurl.tv/playlist.m3u8",
+      "https://amg01077-gustoworldwidem-gustotv-cineverse-h7u1r.amagi.tv/playlist/amg01077-gustoworldwidem-gustotv-cineverse/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "HelloTaste.ro",
+    "name": "Hello Taste",
+    "stream_urls": [
+      "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8"
+    ],
+    "language": "ron",
+    "country": "RO"
+  },
+  {
+    "id": "Hungry.us",
+    "name": "Hungry",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "iFoodTV.us",
+    "name": "iFood.TV",
+    "stream_urls": [
+      "https://ft-ifood-roku.amagi.tv/playlist.m3u8",
+      "https://ifood-vizio.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "IntheKitchen.us",
+    "name": "In the Kitchen",
+    "stream_urls": [
+      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVCocina.es",
+    "name": "Pluto TV Cocina",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1acdaa8ba90f0007d5e760&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=700&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d0fbaa8742fa3093899da&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=956&terminate=false&userId="
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "SamiraTV.dz",
+    "name": "Samira TV",
+    "stream_urls": [
+      "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/samira.m3u8"
+    ],
+    "language": "ara",
+    "country": "DZ"
+  },
+  {
+    "id": "SoYummy.us",
+    "name": "So Yummy!",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8",
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Tastemade.au",
+    "name": "Tastemade",
+    "stream_urls": [
+      "https://tmint-aus-samsungau.amagi.tv/playlist.m3u8",
+      "https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "AU"
+  },
+  {
+    "id": "Tastemade.de",
+    "name": "Tastemade",
+    "stream_urls": [
+      "https://tastemade-de-samsung.amagi.tv/playlist.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "Tastemade.fr",
+    "name": "Tastemade",
+    "stream_urls": [
+      "https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "Tastemade.us",
+    "name": "Tastemade",
+    "stream_urls": [
+      "https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8",
+      "https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8",
+      "https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8",
+      "https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8",
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8",
+      "https://tmint-aus-samsungswedan.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TastemadeBrasil.br",
+    "name": "Tastemade Brasil",
+    "stream_urls": [
+      "https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "TastemadeenEspanol.us",
+    "name": "Tastemade en Espanol",
+    "stream_urls": [
+      "https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8",
+      "https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8",
+      "https://tastemadees16intl-vizio.amagi.tv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "TastemadeTravel.us",
+    "name": "Tastemade Travel",
+    "stream_urls": [
+      "https://tastemadetravel-vizio.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  }
+]

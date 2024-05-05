@@ -1,0 +1,566 @@
+[
+  {
+    "id": "30AInvestmentPitch.us",
+    "name": "30A Investment Pitch",
+    "stream_urls": [
+      "https://30a-tv.com/feeds/xodglobal/30atv.m3u8",
+      "https://www.30a-tv.com/InvPit.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "ADOCCOTV.do",
+    "name": "ADOCCO TV",
+    "stream_urls": [
+      "https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8"
+    ],
+    "language": "spa",
+    "country": "DO"
+  },
+  {
+    "id": "AgendaMineraTV.bo",
+    "name": "Agenda Minera TV",
+    "stream_urls": [
+      "https://srv.panelcast.net/amitel/amitel/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "BO"
+  },
+  {
+    "id": "AlArabiyaBusiness.ae",
+    "name": "Al Arabiya Business",
+    "stream_urls": [
+      "https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8",
+      "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "id": "AlephBusiness.ro",
+    "name": "Aleph Business",
+    "stream_urls": [
+      "https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/playlist.m3u8"
+    ],
+    "language": "ron",
+    "country": "RO"
+  },
+  {
+    "id": "Ameritrade.us",
+    "name": "Ameritrade",
+    "stream_urls": [
+      "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "apartTV.lu",
+    "name": "apart TV",
+    "stream_urls": [
+      "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8"
+    ],
+    "language": "ltz",
+    "country": "LU"
+  },
+  {
+    "id": "AsharqNews.sa",
+    "name": "Asharq News",
+    "stream_urls": [
+      "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8",
+      "https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8",
+      "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "https://ythls.armelin.one/channel/UCRJUVYt9gjg8MnlGacySUdg.m3u8"
+    ],
+    "language": "ara",
+    "country": "SA"
+  },
+  {
+    "id": "AsharqNewsPortrait.sa",
+    "name": "Asharq News Portrait",
+    "stream_urls": [
+      "https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "SA"
+  },
+  {
+    "id": "AusbizTV.au",
+    "name": "Ausbiz TV",
+    "stream_urls": [
+      "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
+      "https://ausbiztv-ausbiz-1-nz.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "AU"
+  },
+  {
+    "id": "BATIRTV.ci",
+    "name": "BATIR-TV",
+    "stream_urls": [
+      "https://webstreaming.viewmedia.tv/web_021/Stream/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "CI"
+  },
+  {
+    "id": "BloombergAdria.rs",
+    "name": "Bloomberg Adria",
+    "stream_urls": [
+      "https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8"
+    ],
+    "language": "srp",
+    "country": "RS"
+  },
+  {
+    "id": "BloombergHT.tr",
+    "name": "Bloomberg HT",
+    "stream_urls": [
+      "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
+      "https://ythls.armelin.one/channel/UCApLxl6oYQafxvykuoC2uxQ.m3u8",
+      "https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "id": "BloombergTV.us",
+    "name": "Bloomberg TV",
+    "stream_urls": [
+      "https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://bloomberg-bloomberg-1-dk.samsung.wurl.tv/playlist.m3u8",
+      "https://bloomberg-bloomberg-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://bloomberg-bloomberg-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://bloomberg-bloomberg-1-lu.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://bloomberg-bloomberg-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://bloomberg-bloomberg-1-pt.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "https://bloomberg.com/media-manifest/streams/us.m3u8",
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8",
+      "https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8",
+      "https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "BloombergTVAsia.hk",
+    "name": "Bloomberg TV Asia",
+    "stream_urls": [
+      "https://bloomberg.com/media-manifest/streams/asia.m3u8"
+    ],
+    "language": "eng",
+    "country": "HK"
+  },
+  {
+    "id": "BloombergTVAsiaLiveEvent.hk",
+    "name": "Bloomberg TV Asia Live Event",
+    "stream_urls": [
+      "https://bloomberg.com/media-manifest/streams/asia-event.m3u8"
+    ],
+    "language": "eng",
+    "country": "HK"
+  },
+  {
+    "id": "BloombergTVAustralia.au",
+    "name": "Bloomberg TV Australia",
+    "stream_urls": [
+      "https://bloomberg.com/media-manifest/streams/aus.m3u8"
+    ],
+    "language": "eng",
+    "country": "AU"
+  },
+  {
+    "id": "BloombergTVEMEALiveEvent.uk",
+    "name": "Bloomberg TV EMEA Live Event",
+    "stream_urls": [
+      "https://bloomberg.com/media-manifest/streams/eu-event.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "BloombergTVEurope.uk",
+    "name": "Bloomberg TV Europe",
+    "stream_urls": [
+      "https://bloomberg.com/media-manifest/streams/eu.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "BloombergTVLiveEvent.us",
+    "name": "Bloomberg TV Live Event",
+    "stream_urls": [
+      "https://bloomberg.com/media-manifest/streams/us-event.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "BloombergTVMongolia.mn",
+    "name": "Bloomberg TV Mongolia",
+    "stream_urls": [
+      "https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8"
+    ],
+    "language": "mon",
+    "country": "MN"
+  },
+  {
+    "id": "BloombergTVPlus.us",
+    "name": "Bloomberg TV+",
+    "stream_urls": [
+      "https://bloomberg-bloombergtv-1-fr.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://bloomberg-bloombergtv-1-it.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/playlist.m3u8",
+      "https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
+      "https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8",
+      "https://bloomberg-bloombergtv-3-se.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "BloombergTVPoliticsLiveEvent.us",
+    "name": "Bloomberg TV Politics Live Event",
+    "stream_urls": [
+      "https://bloomberg.com/media-manifest/streams/politics.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "BNNBloomberg.ca",
+    "name": "BNN Bloomberg",
+    "stream_urls": [
+      "https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd"
+    ],
+    "language": "eng",
+    "country": "CA"
+  },
+  {
+    "id": "Business24Africa.ci",
+    "name": "Business 24 Africa",
+    "stream_urls": [
+      "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/business24_tv/hls_video/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "CI"
+  },
+  {
+    "id": "CafeTradeTV.us",
+    "name": "Cafe Trade TV",
+    "stream_urls": [
+      "https://cafetradehls.wns.live/hls/stream.m3u8"
+    ],
+    "language": "fas",
+    "country": "US"
+  },
+  {
+    "id": "Canal33.ro",
+    "name": "Canal33",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UChXVCKn5sa-e-bNXjX47lJw.m3u8"
+    ],
+    "language": "ron",
+    "country": "RO"
+  },
+  {
+    "id": "CanalE.ar",
+    "name": "Canal E",
+    "stream_urls": [
+      "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "CCTV2.cn",
+    "name": "CCTV-2",
+    "stream_urls": [
+      "https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8"
+    ],
+    "language": "zho",
+    "country": "CN"
+  },
+  {
+    "id": "ClassCNBC.it",
+    "name": "Class CNBC",
+    "stream_urls": [
+      "https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "CNBCAfrica.za",
+    "name": "CNBC Africa",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCsba91UGiQLFOb5DN3Z_AdQ.m3u8",
+      "https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "ZA"
+  },
+  {
+    "id": "CNBCArabiya.ae",
+    "name": "CNBC Arabiya",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCsHdPPJXT-yKVTLGkn3DSvQ.m3u8"
+    ],
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "id": "CNBCAwaaz.in",
+    "name": "CNBC Awaaz",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCQIycDaLsBpMKjOCeaKUYVg.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "id": "CNBCBajar.in",
+    "name": "CNBC Bajar",
+    "stream_urls": [
+      "https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8"
+    ],
+    "language": "guj",
+    "country": "IN",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CNBCIndonesia.id",
+    "name": "CNBC Indonesia",
+    "stream_urls": [
+      "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8",
+      "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
+    ],
+    "language": "ind",
+    "country": "ID"
+  },
+  {
+    "id": "CNBCTV18.in",
+    "name": "CNBC TV18",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCmRbHAgG2k2vDUvb3xsEunQ.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "id": "DeFianceMedia.pr",
+    "name": "DeFiance Media",
+    "stream_urls": [
+      "https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "PR"
+  },
+  {
+    "id": "DerAktionaerTV.de",
+    "name": "Der Aktionaer TV",
+    "stream_urls": [
+      "https://live2.telvi.de/hls/aktionaertv.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "EkhonTV.bd",
+    "name": "Ekhon TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8"
+    ],
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "id": "ETNow.in",
+    "name": "ET Now",
+    "stream_urls": [
+      "https://etnowweblive.akamaized.net/hls/live/2034678/ETNOWMSL4/chunklist_2.m3u8",
+      "https://pubads.g.doubleclick.net/ssai/event/pJrzNyDoT_K_GwYQsijTsQ/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "IN"
+  },
+  {
+    "id": "IBAChannel.cm",
+    "name": "IBA Channel",
+    "stream_urls": [
+      "https://video1.getstreamhosting.com:1936/8190/8190/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "CM"
+  },
+  {
+    "id": "IDTV.id",
+    "name": "IDTV",
+    "stream_urls": [
+      "https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8"
+    ],
+    "language": "ind",
+    "country": "ID"
+  },
+  {
+    "id": "JOBTV.ro",
+    "name": "JOB TV",
+    "stream_urls": [
+      "https://jobtvvideo.space/hls/stream/index.m3u8"
+    ],
+    "language": "ron",
+    "country": "RO"
+  },
+  {
+    "id": "KrolusTV.es",
+    "name": "Krolus TV",
+    "stream_urls": [
+      "https://vcnkrolustv.teleosmedia.com/linear/krolustv/krolustv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "MaeilBusinessTV.kr",
+    "name": "Maeil Business TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCnfwIKyFYRuqZzzKBDt6JOA.m3u8"
+    ],
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "id": "NDTVProfit.in",
+    "name": "NDTV Profit",
+    "stream_urls": [
+      "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8",
+      "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8",
+      "https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "IN"
+  },
+  {
+    "id": "NWEconomie.tg",
+    "name": "NW Economie",
+    "stream_urls": [
+      "https://hls.newworldtv.com/nw-economie/video/live.m3u8"
+    ],
+    "language": "fra",
+    "country": "TG"
+  },
+  {
+    "id": "PaxEconomyTV.kr",
+    "name": "Pax Economy TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UC6UEuBvk-0rmV4FUu0LDiTw.m3u8"
+    ],
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "id": "RBKTV.ru",
+    "name": "RBK-TV",
+    "stream_urls": [
+      "https://uiptv.do.am/1ufc/701293058/playlist.m3u8",
+      "https://online-video.rbc.ru/spb/rbctv_spb.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "TDAmeritradeNetwork.us",
+    "name": "TD Ameritrade Network",
+    "stream_urls": [
+      "https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8",
+      "https://tdameritrade-distro.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TelewizjaBiznesowa.pl",
+    "name": "Telewizja Biznesowa",
+    "stream_urls": [
+      "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
+    ],
+    "language": "pol",
+    "country": "PL"
+  },
+  {
+    "id": "Tevex.cl",
+    "name": "Tevex",
+    "stream_urls": [
+      "https://v4.tustreaming.cl/tevexinter/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "TunisieImmobilierTV.tn",
+    "name": "Tunisie Immobilier TV",
+    "stream_urls": [
+      "https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "TN"
+  },
+  {
+    "id": "TVBFinanceSportsInformationChannel.hk",
+    "name": "TVB Finance Sports & Information Channel",
+    "stream_urls": [
+      "https://tvp22.sky4k.top/index2.php"
+    ],
+    "language": "zho",
+    "country": "HK"
+  },
+  {
+    "id": "TVFinance.fr",
+    "name": "TV Finance",
+    "stream_urls": [
+      "https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "YahooFinance.us",
+    "name": "Yahoo! Finance",
+    "stream_urls": [
+      "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
+      "https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/playlist.m3u8",
+      "https://yahoo-plex.amagi.tv/playlist.m3u8",
+      "https://yahoo-roku-us.amagi.tv/playlist.m3u8",
+      "https://yahoo-samsung.amagi.tv/playlist.m3u8",
+      "https://yahoo-vizio.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "ZeeBusiness.in",
+    "name": "Zee Business",
+    "stream_urls": [
+      "https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_5.m3u8",
+      "https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_3.m3u8",
+      "https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeebusiness"
+    ],
+    "language": "eng",
+    "country": "IN"
+  },
+  {
+    "id": "ZhejiangEconomicChannel.cn",
+    "name": "Zhejiang Economic Channel",
+    "stream_urls": [
+      "https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
+    ],
+    "language": "zho",
+    "country": "CN"
+  }
+]

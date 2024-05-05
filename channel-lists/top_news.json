@@ -1,0 +1,188 @@
+[
+  {
+    "id": "ABCNewsLive.us",
+    "name": "ABC News Live",
+    "stream_urls": [
+      "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+      "https://lnc-abc-news.tubi.video/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "AlJazeeraEnglish.qa",
+    "name": "Al Jazeera English",
+    "stream_urls": [
+      "https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8",
+      "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
+      "https://ythls.armelin.one/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8",
+      "https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "QA"
+  },
+  {
+    "id": "BBCNewsNorthAmerica.uk",
+    "name": "BBC News North America",
+    "stream_urls": [
+      "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "CBSNews.us",
+    "name": "CBS News",
+    "stream_urls": [
+      "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+      "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CGTN.cn",
+    "name": "CGTN",
+    "stream_urls": [
+      "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
+      "https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "CN"
+  },
+  {
+    "id": "CNAInternational.sg",
+    "name": "CNA International",
+    "stream_urls": [
+      "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+      "https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "SG"
+  },
+  {
+    "id": "CNN.us",
+    "name": "CNN",
+    "stream_urls": [
+      "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+      "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8",
+      "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8",
+      "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
+      "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5421f71da6af422839419cb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=209&terminate=false&userId="
+    ],
+    "language": "eng",
+    "country": "US",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CNNInternationalEurope.us",
+    "name": "CNN International Europe",
+    "stream_urls": [
+      "https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "EuronewsEnglish.fr",
+    "name": "Euronews English",
+    "stream_urls": [
+      "https://lnc-euronews.tubi.video/ewnsabren_eng.m3u8",
+      "https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-euronews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-euronews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://rakuten-euronews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8",
+      "https://rakuten-euronews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-euronews-1-se.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8",
+      "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/euronews_720p/playlist.m3u8",
+      "https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8",
+      "https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8",
+      "https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8",
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2571",
+      "https://rakuten-euronews-10-lu.samsung.wurl.tv/playlist.m3u8",
+      "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "FR"
+  },
+  {
+    "id": "France24English.fr",
+    "name": "France 24 English",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8",
+      "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "FR"
+  },
+  {
+    "id": "i24NEWSEnglishWorld.il",
+    "name": "i24NEWS English World",
+    "stream_urls": [
+      "https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8"
+    ],
+    "language": "eng",
+    "country": "IL"
+  },
+  {
+    "id": "LiveNOWfromFOX.us",
+    "name": "LiveNOW from FOX",
+    "stream_urls": [
+      "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+      "https://lnc-fox-live-now.tubi.video/index.m3u8",
+      "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "NHKWorldJapan.jp",
+    "name": "NHK World-Japan",
+    "stream_urls": [
+      "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8",
+      "https://ythls.armelin.one/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8",
+      "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8",
+      "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8"
+    ],
+    "language": "eng",
+    "country": "JP"
+  },
+  {
+    "id": "RT.ru",
+    "name": "RT",
+    "stream_urls": [
+      "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
+      "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8",
+      "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+      "https://cdn-01.bonus-tv.ru/RussiaToday/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "RU"
+  },
+  {
+    "id": "ScrippsNews.us",
+    "name": "Scripps News",
+    "stream_urls": [
+      "https://livetv-fa.tubi.video/scripps-news/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TRTWorld.tr",
+    "name": "TRT World",
+    "stream_urls": [
+      "https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8",
+      "https://tv-trtworld.live.trt.com.tr/master.m3u8",
+      "https://mn-nl.mncdn.com/blutv_trtworld2/live.m3u8"
+    ],
+    "language": "eng",
+    "country": "TR"
+  }
+]

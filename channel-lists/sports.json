@@ -1,0 +1,1775 @@
+[
+  {
+    "id": "AbuDhabiSports1.ae",
+    "name": "Abu Dhabi Sports 1",
+    "stream_urls": [
+      "https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8"
+    ],
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "id": "AbuDhabiSports2.ae",
+    "name": "Abu Dhabi Sports 2",
+    "stream_urls": [
+      "https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8"
+    ],
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "id": "ACISportTV.it",
+    "name": "ACI Sport TV",
+    "stream_urls": [
+      "https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "ADOTV.bj",
+    "name": "ADO TV",
+    "stream_urls": [
+      "https://stream01.adotv-fm.bj/ado-tv-live/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "BJ"
+  },
+  {
+    "id": "Afizzionados.mx",
+    "name": "Afizzionados",
+    "stream_urls": [
+      "https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "id": "AioSport1.ir",
+    "name": "Aio Sport 1",
+    "stream_urls": [
+      "https://live.aionet.ir/hls/aiosport/aiosport.m3u8"
+    ],
+    "language": "fas",
+    "country": "IR",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "AioSport2.ir",
+    "name": "Aio Sport 2",
+    "stream_urls": [
+      "https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8"
+    ],
+    "language": "fas",
+    "country": "IR",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "AlfaSport.cy",
+    "name": "Alfa Sport",
+    "stream_urls": [
+      "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx",
+      "https://dev.aftermind.xyz/hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx"
+    ],
+    "language": "ell",
+    "country": "CY"
+  },
+  {
+    "id": "AllSports.br",
+    "name": "All Sports",
+    "stream_urls": [
+      "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "AntenaSport.ro",
+    "name": "AntenaSport",
+    "stream_urls": [
+      "https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8"
+    ],
+    "language": "ron",
+    "country": "RO"
+  },
+  {
+    "id": "Arryadia.ma",
+    "name": "Arryadia",
+    "stream_urls": [
+      "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8"
+    ],
+    "language": "ara",
+    "country": "MA"
+  },
+  {
+    "id": "ASpor.tr",
+    "name": "A Spor",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "id": "AstrahanRuSport.ru",
+    "name": "Astrahan.Ru Sport",
+    "stream_urls": [
+      "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "ATG.se",
+    "name": "ATG",
+    "stream_urls": [
+      "https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8"
+    ],
+    "language": "swe",
+    "country": "SE"
+  },
+  {
+    "id": "AwapaSportsTV.sv",
+    "name": "Awapa Sports TV",
+    "stream_urls": [
+      "https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8"
+    ],
+    "language": "spa",
+    "country": "SV"
+  },
+  {
+    "id": "b1bbox.bg",
+    "name": "b1b.box",
+    "stream_urls": [
+      "https://e105-ts.cdn.bg/b1b/fls/b1btv.stream/playlist.m3u8"
+    ],
+    "language": "bul",
+    "country": "BG"
+  },
+  {
+    "id": "BahrainSports1.bh",
+    "name": "Bahrain Sports 1",
+    "stream_urls": [
+      "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "BH"
+  },
+  {
+    "id": "BahrainSports2.bh",
+    "name": "Bahrain Sports 2",
+    "stream_urls": [
+      "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "BH"
+  },
+  {
+    "id": "beINSPORTSXTRA.us",
+    "name": "beIN SPORTS XTRA",
+    "stream_urls": [
+      "https://lnc-bein.tubi.video/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "beINSPORTSXTRAenEspanol.us",
+    "name": "beIN SPORTS XTRA en Espanol",
+    "stream_urls": [
+      "https://bein-esp-klowdtv.amagi.tv/playlist.m3u8",
+      "https://lnc-bein-espanol.tubi.video/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "US",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "BEKSportsWest.us",
+    "name": "BEK Sports West",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Belarus5.by",
+    "name": "Belarus-5",
+    "stream_urls": [
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
+    ],
+    "language": "rus",
+    "country": "BY"
+  },
+  {
+    "id": "Belarus5Internet.by",
+    "name": "Belarus-5 Internet",
+    "stream_urls": [
+      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
+    ],
+    "language": "rus",
+    "country": "BY"
+  },
+  {
+    "id": "BellatorMMA.us",
+    "name": "Bellator MMA",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ebc8688f3697d00072f7cf8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=730&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGSff"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "BoksTV.ru",
+    "name": "Boks TV",
+    "stream_urls": [
+      "https://woobl.ru/hls987/Boks_tv.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "CAFTV.eg",
+    "name": "CAF TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCr5K057x3mHroPHsNk9OiwA.m3u8"
+    ],
+    "language": "ara",
+    "country": "EG"
+  },
+  {
+    "id": "CampusLore.us",
+    "name": "CampusLore",
+    "stream_urls": [
+      "https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Canal11.pt",
+    "name": "Canal 11",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCMfEEaNYYX5w6nbvccTCHhg.m3u8"
+    ],
+    "language": "por",
+    "country": "PT"
+  },
+  {
+    "id": "CanaldoInter.br",
+    "name": "Canal do Inter",
+    "stream_urls": [
+      "https://video01.soultv.com.br/internacional/internacional/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "CazeTV.br",
+    "name": "CazeTV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8"
+    ],
+    "language": "por",
+    "country": "BR",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CCTV5.cn",
+    "name": "CCTV-5",
+    "stream_urls": [
+      "https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8"
+    ],
+    "language": "zho",
+    "country": "CN"
+  },
+  {
+    "id": "CDR.cl",
+    "name": "CDR",
+    "stream_urls": [
+      "https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "Channel24Sports.sa",
+    "name": "Channel 24 Sports",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCGnTP2NwS6ZJwmXBTsS2w-w.m3u8"
+    ],
+    "language": "ara",
+    "country": "SA"
+  },
+  {
+    "id": "ClaroSports.mx",
+    "name": "Claro Sports",
+    "stream_urls": [
+      "https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8",
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true"
+    ],
+    "language": "spa",
+    "country": "MX",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "ClaroSportsChile.cl",
+    "name": "Claro Sports Chile",
+    "stream_urls": [
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "CnArDeportes.ar",
+    "name": "CnAr Deportes",
+    "stream_urls": [
+      "https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "ContactoDeportivo.pe",
+    "name": "Contacto Deportivo",
+    "stream_urls": [
+      "https://live.obslivestream.com/cdeportivo/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "PE"
+  },
+  {
+    "id": "CRTV.cl",
+    "name": "CRTV",
+    "stream_urls": [
+      "https://vdo.panelstreaming.live:3058/stream/play.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "D13.cl",
+    "name": "D13",
+    "stream_urls": [
+      "https://jireh-2-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "DeporTV.ar",
+    "name": "DeporTV",
+    "stream_urls": [
+      "https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8",
+      "https://ythls.armelin.one/channel/UCSmh3DFxBwFurMttT60PQ1g.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "DTPlay.bo",
+    "name": "DT Play",
+    "stream_urls": [
+      "https://tv.portalexpress.es:3044/live/dtplaylive.m3u8"
+    ],
+    "language": "spa",
+    "country": "BO"
+  },
+  {
+    "id": "DubaiRacing.ae",
+    "name": "Dubai Racing",
+    "stream_urls": [
+      "https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "id": "DubaiRacing2.ae",
+    "name": "Dubai Racing 2",
+    "stream_urls": [
+      "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "id": "DubaiRacing3.ae",
+    "name": "Dubai Racing 3",
+    "stream_urls": [
+      "https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "id": "DubaiSports1.ae",
+    "name": "Dubai Sports 1",
+    "stream_urls": [
+      "https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8",
+      "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8"
+    ],
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "id": "DubaiSports2.ae",
+    "name": "Dubai Sports 2",
+    "stream_urls": [
+      "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8"
+    ],
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "id": "DubaiSports3.ae",
+    "name": "Dubai Sports 3",
+    "stream_urls": [
+      "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8"
+    ],
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "id": "EDGEsport.uk",
+    "name": "EDGEsport",
+    "stream_urls": [
+      "https://edgesports-row-rakuten.amagi.tv/playlist.m3u8",
+      "https://edgesport-samsunguk.amagi.tv/playlist.m3u8",
+      "https://edgesports-sportstribal.amagi.tv/playlist.m3u8",
+      "https://edgesports-plex.amagi.tv/playlist.m3u8",
+      "https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8",
+      "https://amgx0019-amagicontentplu-edgesports-klowdtv-po3wz.amagi.tv/playlist/amgx0019-amagicontentplu-edgesports-klowdtv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "Esport3.es",
+    "name": "Esport3",
+    "stream_urls": [
+      "https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8",
+      "https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "ESTV.us",
+    "name": "ESTV",
+    "stream_urls": [
+      "https://estv-rakuten.amagi.tv/playlist.m3u8",
+      "https://estv-rakuten-samsung.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Fight.us",
+    "name": "Fight",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9bda9fd87eb3a2717cce0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5c2fb668-242f-4e7f-a025-087099fd0aca&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b0f2237a6ff45d16c3f9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=726&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "FightNetwork.ca",
+    "name": "Fight Network",
+    "stream_urls": [
+      "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA"
+  },
+  {
+    "id": "FightNight.za",
+    "name": "Fight Night",
+    "stream_urls": [
+      "https://origin3.afxp.telemedia.co.za/PremiumFree/fightnight/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "ZA"
+  },
+  {
+    "id": "FightSports.us",
+    "name": "Fight Sports",
+    "stream_urls": [
+      "https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Fite.us",
+    "name": "Fite",
+    "stream_urls": [
+      "https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "FITE247.us",
+    "name": "FITE 24/7",
+    "stream_urls": [
+      "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/fite247_720p/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "FLSport.gy",
+    "name": "FL Sport",
+    "stream_urls": [
+      "https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f0ef38/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "GY"
+  },
+  {
+    "id": "FoxSports.us",
+    "name": "Fox Sports",
+    "stream_urls": [
+      "https://lnc-fox-sports2.tubi.video/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "FTF.us",
+    "name": "FTF",
+    "stream_urls": [
+      "https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "FTV.bo",
+    "name": "FTV",
+    "stream_urls": [
+      "https://master.tucableip.com/ftv/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "BO"
+  },
+  {
+    "id": "FuboSportsNetwork.us",
+    "name": "Fubo Sports Network",
+    "stream_urls": [
+      "https://lnc-fubo.tubi.video/master.m3u8",
+      "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "FUELTV.at",
+    "name": "FUEL TV",
+    "stream_urls": [
+      "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8"
+    ],
+    "language": "eng",
+    "country": "AT"
+  },
+  {
+    "id": "Futbol.tj",
+    "name": "Futbol",
+    "stream_urls": [
+      "https://live.teleradiocom.tj/8/3m.m3u8"
+    ],
+    "language": "tgk",
+    "country": "TJ"
+  },
+  {
+    "id": "GloryKickboxing.us",
+    "name": "Glory Kickboxing",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "grvty.us",
+    "name": "grvty",
+    "stream_urls": [
+      "https://d37j5jg7ob6kji.cloudfront.net/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "HardKnocks.ca",
+    "name": "Hard Knocks",
+    "stream_urls": [
+      "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8",
+      "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8",
+      "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8",
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA"
+  },
+  {
+    "id": "IMPACTWrestling.us",
+    "name": "IMPACT Wrestling",
+    "stream_urls": [
+      "https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "InsightTV.nl",
+    "name": "Insight TV",
+    "stream_urls": [
+      "https://insighttv-vizio.amagi.tv/playlist.m3u8",
+      "https://insighttv-samsungau.amagi.tv/playlist.m3u8",
+      "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8",
+      "https://insighttv-samsung-de.amagi.tv/playlist.m3u8",
+      "https://insighttv-eng-rakuten.amagi.tv/playlist.m3u8",
+      "https://insighttv-samsungindia.amagi.tv/playlist.m3u8",
+      "https://insighttv-samsung-uk.amagi.tv/playlist.m3u8",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f06bc60e236570007793f31/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f06bc60e236570007793f31&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=e7f6989c-0583-11eb-8b9f-0242ac110002&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f06bc60e236570007793f31/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://insighttv-rakuten-samsung.amagi.tv/playlist.m3u8",
+      "https://insighttv-samsung-us.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "NL"
+  },
+  {
+    "id": "InterTV.it",
+    "name": "Inter TV",
+    "stream_urls": [
+      "https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "IshushoTV.rw",
+    "name": "Ishusho TV",
+    "stream_urls": [
+      "https://tv.livebcm.com:3425/stream/play.m3u8"
+    ],
+    "language": "eng",
+    "country": "RW"
+  },
+  {
+    "id": "ITVDeportes.mx",
+    "name": "ITV Deportes",
+    "stream_urls": [
+      "https://thm-it-roku.otteravision.com/thm/it/it.m3u8"
+    ],
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "id": "JOJSport.sk",
+    "name": "JOJ Sport",
+    "stream_urls": [
+      "https://st01-2.iptv.joj.sk/110-tv-pc.m3u8"
+    ],
+    "language": "slk",
+    "country": "SK"
+  },
+  {
+    "id": "JordanSport.jo",
+    "name": "Jordan Sport",
+    "stream_urls": [
+      "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8"
+    ],
+    "language": "ara",
+    "country": "JO",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "K19.at",
+    "name": "K19",
+    "stream_urls": [
+      "https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8"
+    ],
+    "language": "deu",
+    "country": "AT"
+  },
+  {
+    "id": "KSASports1.sa",
+    "name": "KSA Sports 1",
+    "stream_urls": [
+      "https://edge.taghtia.com/sa/9.m3u8"
+    ],
+    "language": "ara",
+    "country": "SA"
+  },
+  {
+    "id": "KSASports2.sa",
+    "name": "KSA Sports 2",
+    "stream_urls": [
+      "https://edge.taghtia.com/sa/10.m3u8"
+    ],
+    "language": "ara",
+    "country": "SA"
+  },
+  {
+    "id": "KSASports3.sa",
+    "name": "KSA Sports 3",
+    "stream_urls": [
+      "https://edge.taghtia.com/sa/16.m3u8"
+    ],
+    "language": "ara",
+    "country": "SA"
+  },
+  {
+    "id": "KTVSport.kw",
+    "name": "KTV Sport",
+    "stream_urls": [
+      "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8"
+    ],
+    "language": "eng",
+    "country": "KW"
+  },
+  {
+    "id": "KTVSportPlus.kw",
+    "name": "KTV Sport Plus",
+    "stream_urls": [
+      "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8"
+    ],
+    "language": "ara",
+    "country": "KW"
+  },
+  {
+    "id": "LacrosseTV.us",
+    "name": "Lacrosse TV",
+    "stream_urls": [
+      "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "LaRedondaTV.ec",
+    "name": "La Redonda TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCG_S--F4wcdre2-8PG9YlhA.m3u8"
+    ],
+    "language": "spa",
+    "country": "EC"
+  },
+  {
+    "id": "MadeinBOTV.it",
+    "name": "MadeinBO TV",
+    "stream_urls": [
+      "https://srvx1.selftv.video/dmchannel/live/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "MarqueeSportsNetwork.us",
+    "name": "Marquee Sports Network",
+    "stream_urls": [
+      "https://marqueelive.akamaized.net/live-pz/a/hls-itc/marquee1/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "MasCiclismoTV.cr",
+    "name": "Mas Ciclismo TV",
+    "stream_urls": [
+      "https://ssh101.bozztv.com/ssh101/masciclismo/playlist.m3u8",
+      "https://vcp8.myplaytv.com:1936/masciclismo/masciclismo/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CR"
+  },
+  {
+    "id": "MAVTV.us",
+    "name": "MAVTV",
+    "stream_urls": [
+      "https://mavtv-mavtvglobal-1-in.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "MAVTVSelect.us",
+    "name": "MAVTV Select",
+    "stream_urls": [
+      "https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "MLB.us",
+    "name": "MLB",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://lnc-mlb2.tubi.video/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "MNBSport.mn",
+    "name": "MNB Sport",
+    "stream_urls": [
+      "https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8"
+    ],
+    "language": "mon",
+    "country": "MN"
+  },
+  {
+    "id": "MNetSport.mk",
+    "name": "M-Net Sport",
+    "stream_urls": [
+      "https://giganet.mk/hls/mnet-sport.m3u8"
+    ],
+    "language": "mkd",
+    "country": "MK"
+  },
+  {
+    "id": "MonterricoTV.pe",
+    "name": "Monterrico TV",
+    "stream_urls": [
+      "https://ed3od.live.opencaster.com/jcpstream_hd720/index.m3u8",
+      "https://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8",
+      "https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8",
+      "https://ed3od.live.opencaster.com/jcpstream_mid/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "PE"
+  },
+  {
+    "id": "MoreThanSportsTV.de",
+    "name": "More Than Sports TV",
+    "stream_urls": [
+      "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "MultivisionSports.gt",
+    "name": "Multivision Sports",
+    "stream_urls": [
+      "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
+    ],
+    "language": "spa",
+    "country": "GT"
+  },
+  {
+    "id": "MUTV.uk",
+    "name": "MUTV",
+    "stream_urls": [
+      "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "NewJapanProWrestlingWorld.jp",
+    "name": "New Japan Pro Wrestling World",
+    "stream_urls": [
+      "https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8"
+    ],
+    "language": "eng",
+    "country": "JP"
+  },
+  {
+    "id": "NFLChannel.us",
+    "name": "NFL Channel",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "NHRATV.us",
+    "name": "NHRA TV",
+    "stream_urls": [
+      "https://lnc-nhra.tubi.video/nh.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "NitroCircus.us",
+    "name": "Nitro Circus",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "OmanSportsTV.om",
+    "name": "Oman Sports TV",
+    "stream_urls": [
+      "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
+    ],
+    "language": "eng",
+    "country": "OM"
+  },
+  {
+    "id": "OvacionTV.pe",
+    "name": "Ovacion TV",
+    "stream_urls": [
+      "https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "PE"
+  },
+  {
+    "id": "Pac12Insider.us",
+    "name": "Pac-12 Insider",
+    "stream_urls": [
+      "https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8",
+      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
+      "https://pac12-samsungus.amagi.tv/playlist.m3u8",
+      "https://pac12-sportstribal.amagi.tv/playlist.m3u8",
+      "https://lnc-pac12.tubi.video/playlist.m3u8",
+      "https://pac12-vizio.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PBRRidePass.us",
+    "name": "PBR RidePass",
+    "stream_urls": [
+      "https://stitcher-ipv4.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?already_redirected=true&appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=62f4"
+    ],
+    "language": "eng",
+    "country": "US",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "PersianaSports.fr",
+    "name": "Persiana Sports",
+    "stream_urls": [
+      "https://af.ayas.ir/hls2/persiana.m3u8"
+    ],
+    "language": "fas",
+    "country": "FR"
+  },
+  {
+    "id": "PGATour.us",
+    "name": "PGA Tour",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://lnc-pga.tubi.video/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlayersTV.ca",
+    "name": "Players TV",
+    "stream_urls": [
+      "https://playerstv-roku-us.amagi.tv/playlist.m3u8",
+      "https://playerstv-vizio.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA"
+  },
+  {
+    "id": "PlutoTVActionSports.us",
+    "name": "Pluto TV Action Sports",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5be1be871843b56328bc3ef1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db867744f229f0009266784&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=759&terminate=false&userId="
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVDeportes.us",
+    "name": "Pluto TV Deportes",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId="
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVExtreme.fr",
+    "name": "Pluto TV Extreme",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "PlutoTVGloryKickboxing.us",
+    "name": "Pluto TV Glory Kickboxing",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9be1be738977e2c312134/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9be1be738977e2c312134&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=f6e88030-d7c8-47c8-8fed-7e24dd0a038a&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5417a212ff9fba68282fbf5e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=736&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9be1be738977e2c312134/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVSport.it",
+    "name": "Pluto TV Sport",
+    "stream_urls": [
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "PlutoTVSports.uk",
+    "name": "Pluto TV Sports",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56340779a738201b4ccfeac9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=725&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "PokerGo.us",
+    "name": "PokerGo",
+    "stream_urls": [
+      "https://lnc-pokergo.tubi.video/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PokerTV.fr",
+    "name": "Poker TV",
+    "stream_urls": [
+      "https://hls.pokertvfa.live/hls/stream.m3u8"
+    ],
+    "language": "fas",
+    "country": "FR"
+  },
+  {
+    "id": "QazSport.kz",
+    "name": "QazSport",
+    "stream_urls": [
+      "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8"
+    ],
+    "language": "kaz",
+    "country": "KZ",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "RacingAmerica.us",
+    "name": "Racing America",
+    "stream_urls": [
+      "https://lnc-racing-america.tubi.video/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Racingcom.au",
+    "name": "Racing.com",
+    "stream_urls": [
+      "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8"
+    ],
+    "language": "eng",
+    "country": "AU"
+  },
+  {
+    "id": "RealitateaSportiva.ro",
+    "name": "Realitatea Sportiva",
+    "stream_urls": [
+      "https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8"
+    ],
+    "language": "ron",
+    "country": "RO"
+  },
+  {
+    "id": "RealMadridTV.es",
+    "name": "Real Madrid TV",
+    "stream_urls": [
+      "https://lnc-real-madrid.tubi.video/playlist.m3u8",
+      "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545",
+      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "RedBullTV.at",
+    "name": "Red Bull TV",
+    "stream_urls": [
+      "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "AT"
+  },
+  {
+    "id": "RTASport.af",
+    "name": "RTA Sport",
+    "stream_urls": [
+      "https://hls.rtasport.live/hls/stream.m3u8"
+    ],
+    "language": "pus",
+    "country": "AF"
+  },
+  {
+    "id": "SanMarinoRTVSport.sm",
+    "name": "San Marino RTV Sport",
+    "stream_urls": [
+      "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8"
+    ],
+    "language": "ita",
+    "country": "SM"
+  },
+  {
+    "id": "SEOTV5Deportes.bo",
+    "name": "SEO TV 5 Deportes",
+    "stream_urls": [
+      "https://live.seo.tv.bo/live/SEO-5.m3u8"
+    ],
+    "language": "spa",
+    "country": "BO"
+  },
+  {
+    "id": "SharjahSports.ae",
+    "name": "Sharjah Sports",
+    "stream_urls": [
+      "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "id": "SKITV.ch",
+    "name": "SKI TV",
+    "stream_urls": [
+      "https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8",
+      "https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8",
+      "https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8"
+    ],
+    "language": "eng",
+    "country": "CH"
+  },
+  {
+    "id": "SkyRacing1.au",
+    "name": "Sky Racing 1",
+    "stream_urls": [
+      "https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "AU",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "SkyRacing2.au",
+    "name": "Sky Racing 2",
+    "stream_urls": [
+      "https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "AU",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "SkyThoroughbredCentral.au",
+    "name": "Sky Thoroughbred Central",
+    "stream_urls": [
+      "https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "AU",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "SonySportsTen1.in",
+    "name": "Sony Sports Ten 1",
+    "stream_urls": [
+      "https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8",
+      "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "IN"
+  },
+  {
+    "id": "SonySportsTen2.in",
+    "name": "Sony Sports Ten 2",
+    "stream_urls": [
+      "https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8",
+      "https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "IN"
+  },
+  {
+    "id": "SonySportsTen3.in",
+    "name": "Sony Sports Ten 3",
+    "stream_urls": [
+      "https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8",
+      "https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "id": "SonySportsTen4.in",
+    "name": "Sony Sports Ten 4",
+    "stream_urls": [
+      "https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8",
+      "https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8"
+    ],
+    "language": "tel",
+    "country": "IN"
+  },
+  {
+    "id": "SonySportsTen5.in",
+    "name": "Sony Sports Ten 5",
+    "stream_urls": [
+      "https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8",
+      "https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "IN"
+  },
+  {
+    "id": "SOSKanalPlus.rs",
+    "name": "SOS Kanal Plus",
+    "stream_urls": [
+      "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8"
+    ],
+    "language": "srp",
+    "country": "RS"
+  },
+  {
+    "id": "Sport.kg",
+    "name": "Sport",
+    "stream_urls": [
+      "https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8"
+    ],
+    "language": "kir",
+    "country": "KG"
+  },
+  {
+    "id": "SportenFrance.fr",
+    "name": "Sport en France",
+    "stream_urls": [
+      "https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8",
+      "https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8",
+      "https://sp1564435593.mytvchain.info/live/sp1564435593_360/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "Sportitalia.it",
+    "name": "Sportitalia",
+    "stream_urls": [
+      "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8",
+      "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8",
+      "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "Sportitalia24.it",
+    "name": "Sportitalia 24",
+    "stream_urls": [
+      "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "SportitaliaMotori.it",
+    "name": "Sportitalia Motori",
+    "stream_urls": [
+      "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "SportitaliaSolocalcio.it",
+    "name": "Sportitalia Solocalcio",
+    "stream_urls": [
+      "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8",
+      "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "SportsConnect.za",
+    "name": "Sports Connect",
+    "stream_urls": [
+      "https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "ZA"
+  },
+  {
+    "id": "SportsGrid.us",
+    "name": "SportsGrid",
+    "stream_urls": [
+      "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
+      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
+      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
+      "https://sportsgrid-vizio.amagi.tv/playlist.m3u8",
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8",
+      "https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8",
+      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "SportsNewsHighlights.us",
+    "name": "Sports News Highlights",
+    "stream_urls": [
+      "https://amg01756-newsnet-amg01756c2-klowdtv-us-1123.playouts.now.amagi.tv/playlist/amg01756-newsnetfast-sportsnewshighlightsklowdtv-klowdtvus/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "SportsTV.tr",
+    "name": "Sports TV",
+    "stream_urls": [
+      "https://live.sportstv.com.tr/hls/low/sportstv.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "SportyStuffTV.uk",
+    "name": "SportyStuff TV",
+    "stream_urls": [
+      "https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "SSC1HD.sa",
+    "name": "SSC 1 HD",
+    "stream_urls": [
+      "https://af.ayassport.ir/hls2/ssc1.m3u8"
+    ],
+    "language": "ara",
+    "country": "SA"
+  },
+  {
+    "id": "SSCActionWaleed.sa",
+    "name": "SSC Action Waleed",
+    "stream_urls": [
+      "https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8"
+    ],
+    "language": "ara",
+    "country": "SA"
+  },
+  {
+    "id": "Stadium.us",
+    "name": "Stadium",
+    "stream_urls": [
+      "https://lnc-stadium.tubi.video/master.m3u8",
+      "https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Start.ru",
+    "name": "Start",
+    "stream_urls": [
+      "https://strm.yandex.ru/kal/start/start0.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "StartTriumf.ru",
+    "name": "Start Triumf",
+    "stream_urls": [
+      "https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8",
+      "https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "Strongman.de",
+    "name": "Strongman",
+    "stream_urls": [
+      "https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "SuperTennis.it",
+    "name": "SuperTennis",
+    "stream_urls": [
+      "https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "SwerveSports.us",
+    "name": "Swerve Sports",
+    "stream_urls": [
+      "https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8",
+      "https://dai.google.com/linear/hls/event/5qa-mJF2R0iBw8S1JwF7FQ/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TDMSports.mo",
+    "name": "TDM Sports",
+    "stream_urls": [
+      "https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8"
+    ],
+    "language": "zho",
+    "country": "MO"
+  },
+  {
+    "id": "Teledeporte.es",
+    "name": "Teledeporte",
+    "stream_urls": [
+      "https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "TeletrakTV.cl",
+    "name": "Teletrak TV",
+    "stream_urls": [
+      "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "TennisChannel.us",
+    "name": "Tennis Channel",
+    "stream_urls": [
+      "https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8",
+      "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
+      "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8",
+      "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8",
+      "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TNTSports.br",
+    "name": "TNT Sports",
+    "stream_urls": [
+      "https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "TNTSports2.br",
+    "name": "TNT Sports 2",
+    "stream_urls": [
+      "https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "TNTSports3.br",
+    "name": "TNT Sports 3",
+    "stream_urls": [
+      "https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "TNTSports4.br",
+    "name": "TNT Sports 4",
+    "stream_urls": [
+      "https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "TNTSports5.br",
+    "name": "TNT Sports 5",
+    "stream_urls": [
+      "https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "TraceSportStars.fr",
+    "name": "Trace Sport Stars",
+    "stream_urls": [
+      "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
+      "https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "FR"
+  },
+  {
+    "id": "TRSport.it",
+    "name": "TR Sport",
+    "stream_urls": [
+      "https://livetr.teleromagna.it/mia/live/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "TRTSpor.tr",
+    "name": "TRT Spor",
+    "stream_urls": [
+      "https://tv-trtspor1.medya.trt.com.tr/master.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "TRTSporYildiz.tr",
+    "name": "TRT Spor Yildiz",
+    "stream_urls": [
+      "https://tv-trtspor2.medya.trt.com.tr/master.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "TurfMovil.cl",
+    "name": "Turf Movil",
+    "stream_urls": [
+      "https://janus.tvturf.cl/playlist/stream.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "TurkmenistanSport.tm",
+    "name": "Turkmenistan Sport",
+    "stream_urls": [
+      "https://alpha.tv.online.tm/hls/ch004.m3u8",
+      "https://alpha.tv.online.tm/legacyhls/ch004.m3u8"
+    ],
+    "language": "tuk",
+    "country": "TM"
+  },
+  {
+    "id": "TV2Sport1.no",
+    "name": "TV 2 Sport 1",
+    "stream_urls": [
+      "https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8"
+    ],
+    "language": "nor",
+    "country": "NO"
+  },
+  {
+    "id": "TVMax.pa",
+    "name": "TVMax",
+    "stream_urls": [
+      "https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8"
+    ],
+    "language": "spa",
+    "country": "PA"
+  },
+  {
+    "id": "TVQSports.gt",
+    "name": "TVQ Sports",
+    "stream_urls": [
+      "https://dacastmmd.mmdlive.lldns.net/dacastmmd/1b6bbade53634f5a847b953c9adfd102/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "GT"
+  },
+  {
+    "id": "TVSBoxing.us",
+    "name": "TVS Boxing",
+    "stream_urls": [
+      "https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TVSClassicSports.us",
+    "name": "TVS Classic Sports",
+    "stream_urls": [
+      "https://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TVSSports.us",
+    "name": "TVS Sports",
+    "stream_urls": [
+      "https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TVSSportsBureau.us",
+    "name": "TVS Sports Bureau",
+    "stream_urls": [
+      "https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TVSTurbo.us",
+    "name": "TVS Turbo",
+    "stream_urls": [
+      "https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TVSWomenSports.us",
+    "name": "TVS Women Sports",
+    "stream_urls": [
+      "https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "UDTV.es",
+    "name": "UDTV",
+    "stream_urls": [
+      "https://cdn318.fractalmedia.es/live319/hls/cudtv/high/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "Unbeaten.us",
+    "name": "Unbeaten",
+    "stream_urls": [
+      "https://unbeaten-tcl.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "USATODAYSPORTS.us",
+    "name": "USA TODAY SPORTS",
+    "stream_urls": [
+      "https://lnc-sportswire.tubi.video/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "VinxTV.es",
+    "name": "Vinx TV",
+    "stream_urls": [
+      "https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "W14DKD5.us",
+    "name": "W14DK-D5",
+    "stream_urls": [
+      "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "WAPADT2.pr",
+    "name": "WAPA-DT2",
+    "stream_urls": [
+      "https://live.field59.com/wapa/wapa2/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "PR"
+  },
+  {
+    "id": "WorldPokerTour.it",
+    "name": "World Poker Tour",
+    "stream_urls": [
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "WorldPokerTour.us",
+    "name": "World Poker Tour",
+    "stream_urls": [
+      "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8",
+      "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8",
+      "https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8",
+      "https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9b7aae738977e2c312132&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=48d01e71-b553-42a5-9205-affb7381b546&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5616f9c0ada51f8004c4b091&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=770&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d796e738977e2c31094a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=",
+      "https://world-poker-tour-samsung-ca.samsung.wurl.tv/playlist.m3u8",
+      "https://wpt-theworldpokertour-1-nl.samsung.wurl.tv/playlist.m3u8",
+      "https://wpt-theworldpokertour-1-se.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  }
+]

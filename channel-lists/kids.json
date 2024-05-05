@@ -1,0 +1,1583 @@
+[
+  {
+    "id": "13Kids.cl",
+    "name": "13 Kids",
+    "stream_urls": [
+      "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "3ABNKids.us",
+    "name": "3ABN Kids",
+    "stream_urls": [
+      "https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "9GoSydney.au",
+    "name": "9Go! Sydney",
+    "stream_urls": [
+      "https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "AU",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "ABCMESydney.au",
+    "name": "ABC ME Sydney",
+    "stream_urls": [
+      "https://c.mjh.nz/abc-me.m3u8"
+    ],
+    "language": "eng",
+    "country": "AU"
+  },
+  {
+    "id": "AfarinTV.iq",
+    "name": "Afarin TV",
+    "stream_urls": [
+      "https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8"
+    ],
+    "language": "kur",
+    "country": "IQ"
+  },
+  {
+    "id": "AghapyKids.us",
+    "name": "Aghapy Kids",
+    "stream_urls": [
+      "https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "US"
+  },
+  {
+    "id": "AtfalMawahebTV.sa",
+    "name": "Atfal & Mawaheb TV",
+    "stream_urls": [
+      "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+      "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "SA"
+  },
+  {
+    "id": "BabyFirst.us",
+    "name": "BabyFirst",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+      "https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "BabySharkTV.us",
+    "name": "Baby Shark TV",
+    "stream_urls": [
+      "https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "BabyTime.ru",
+    "name": "Baby Time",
+    "stream_urls": [
+      "https://strm.yandex.ru/kal/baby_time/baby_time0.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "Balapan.kz",
+    "name": "Balapan",
+    "stream_urls": [
+      "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8"
+    ],
+    "language": "kaz",
+    "country": "KZ"
+  },
+  {
+    "id": "Balastan.kg",
+    "name": "Balastan",
+    "stream_urls": [
+      "https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8"
+    ],
+    "language": "kir",
+    "country": "KG"
+  },
+  {
+    "id": "BatteryPopXUMO.us",
+    "name": "Battery Pop XUMO",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "BeybladeBurst.de",
+    "name": "Beyblade Burst",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b551ddcd25500072c4dad&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=a38b88ed-0712-11eb-8b9f-0242ac110002&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "BlazeunddieMonsterMaschinenNick.de",
+    "name": "Blaze und die Monster-Maschinen Nick",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b60419becf60008c841fd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b60419becf60008c841fd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=ebc579c0-0712-11eb-97af-0242ac110002&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b60419becf60008c841fd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "BluesClues.de",
+    "name": "Blue's Clues",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b564ff59d130007363823/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b564ff59d130007363823&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=29e99f3f-0713-11eb-a59f-0242ac110002&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b564ff59d130007363823/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "Bobleponge.fr",
+    "name": "Bob l'eponge",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609a33d06972da0007748ecf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc9fd0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=195dd54b-932b-4f28-be70-7e736585335a",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffc8c345822750007e167de/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffc8c345822750007e167de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "Boing.es",
+    "name": "Boing",
+    "stream_urls": [
+      "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "Boing.it",
+    "name": "Boing",
+    "stream_urls": [
+      "https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kb)/index.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "Bolajon.uz",
+    "name": "Bolajon",
+    "stream_urls": [
+      "https://st1-allplay-uz.b-cdn.net/3/iptv-58/index.m3u8"
+    ],
+    "language": "uzb",
+    "country": "UZ"
+  },
+  {
+    "id": "BratTV.us",
+    "name": "Brat TV",
+    "stream_urls": [
+      "https://brat-rakuten.amagi.tv/playlist.m3u8",
+      "https://brat-samsung-us.amagi.tv/playlist.m3u8",
+      "https://amg00350-amg00350c1-klowdtv-us-2536.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-klowdtvus/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CampSpoopy.us",
+    "name": "Camp Spoopy",
+    "stream_urls": [
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=269"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Carousel.ru",
+    "name": "Carousel",
+    "stream_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/11.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "Cartoonito.it",
+    "name": "Cartoonito",
+    "stream_urls": [
+      "https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "Cartoonito.mx",
+    "name": "Cartoonito",
+    "stream_urls": [
+      "https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8"
+    ],
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "id": "CartoonitoLive.br",
+    "name": "Cartoonito Live",
+    "stream_urls": [
+      "https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "CartoonitoLiveLatinAmerica.br",
+    "name": "Cartoonito Live Latin America",
+    "stream_urls": [
+      "https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "BR"
+  },
+  {
+    "id": "CartoonNetwork.mx",
+    "name": "Cartoon Network",
+    "stream_urls": [
+      "https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8"
+    ],
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "id": "CartoonNetworkAsia.sg",
+    "name": "Cartoon Network Asia",
+    "stream_urls": [
+      "https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8"
+    ],
+    "language": "eng",
+    "country": "SG"
+  },
+  {
+    "id": "CartoonNetworkLive.br",
+    "name": "Cartoon Network Live",
+    "stream_urls": [
+      "https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "CartoonNetworkLive2.br",
+    "name": "Cartoon Network Live 2",
+    "stream_urls": [
+      "https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "CartoonNetworkLiveLatinAmerica.br",
+    "name": "Cartoon Network Live Latin America",
+    "stream_urls": [
+      "https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "BR"
+  },
+  {
+    "id": "CartoonNetworkLiveLatinAmerica2.br",
+    "name": "Cartoon Network Live Latin America 2",
+    "stream_urls": [
+      "https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "BR"
+  },
+  {
+    "id": "CBBC.uk",
+    "name": "CBBC",
+    "stream_urls": [
+      "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+      "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CBeebies.uk",
+    "name": "CBeebies",
+    "stream_urls": [
+      "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
+      "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
+      "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "ChinolaTV.do",
+    "name": "Chinola TV",
+    "stream_urls": [
+      "https://streaming.ath.cx:1936/chinolatv/chinolatv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "DO"
+  },
+  {
+    "id": "Clan.es",
+    "name": "Clan",
+    "stream_urls": [
+      "https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8",
+      "https://ztnr.rtve.es/ztnr/5466990.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "ClanInternacional.es",
+    "name": "Clan Internacional",
+    "stream_urls": [
+      "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "Cocoro.us",
+    "name": "Cocoro",
+    "stream_urls": [
+      "https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Cula4.ie",
+    "name": "Cula4",
+    "stream_urls": [
+      "https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8"
+    ],
+    "language": "gle",
+    "country": "IE"
+  },
+  {
+    "id": "DiosTeVeKids.hn",
+    "name": "Dios Te Ve Kids",
+    "stream_urls": [
+      "https://s.emisoras.tv:8081/diostevekids/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "HN"
+  },
+  {
+    "id": "DiscoveryKidsLive.br",
+    "name": "Discovery Kids Live",
+    "stream_urls": [
+      "https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "DiscoveryKidsLiveLatinAmerica.br",
+    "name": "Discovery Kids Live Latin America",
+    "stream_urls": [
+      "https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "BR"
+  },
+  {
+    "id": "DisneyChannel.es",
+    "name": "Disney Channel",
+    "stream_urls": [
+      "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "DoraTV.us",
+    "name": "Dora TV",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e43c344b54fe800093552f4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e43c344b54fe800093552f4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c28ebf75-0713-11eb-97af-0242ac110002&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e43c344b54fe800093552f4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fb6c84dd37df3b4290c5&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=985&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "deu",
+    "country": "US"
+  },
+  {
+    "id": "ducktv.sk",
+    "name": "ducktv",
+    "stream_urls": [
+      "https://tvup-fast-ottera-mmm-ducktv.secure2.footprint.net/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/DuckTVHDSAMS/DuckTVHDSAMS_720p_AAC.stream/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "SK"
+  },
+  {
+    "id": "EBCYOYO.tw",
+    "name": "EBC YOYO",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8"
+    ],
+    "language": "yue",
+    "country": "TW"
+  },
+  {
+    "id": "EBSKids.kr",
+    "name": "EBS Kids",
+    "stream_urls": [
+      "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8"
+    ],
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "id": "EmmaeinfachmagischNick.de",
+    "name": "Emma einfach magisch! Nick",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4796368174910007756454/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f4796368174910007756454&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=db62fa8b-15bd-11eb-bde1-0242ac110002&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4796368174910007756454/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "Eureka.co",
+    "name": "Eureka",
+    "stream_urls": [
+      "https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CO"
+  },
+  {
+    "id": "Gulli.fr",
+    "name": "Gulli",
+    "stream_urls": [
+      "https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "GulliBilArabi.fr",
+    "name": "Gulli Bil Arabi",
+    "stream_urls": [
+      "https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8"
+    ],
+    "language": "ara",
+    "country": "FR"
+  },
+  {
+    "id": "HalaLondonTVCartoon.uk",
+    "name": "Hala London TV Cartoon",
+    "stream_urls": [
+      "https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Cartoon/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "UK"
+  },
+  {
+    "id": "HappyKids.us",
+    "name": "HappyKids",
+    "stream_urls": [
+      "https://happykids-vizio.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "HappyKidsJunior.us",
+    "name": "HappyKids Junior",
+    "stream_urls": [
+      "https://happykidsjunior-vizio.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "iCarly.de",
+    "name": "iCarly",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b580a233dc90007f0cb9d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b580a233dc90007f0cb9d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=4c53d6ac-a6d2-4c2c-9403-6101f770b205&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b580a233dc90007f0cb9d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "iCarly.fr",
+    "name": "iCarly",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecc7aa44d9c00081fca29/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecc7aa44d9c00081fca29/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ed9ba24f6a00074a9b91/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8a4570-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0432d921-f53e-4dfe-8afd-2d0b3fb750f3"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "iCarlyPlus.de",
+    "name": "iCarly Plus",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3d2cb9f5b291000773807a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f3d2cb9f5b291000773807a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=4c128fa6-7ec2-4a50-a81b-37f9e8c1e48f&terminate=false&userId="
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "Jojko.sk",
+    "name": "Jojko",
+    "stream_urls": [
+      "https://st01-2.iptv.joj.sk/104-tv-pc.m3u8"
+    ],
+    "language": "slk",
+    "country": "SK"
+  },
+  {
+    "id": "kabillion.us",
+    "name": "kabillion",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "KartoonChannel.us",
+    "name": "Kartoon Channel!",
+    "stream_urls": [
+      "https://lnc-kartoon.tubi.video/kc_co.m3u8",
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "KetnetJunior.be",
+    "name": "Ketnet Junior",
+    "stream_urls": [
+      "https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8",
+      "https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.mpd"
+    ],
+    "language": "nld",
+    "country": "BE"
+  },
+  {
+    "id": "KidoodleTV.ca",
+    "name": "Kidoodle.TV",
+    "stream_urls": [
+      "https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA"
+  },
+  {
+    "id": "KidsClick.us",
+    "name": "KidsClick",
+    "stream_urls": [
+      "https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8"
+    ],
+    "language": "eng",
+    "country": "US",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "KidsFlix.us",
+    "name": "KidsFlix",
+    "stream_urls": [
+      "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Kidz.es",
+    "name": "Kidz",
+    "stream_urls": [
+      "https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "KiKA.de",
+    "name": "KiKA",
+    "stream_urls": [
+      "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8",
+      "https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "KoogiTV.eg",
+    "name": "Koogi TV",
+    "stream_urls": [
+      "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "EG"
+  },
+  {
+    "id": "KuriakosKids.pt",
+    "name": "Kuriakos Kids",
+    "stream_urls": [
+      "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "PT"
+  },
+  {
+    "id": "LegoChannel.us",
+    "name": "Lego Channel",
+    "stream_urls": [
+      "https://legochannel-vizio.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Leva.ru",
+    "name": "Leva",
+    "stream_urls": [
+      "https://strm.yandex.ru/kal/leva/leva0.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "LogosTVKids.es",
+    "name": "Logos TV Kids",
+    "stream_urls": [
+      "https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "Majid.ae",
+    "name": "Majid",
+    "stream_urls": [
+      "https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8"
+    ],
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "id": "MBC3.ae",
+    "name": "MBC 3",
+    "stream_urls": [
+      "https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8",
+      "https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8"
+    ],
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "id": "MBC3USA.us",
+    "name": "MBC 3 USA",
+    "stream_urls": [
+      "https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8"
+    ],
+    "language": "ara",
+    "country": "US"
+  },
+  {
+    "id": "MCN6MusicChannel.us",
+    "name": "MCN6 Music Channel",
+    "stream_urls": [
+      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "MNetKids.mk",
+    "name": "M-Net Kids",
+    "stream_urls": [
+      "https://giganet.mk/hls/mnet-kids.m3u8"
+    ],
+    "language": "mkd",
+    "country": "MK"
+  },
+  {
+    "id": "MondoKids.it",
+    "name": "Mondo Kids",
+    "stream_urls": [
+      "https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "MoonbugKids.uk",
+    "name": "Moonbug Kids",
+    "stream_urls": [
+      "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "MultHD.ru",
+    "name": "Mult HD",
+    "stream_urls": [
+      "https://woobl.ru/hls987/Mult_hd.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "Multilandia.ru",
+    "name": "Multilandia",
+    "stream_urls": [
+      "https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "Multimania.lv",
+    "name": "Multimania",
+    "stream_urls": [
+      "https://void.greenhosting.ru/Multimania_Mpeg4/index.m3u8"
+    ],
+    "language": "rus",
+    "country": "LV"
+  },
+  {
+    "id": "Multimania.ru",
+    "name": "Multimania",
+    "stream_urls": [
+      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "Multimuzyka.ru",
+    "name": "Mult i muzyka",
+    "stream_urls": [
+      "https://woobl.ru/hls987/Multimuzyka.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "NCMEducationalKidsChannel.us",
+    "name": "NCM Educational & Kids Channel",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_005/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "NewKidTV.us",
+    "name": "New Kid TV",
+    "stream_urls": [
+      "https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "NickClasico.us",
+    "name": "Nick Clasico",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "NickClassico.br",
+    "name": "Nick Classico",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId="
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "Nickelodeon.de",
+    "name": "Nickelodeon",
+    "stream_urls": [
+      "https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "NickelodeonSonic.in",
+    "name": "Nickelodeon Sonic",
+    "stream_urls": [
+      "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "IN"
+  },
+  {
+    "id": "NickHDPlus.in",
+    "name": "Nick HD+",
+    "stream_urls": [
+      "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "IN"
+  },
+  {
+    "id": "NickJr.in",
+    "name": "Nick Jr.",
+    "stream_urls": [
+      "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "IN"
+  },
+  {
+    "id": "NickJrClub.br",
+    "name": "Nick Jr. Club",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "NickJrenEspanol.us",
+    "name": "Nick Jr. en Espanol",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId="
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "NickJrPlutoTV.us",
+    "name": "Nick Jr. Pluto TV",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede45451dce190007ef9ff2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ede45451dce190007ef9ff2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=d1d4cf70-0714-11eb-a59f-0242ac110002&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ede45451dce190007ef9ff2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://dai.google.com/linear/hls/event/_Ath2237RR2QfYlKfSa9hQ/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "NickPlutoTV.us",
+    "name": "Nick Pluto TV",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ede448d3d50590007a4419e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=fbbb3638-0714-11eb-aeab-0242ac110002&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3d2b57d6c60800074cb305/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f3d2b57d6c60800074cb305&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=19a8ba6e-9713-4df0-83d9-93dd72c984f0&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ede448d3d50590007a4419e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "NicktoonsCIS.ru",
+    "name": "Nicktoons CIS",
+    "stream_urls": [
+      "https://stream01.vnet.am/Boomerang/mono.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "Pakapaka.ar",
+    "name": "Pakapaka",
+    "stream_urls": [
+      "https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "PBSKidsAlaska.us",
+    "name": "PBS Kids Alaska",
+    "stream_urls": [
+      "https://livestream.pbskids.org/out/v1/2963202df0c142c69b5254a546473308/akst.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PBSKidsEasternCentral.us",
+    "name": "PBS Kids Eastern/Central",
+    "stream_urls": [
+      "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PBSKidsHawaii.us",
+    "name": "PBS Kids Hawaii",
+    "stream_urls": [
+      "https://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PBSKidsMountain.us",
+    "name": "PBS Kids Mountain",
+    "stream_urls": [
+      "https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PBSKidsPacific.us",
+    "name": "PBS Kids Pacific",
+    "stream_urls": [
+      "https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Pingviin.ee",
+    "name": "Pingviin",
+    "stream_urls": [
+      "https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8"
+    ],
+    "language": "est",
+    "country": "EE"
+  },
+  {
+    "id": "Pingviins.lv",
+    "name": "Pingviins",
+    "stream_urls": [
+      "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
+    ],
+    "language": "lav",
+    "country": "LV"
+  },
+  {
+    "id": "PlanetaJuniorTV.es",
+    "name": "Planeta Junior TV",
+    "stream_urls": [
+      "https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "PlanetaTVKids.cl",
+    "name": "PlanetaTV Kids",
+    "stream_urls": [
+      "https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "PlutoTVAnimakids.es",
+    "name": "Pluto TV Animakids",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aabee6f4a2c00076a322c&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=905&terminate=false&userId="
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "PlutoTVBobEsponja.us",
+    "name": "Pluto TV Bob Esponja",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVBubbleGuppies.us",
+    "name": "Pluto TV Bubble Guppies",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b5a4bb7da5c0007e5c9e9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b5a4bb7da5c0007e5c9e9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5c631817-0713-11eb-9df2-0242ac110002&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b5a4bb7da5c0007e5c9e9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "deu",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVJunior.fr",
+    "name": "Pluto TV Junior",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "PlutoTVKids.es",
+    "name": "Pluto TV Kids",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9b648e738977e2c312131&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=30292edb-0714-11eb-97af-0242ac110002&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=51c75f7bb6f26ba1cd00002f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=989&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d54be738977e2c310940/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b648e738977e2c312131/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aab1d29b39600073e243f&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=910&terminate=false&userId="
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "PlutoTVKidsAnimation.fr",
+    "name": "Pluto TV Kids Animation",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "PlutoTVKidsAnimation.us",
+    "name": "Pluto TV Kids Animation",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0ad56edc89300090d2ebb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=976&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVKidsCollection.us",
+    "name": "Pluto TV Kids Collection",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f92b625c1ffbc0007e60c37/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
+    ],
+    "language": "fra",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVKidsSeries.fr",
+    "name": "Pluto TV Kids Series",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ebe299d30c0007b1f12a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c89d040-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f06f039-4f3e-499b-a415-5cf7148a64d7",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "PlutoTVRetroToons.us",
+    "name": "Pluto TV Retro Toons",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1c669094e0e80009b22ab8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e1c669094e0e80009b22ab8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=886c7aee-0585-11eb-8b9f-0242ac110002&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1c669094e0e80009b22ab8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e1c669094e0e80009b22ab8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=a8542c9b-0714-11eb-a18c-0242ac110002&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1c669094e0e80009b22ab8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVRugrats.us",
+    "name": "Pluto TV Rugrats",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVRugratsCrecidos.us",
+    "name": "Pluto TV Rugrats Crecidos",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId="
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVSamCat.us",
+    "name": "Pluto TV Sam & Cat",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b5ba20af628000707cee3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVSpongeBobSchwammkopf.de",
+    "name": "Pluto TV SpongeBob Schwammkopf",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d00e8adaab96b5635b2a005&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=715c465f-0715-11eb-a18c-0242ac110002&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d00e8adaab96b5635b2a005&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=248&terminate=false&userId="
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "PlutoTVTeen.us",
+    "name": "Pluto TV Teen",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f0d668b872e4400073acc68/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f0d668b872e4400073acc68&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=9c22837c-0715-11eb-9b92-0242ac110002&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b872e4400073acc68/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVTeenStars.es",
+    "name": "Pluto TV Teen Stars",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "PlutoTVToonsClasico.es",
+    "name": "Pluto TV Toons Clasico",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "PlutoTVTween.us",
+    "name": "Pluto TV Tween",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0ae5af8797b00095c0794&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=991&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "pocketwatch.us",
+    "name": "pocket.watch",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8",
+      "https://pocketwatch-vizio.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PokemonKidsTVEnglish.jp",
+    "name": "Pokemon Kids TV English",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8"
+    ],
+    "language": "eng",
+    "country": "JP"
+  },
+  {
+    "id": "PokemonKidsTVJapanese.jp",
+    "name": "Pokemon Kids TV Japanese",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8"
+    ],
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "id": "RadostMoya.ru",
+    "name": "Radost Moya",
+    "stream_urls": [
+      "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "RaiYoyo.it",
+    "name": "Rai Yoyo",
+    "stream_urls": [
+      "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899"
+    ],
+    "language": "ita",
+    "country": "IT",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "RyanandFriends.us",
+    "name": "Ryan and Friends",
+    "stream_urls": [
+      "https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8",
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Sat7Kids.cy",
+    "name": "Sat 7 Kids",
+    "stream_urls": [
+      "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8"
+    ],
+    "language": "ara",
+    "country": "CY"
+  },
+  {
+    "id": "SEOTV2Kids.bo",
+    "name": "SEO TV 2 Kids",
+    "stream_urls": [
+      "https://live.seo.tv.bo/live/SEO-2.m3u8"
+    ],
+    "language": "spa",
+    "country": "BO"
+  },
+  {
+    "id": "SkwadPlay.us",
+    "name": "Skwad Play",
+    "stream_urls": [
+      "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "SpacetoonArabic.ae",
+    "name": "Spacetoon Arabic",
+    "stream_urls": [
+      "https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8",
+      "https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "id": "SuperBrothersandSisters.it",
+    "name": "Super! Brothers and Sisters",
+    "stream_urls": [
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925ea79541940007d20881/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "SuperEroi.it",
+    "name": "Super! Eroi",
+    "stream_urls": [
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f5ab128c2b00070ebd51/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "SuperiCarly.it",
+    "name": "Super! iCarly",
+    "stream_urls": [
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609401db8cf51c00084b592e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "SuperKaosTV.ar",
+    "name": "Super Kaos TV",
+    "stream_urls": [
+      "https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "SuperPop.it",
+    "name": "Super! Pop",
+    "stream_urls": [
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "SuperSimpleSongs.us",
+    "name": "Super Simple Songs",
+    "stream_urls": [
+      "https://app.viloud.tv/hls/channel/fb6891b829df2ea6dd6968b506a8c393.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "SuperSpongeBob.it",
+    "name": "Super! SpongeBob",
+    "stream_urls": [
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd4c9e5b49e00079bfed9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "SuperStar.it",
+    "name": "Super! Star",
+    "stream_urls": [
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "SuperToons.bg",
+    "name": "Super Toons",
+    "stream_urls": [
+      "https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8",
+      "https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "bul",
+    "country": "BG"
+  },
+  {
+    "id": "TahaTV.lb",
+    "name": "Taha TV",
+    "stream_urls": [
+      "https://media2.livaat.com/TAHA-TV/index.m3u8",
+      "https://media2.livaat.com/TAHA-TV/index.fmp4.m3u8"
+    ],
+    "language": "ara",
+    "country": "LB"
+  },
+  {
+    "id": "Tamyr.ru",
+    "name": "Tamyr",
+    "stream_urls": [
+      "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
+    ],
+    "language": "bak",
+    "country": "RU"
+  },
+  {
+    "id": "TeenNick.de",
+    "name": "TeenNick",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b872e4400073acc68/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "Teletubbies.uk",
+    "name": "Teletubbies",
+    "stream_urls": [
+      "https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8",
+      "https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "TiJi.fr",
+    "name": "TiJi",
+    "stream_urls": [
+      "https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8",
+      "https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "TNTKidsTV.ba",
+    "name": "TNT Kids TV",
+    "stream_urls": [
+      "https://restreamer1.tnt.ba/hls/tntkids.m3u8"
+    ],
+    "language": "bos",
+    "country": "BA"
+  },
+  {
+    "id": "ToonGoggles.us",
+    "name": "ToonGoggles",
+    "stream_urls": [
+      "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37",
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8",
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=771"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TotallyTurtles.us",
+    "name": "Totally Turtles",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d6792bd6be2998ad0ccce30&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=ca4dc680-0715-11eb-aeab-0242ac110002&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d0c16d686454ead733d08f8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=983&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TRTCocuk.tr",
+    "name": "TRT Cocuk",
+    "stream_urls": [
+      "https://tv-trtcocuk.live.trt.com.tr/master.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "id": "TVArberia3Femije.xk",
+    "name": "TV Arberia 3 Femije",
+    "stream_urls": [
+      "https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8"
+    ],
+    "language": "sqi",
+    "country": "XK"
+  },
+  {
+    "id": "TVBahoriston.tj",
+    "name": "TV Bahoriston",
+    "stream_urls": [
+      "https://live.teleradiocom.tj/3/3m.m3u8"
+    ],
+    "language": "tgk",
+    "country": "TJ"
+  },
+  {
+    "id": "TVGCativos.es",
+    "name": "TVG Cativos",
+    "stream_urls": [
+      "https://xabarintv-r2-crtvg.flumotion.com/playlist.m3u8"
+    ],
+    "language": "glg",
+    "country": "ES"
+  },
+  {
+    "id": "TVGInfantil.es",
+    "name": "TVG Infantil",
+    "stream_urls": [
+      "https://infantil-crtvg.flumotion.com/playlist.m3u8"
+    ],
+    "language": "glg",
+    "country": "ES"
+  },
+  {
+    "id": "TVGMocinos.es",
+    "name": "TVG Mocinos",
+    "stream_urls": [
+      "https://xabarintv-r3-crtvg.flumotion.com/playlist.m3u8"
+    ],
+    "language": "glg",
+    "country": "ES"
+  },
+  {
+    "id": "TVGPequerrechos.es",
+    "name": "TVG Pequerrechos",
+    "stream_urls": [
+      "https://xabarintv-r1-crtvg.flumotion.com/playlist.m3u8"
+    ],
+    "language": "glg",
+    "country": "ES"
+  },
+  {
+    "id": "TVSHiTops.us",
+    "name": "TVS Hi Tops",
+    "stream_urls": [
+      "https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TVSPinballNetwork.us",
+    "name": "TVS Pinball Network",
+    "stream_urls": [
+      "https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Vgostyakhuskazki.ru",
+    "name": "V gostyakh u skazki",
+    "stream_urls": [
+      "https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "XtremaCartoons.ar",
+    "name": "Xtrema Cartoons",
+    "stream_urls": [
+      "https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "ZarokTV.iq",
+    "name": "Zarok TV",
+    "stream_urls": [
+      "https://zindisorani.zaroktv.com.tr/hls/stream.m3u8"
+    ],
+    "language": "kur",
+    "country": "IQ"
+  },
+  {
+    "id": "ZhejiangChildrensChannel.cn",
+    "name": "Zhejiang Children's Channel",
+    "stream_urls": [
+      "https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
+      "https://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8"
+    ],
+    "language": "zho",
+    "country": "CN"
+  },
+  {
+    "id": "ZooMoo.sg",
+    "name": "ZooMoo",
+    "stream_urls": [
+      "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+      "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "SG"
+  }
+]

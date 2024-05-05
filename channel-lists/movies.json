@@ -1,0 +1,2170 @@
+[
+  {
+    "id": "24HourFreeMovies.us",
+    "name": "24 Hour Free Movies",
+    "stream_urls": [
+      "https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "34100TV.gr",
+    "name": "34100 TV",
+    "stream_urls": [
+      "https://s1.cystream.net/live/34100/playlist.m3u8"
+    ],
+    "language": "ell",
+    "country": "GR",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "70sCinema.us",
+    "name": "70s Cinema",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "80sRewind.us",
+    "name": "80s Rewind",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca525b650be2571e3943c63&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=95&terminate=false&userId="
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "90sThrowback.us",
+    "name": "90s Throwback",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "ABNBibleMoviesChannel.us",
+    "name": "ABN Bible Movies Channel",
+    "stream_urls": [
+      "https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "AfghanNobelMovies.ca",
+    "name": "Afghan Nobel Movies",
+    "stream_urls": [
+      "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8"
+    ],
+    "language": "prs",
+    "country": "CA"
+  },
+  {
+    "id": "AfriwoodBlockbuster.za",
+    "name": "Afriwood Blockbuster",
+    "stream_urls": [
+      "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "ZA"
+  },
+  {
+    "id": "AlfaDramas.gr",
+    "name": "Alfa Dramas",
+    "stream_urls": [
+      "https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8"
+    ],
+    "language": "ell",
+    "country": "GR"
+  },
+  {
+    "id": "AlternaTV.ar",
+    "name": "AlternaTV",
+    "stream_urls": [
+      "https://alternatv.ar/stream/hls/live.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "AMC.es",
+    "name": "AMC",
+    "stream_urls": [
+      "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "AmediaPremium.ru",
+    "name": "Amedia Premium",
+    "stream_urls": [
+      "https://woobl.ru/hls987/Amedia_Premium_hd.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "AmericanClassics.us",
+    "name": "American Classics",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "AVAFamily.ir",
+    "name": "AVA Family",
+    "stream_urls": [
+      "https://familyhls.avatv.live/hls/stream.m3u8"
+    ],
+    "language": "fas",
+    "country": "IR"
+  },
+  {
+    "id": "AXN.cl",
+    "name": "AXN",
+    "stream_urls": [
+      "https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "AXN.sg",
+    "name": "AXN",
+    "stream_urls": [
+      "https://z88.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "SG",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "BIZCinema.uz",
+    "name": "BIZ Cinema",
+    "stream_urls": [
+      "https://st.biztv.uz/hls/c_hi/index.m3u8"
+    ],
+    "language": "uzb",
+    "country": "UZ"
+  },
+  {
+    "id": "BizzarroMovies.it",
+    "name": "Bizzarro Movies",
+    "stream_urls": [
+      "https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "BlackCinema.us",
+    "name": "Black Cinema",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=58af4c093a41ca9d4ecabe96&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=80&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?appVersion=2.0.0&deviceDNT=0&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=37.0.2049.0&serverSideAds=false&sid=6e360db0-724b-11e8-be77-bf4d1417b012"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "BloodyDisgusting.us",
+    "name": "Bloody Disgusting",
+    "stream_urls": [
+      "https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8",
+      "https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8",
+      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "BollywoodClassic.ro",
+    "name": "Bollywood Classic",
+    "stream_urls": [
+      "https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8"
+    ],
+    "language": "ron",
+    "country": "RO"
+  },
+  {
+    "id": "BollywoodHD.ro",
+    "name": "Bollywood HD",
+    "stream_urls": [
+      "https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8"
+    ],
+    "language": "hin",
+    "country": "RO"
+  },
+  {
+    "id": "BravoFarsiTV.ir",
+    "name": "Bravo Farsi TV",
+    "stream_urls": [
+      "https://bravoohls.wns.live/hls/stream.m3u8"
+    ],
+    "language": "fas",
+    "country": "IR"
+  },
+  {
+    "id": "Charge.us",
+    "name": "Charge!",
+    "stream_urls": [
+      "https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8",
+      "https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8",
+      "https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Cine34.it",
+    "name": "Cine34",
+    "stream_urls": [
+      "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "Cine5.tr",
+    "name": "Cine5",
+    "stream_urls": [
+      "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "id": "CineAr.ar",
+    "name": "Cine.Ar",
+    "stream_urls": [
+      "https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "CinemaHausa.za",
+    "name": "Cinema Hausa",
+    "stream_urls": [
+      "https://origin3.afxp.telemedia.co.za/PremiumFree/cinemahausa/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "ZA"
+  },
+  {
+    "id": "CinemaOne.ph",
+    "name": "Cinema One",
+    "stream_urls": [
+      "https://cinemaone-abscbn-ono.amagi.tv/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "PH"
+  },
+  {
+    "id": "CinemaSegreto.it",
+    "name": "Cinema Segreto",
+    "stream_urls": [
+      "https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "CineRomantico.us",
+    "name": "Cine Romantico",
+    "stream_urls": [
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=656"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CineSony.us",
+    "name": "Cine Sony",
+    "stream_urls": [
+      "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "CineSureno.us",
+    "name": "Cine Sureno",
+    "stream_urls": [
+      "https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8"
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "CineTerror.us",
+    "name": "Cine Terror",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d180092e97a5e107638d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=913&terminate=false&userId="
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "Cinevault80s.us",
+    "name": "Cinevault 80s",
+    "stream_urls": [
+      "https://lnc-cinevault-80s.tubi.video/playlist.m3u8",
+      "https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "ClassiqueTV.br",
+    "name": "Classique TV",
+    "stream_urls": [
+      "https://stmv1.srvif.com/classique/classique/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "ClassiqueTV2.br",
+    "name": "Classique TV 2",
+    "stream_urls": [
+      "https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "ClassiqueTVWestern.br",
+    "name": "Classique TV Western",
+    "stream_urls": [
+      "https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "ColorsCineplexBollywood.in",
+    "name": "Colors Cineplex Bollywood",
+    "stream_urls": [
+      "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "id": "ColorsCineplexSuperhits.in",
+    "name": "Colors Cineplex Superhits",
+    "stream_urls": [
+      "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "id": "ColorsKannadaCinema.in",
+    "name": "Colors Kannada Cinema",
+    "stream_urls": [
+      "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_Cinema_voot_MOB/Fallback/index.m3u8"
+    ],
+    "language": "kan",
+    "country": "IN"
+  },
+  {
+    "id": "Crackle.us",
+    "name": "Crackle",
+    "stream_urls": [
+      "https://crackle-xumo.amagi.tv/playlist.m3u8",
+      "https://crackle-plex.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CSFilm.cz",
+    "name": "CS Film",
+    "stream_urls": [
+      "https://st01-2.iptv.joj.sk/106-tv-pc.m3u8"
+    ],
+    "language": "ces",
+    "country": "CZ"
+  },
+  {
+    "id": "DamacPersian.ae",
+    "name": "Damac Persian",
+    "stream_urls": [
+      "https://damac-tv.icdndhcp.com/hls/stream.m3u8"
+    ],
+    "language": "fas",
+    "country": "AE"
+  },
+  {
+    "id": "DePeliculaLatinAmerica.mx",
+    "name": "De Pelicula Latin America",
+    "stream_urls": [
+      "https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "id": "DePeliculaPlus.mx",
+    "name": "De Pelicula Plus",
+    "stream_urls": [
+      "https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "id": "DiscoverFilm.uk",
+    "name": "Discover Film",
+    "stream_urls": [
+      "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "Domkino.ru",
+    "name": "Dom kino",
+    "stream_urls": [
+      "https://stream01.vnet.am/DomKino/mono.m3u8",
+      "https://woobl.ru/hls987/Dom_kino.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "DomkinoPremium.ru",
+    "name": "Dom kino Premium",
+    "stream_urls": [
+      "https://woobl.ru/hls987/Dom_kino_premium_hd.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "DramaLife.us",
+    "name": "Drama Life",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "DUST.us",
+    "name": "DUST",
+    "stream_urls": [
+      "https://lnc-dust.tubi.video/playlist.m3u8",
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "EBCForeignMovie.tw",
+    "name": "EBC Foreign Movie",
+    "stream_urls": [
+      "https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8"
+    ],
+    "language": "zho",
+    "country": "TW"
+  },
+  {
+    "id": "EBCMovie.tw",
+    "name": "EBC Movie",
+    "stream_urls": [
+      "https://ctrl.laotv.la/live/DongsenMovie/index.m3u8"
+    ],
+    "language": "zho",
+    "country": "TW"
+  },
+  {
+    "id": "EBSCinema.us",
+    "name": "EBS Cinema",
+    "stream_urls": [
+      "https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8"
+    ],
+    "language": "amh",
+    "country": "US"
+  },
+  {
+    "id": "EvaRetro.cl",
+    "name": "Eva Retro",
+    "stream_urls": [
+      "https://stmv2.zcasthn.com.br/evaretro/evaretro/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "Filmeraa.in",
+    "name": "Filmeraa",
+    "stream_urls": [
+      "https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "id": "FilmesSuspense.br",
+    "name": "Filmes Suspense",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "Filmex.mx",
+    "name": "Filmex",
+    "stream_urls": [
+      "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "MX",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "FilmexClasico.mx",
+    "name": "Filmex Clasico",
+    "stream_urls": [
+      "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "MX",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "FilmHub.us",
+    "name": "Film Hub",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "FilmRiseForensicFiles.us",
+    "name": "FilmRise Forensic Files",
+    "stream_urls": [
+      "https://lnc-forensic-files.tubi.video/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "FilmRiseFreeMovies.us",
+    "name": "FilmRise Free Movies",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "FilmRiseSciFi.us",
+    "name": "FilmRise Sci-Fi",
+    "stream_urls": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d658fce8-d72e-4407-ba5b-14b823553af5/5.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "FilmRiseTrueCrime.us",
+    "name": "FilmRise True Crime",
+    "stream_urls": [
+      "https://lnc-filmrise-true-crime.tubi.video/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "FilmRiseWestern.us",
+    "name": "FilmRise Western",
+    "stream_urls": [
+      "https://lnc-filmrise-western.tubi.video/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Filmstream.nl",
+    "name": "Filmstream",
+    "stream_urls": [
+      "https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8",
+      "https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8",
+      "https://spi-filmstream-1-se.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "NL"
+  },
+  {
+    "id": "FlicksofFury.us",
+    "name": "Flicks of Fury",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=58e55b14ad8e9c364d55f717&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=112&terminate=false&userId="
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Fox.ru",
+    "name": "Fox",
+    "stream_urls": [
+      "https://stream01.vnet.am/Fox/mono.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "FreedomMovieSphere.ug",
+    "name": "Freedom Movie Sphere",
+    "stream_urls": [
+      "https://panel.freedomflixtv.org:3311/stream/play.m3u8"
+    ],
+    "language": "eng",
+    "country": "UG"
+  },
+  {
+    "id": "FX1.ir",
+    "name": "FX 1",
+    "stream_urls": [
+      "https://fxtvhls.wns.live/hls/stream.m3u8"
+    ],
+    "language": "fas",
+    "country": "IR"
+  },
+  {
+    "id": "GhostTV.br",
+    "name": "Ghost TV",
+    "stream_urls": [
+      "https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "GrandCinema.tr",
+    "name": "Grand Cinema",
+    "stream_urls": [
+      "https://gcinemahls.wns.live/hls/stream.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "id": "GravitasMovies.us",
+    "name": "Gravitas Movies",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "HalaLondonTVMovies.uk",
+    "name": "Hala London TV Movies",
+    "stream_urls": [
+      "https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Aflam/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "UK"
+  },
+  {
+    "id": "HBOAsiaHD.sg",
+    "name": "HBO Asia HD",
+    "stream_urls": [
+      "https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "SG",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "Hero.fi",
+    "name": "Hero",
+    "stream_urls": [
+      "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true"
+    ],
+    "language": "fin",
+    "country": "FI"
+  },
+  {
+    "id": "Horrify.us",
+    "name": "Horrify",
+    "stream_urls": [
+      "https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "iFilm2.ir",
+    "name": "iFilm 2",
+    "stream_urls": [
+      "https://cdnlive.presstv.ir/ifilmlive/smil:ifilm2.smil/playlist.m3u8"
+    ],
+    "language": "fas",
+    "country": "IR"
+  },
+  {
+    "id": "iFilmArabic.ir",
+    "name": "iFilm Arabic",
+    "stream_urls": [
+      "https://cdnlive.presstv.ir/ifilmlive/smil:ifilmar.smil/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "IR"
+  },
+  {
+    "id": "iFilmEnglish.ir",
+    "name": "iFilm English",
+    "stream_urls": [
+      "https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "IR"
+  },
+  {
+    "id": "iFilmPersian.ir",
+    "name": "iFilm Persian",
+    "stream_urls": [
+      "https://cdnlive.presstv.ir/ifilmlive/smil:ifilmfa.smil/playlist.m3u8"
+    ],
+    "language": "fas",
+    "country": "IR"
+  },
+  {
+    "id": "India.ru",
+    "name": "India",
+    "stream_urls": [
+      "https://stream01.vnet.am/ZeeTV/mono.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "IndywoodTV.in",
+    "name": "Indywood TV",
+    "stream_urls": [
+      "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "IN"
+  },
+  {
+    "id": "JOJCinema.sk",
+    "name": "JOJ Cinema",
+    "stream_urls": [
+      "https://st01-2.iptv.joj.sk/105-tv-pc.m3u8"
+    ],
+    "language": "slk",
+    "country": "SK"
+  },
+  {
+    "id": "KinoTV.ru",
+    "name": "Kino TV",
+    "stream_urls": [
+      "https://woobl.ru/hls987/Kino_tv.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "KuriakosCine.pt",
+    "name": "Kuriakos Cine",
+    "stream_urls": [
+      "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "PT"
+  },
+  {
+    "id": "MadeInHollywood.us",
+    "name": "Made In Hollywood",
+    "stream_urls": [
+      "https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8",
+      "https://connection3-ent-us.redbox.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "MaverickBlackCinema.us",
+    "name": "Maverick Black Cinema",
+    "stream_urls": [
+      "https://lnc-maverick-black-cinema.tubi.video/playlist.m3u8",
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "MBCPlusDrama.ae",
+    "name": "MBC+ Drama",
+    "stream_urls": [
+      "https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8"
+    ],
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "id": "MemoriasTVFilm.co",
+    "name": "Memorias TV Film",
+    "stream_urls": [
+      "https://rpn3.bozztv.com/ssh101/ssh101/memoriasfilm/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CO"
+  },
+  {
+    "id": "MetaFilmTV.ir",
+    "name": "Meta Film TV",
+    "stream_urls": [
+      "https://metafilmhls.wns.live/hls/stream.m3u8"
+    ],
+    "language": "fas",
+    "country": "IR"
+  },
+  {
+    "id": "Moovimex.mx",
+    "name": "Moovimex",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "id": "MovieBangla.bd",
+    "name": "Movie Bangla",
+    "stream_urls": [
+      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/playlist.m3u8"
+    ],
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "id": "MovieBox.mn",
+    "name": "MovieBox",
+    "stream_urls": [
+      "https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8"
+    ],
+    "language": "mon",
+    "country": "MN"
+  },
+  {
+    "id": "MovieFe.co",
+    "name": "MovieFe",
+    "stream_urls": [
+      "https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CO"
+  },
+  {
+    "id": "MovieSphere.us",
+    "name": "MovieSphere",
+    "stream_urls": [
+      "https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8",
+      "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
+      "https://moviesphere-plex.amagi.tv/playlist.m3u8",
+      "https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_lionsgate-moviesphere-roku-us/CDN/playlist.m3u8",
+      "https://moviesphere-roku.amagi.tv/playlist.m3u8",
+      "https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8",
+      "https://lnc-moviesphere.tubi.video/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Muzhskoekino.ru",
+    "name": "Muzhskoe kino",
+    "stream_urls": [
+      "https://woobl.ru/hls987/Muzhskoe_kino_hd.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "MyTimeMovieNetwork.br",
+    "name": "MyTime Movie Network",
+    "stream_urls": [
+      "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "MyTimeMovieNetwork.es",
+    "name": "MyTime Movie Network",
+    "stream_urls": [
+      "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "MyTimeMovieNetwork.mx",
+    "name": "MyTime Movie Network",
+    "stream_urls": [
+      "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "id": "MyTimeMovieNetworkEast.us",
+    "name": "MyTime Movie Network East",
+    "stream_urls": [
+      "https://mytime-roku-ingest.cinedigm.com/playlist.m3u8",
+      "https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8",
+      "https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8",
+      "https://lnc-my-time.tubi.video/playlist.m3u8",
+      "https://mytime-tcl.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "NETVToronto.ca",
+    "name": "NETV Toronto",
+    "stream_urls": [
+      "https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8"
+    ],
+    "language": "ell",
+    "country": "CA"
+  },
+  {
+    "id": "NextHD.py",
+    "name": "Next HD",
+    "stream_urls": [
+      "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8"
+    ],
+    "language": "spa",
+    "country": "PY"
+  },
+  {
+    "id": "PantallaClasicaEC.ec",
+    "name": "Pantalla Clasica EC",
+    "stream_urls": [
+      "https://rpn3.bozztv.com/ssh101/ssh101/ecuadoralmundo/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "EC"
+  },
+  {
+    "id": "ParamountMovieChannel.us",
+    "name": "Paramount Movie Channel",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cb0cae7a461406ffe3f5213&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=100&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "ParamountPlusPicks.us",
+    "name": "Paramount+ Picks",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PersianaCinema.fr",
+    "name": "Persiana Cinema",
+    "stream_urls": [
+      "https://cinehls.persiana.live/hls/stream.m3u8"
+    ],
+    "language": "fas",
+    "country": "FR"
+  },
+  {
+    "id": "PersianaFamily.fr",
+    "name": "Persiana Family",
+    "stream_urls": [
+      "https://familyhls.persiana.live/hls/stream.m3u8"
+    ],
+    "language": "fas",
+    "country": "FR"
+  },
+  {
+    "id": "PersianaHD.fr",
+    "name": "Persiana HD",
+    "stream_urls": [
+      "https://euhls.persiana.live/hls/stream.m3u8"
+    ],
+    "language": "fas",
+    "country": "FR"
+  },
+  {
+    "id": "PersianaIranian.fr",
+    "name": "Persiana Iranian",
+    "stream_urls": [
+      "https://irhls.persiana.live/hls/stream.m3u8"
+    ],
+    "language": "fas",
+    "country": "FR"
+  },
+  {
+    "id": "PersianaKorea.fr",
+    "name": "Persiana Korea",
+    "stream_urls": [
+      "https://korhls.persiana.live/hls/stream.m3u8"
+    ],
+    "language": "fas",
+    "country": "FR"
+  },
+  {
+    "id": "PersianFilm.ir",
+    "name": "Persian Film",
+    "stream_urls": [
+      "https://pfilmhls.wns.live/hls/stream.m3u8"
+    ],
+    "language": "fas",
+    "country": "IR"
+  },
+  {
+    "id": "PlanetaTV90s.cl",
+    "name": "PlanetaTV 90s",
+    "stream_urls": [
+      "https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "PlanetaTVMovie.cl",
+    "name": "PlanetaTV Movie",
+    "stream_urls": [
+      "https://scl.edge.grupoz.cl/movie/live/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "PlutoTVAction.us",
+    "name": "Pluto TV Action",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=561d7d484dc7c8770484914a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=54&terminate=false&userId="
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVCine.fr",
+    "name": "Pluto TV Cine",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "PlutoTVCine.us",
+    "name": "Pluto TV Cine",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=902&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVCineAccion.es",
+    "name": "Pluto TV Cine Accion",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "PlutoTVCineClasico.es",
+    "name": "Pluto TV Cine Clasico",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "PlutoTVCineDrama.br",
+    "name": "Pluto TV Cine Drama",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "PlutoTVCineEstelar.es",
+    "name": "Pluto TV Cine Estelar",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf968040ab7d8f181e6a68b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=901&terminate=false&userId="
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "PlutoTVCineFamilia.br",
+    "name": "Pluto TV Cine Familia",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "PlutoTVCinemaItaliano.it",
+    "name": "Pluto TV Cinema Italiano",
+    "stream_urls": [
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "PlutoTVCineRetro.fr",
+    "name": "Pluto TV Cine Retro",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "PlutoTVCMTWesterns.us",
+    "name": "Pluto TV CMT Westerns",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e94282d4ec87bdcbb87cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=103&terminate=false&userId="
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVCrimeDrama.us",
+    "name": "Pluto TV Crime Drama",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f31fd1b4c510e00071c3103&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=350&terminate=false&userId="
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVCrimeMovies.us",
+    "name": "Pluto TV Crime Movies",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVCultFilms.us",
+    "name": "Pluto TV Cult Films",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c665db3e6c01b72c4977bc2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=109&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c31f2f21b553c1f673fb0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVDrama.us",
+    "name": "Pluto TV Drama",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc190f7bfed110009d934c3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5dc190f7bfed110009d934c3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=a1f190ec-0582-11eb-a59f-0242ac110002&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc190f7bfed110009d934c3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddbf866b1862a0009a0648e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ddbf866b1862a0009a0648e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=3a2ed1cd-e3a3-4fa3-bdbc-94e7363ca0cf&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e92e4694c027be6ecece1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=60&terminate=false&userId="
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVDramaLife.us",
+    "name": "Pluto TV Drama Life",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f24662bebe0f0000767de32&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=332&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVEstrellasdeAccion.us",
+    "name": "Pluto TV Estrellas de Accion",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId="
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVFilm.it",
+    "name": "Pluto TV Film",
+    "stream_urls": [
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "PlutoTVFilmAzione.it",
+    "name": "Pluto TV Film Azione",
+    "stream_urls": [
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "PlutoTVFilmClassici.it",
+    "name": "Pluto TV Film Classici",
+    "stream_urls": [
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e24/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "PlutoTVFilmCommedia.it",
+    "name": "Pluto TV Film Commedia",
+    "stream_urls": [
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "PlutoTVFilmDrama.it",
+    "name": "Pluto TV Film Drama",
+    "stream_urls": [
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "PlutoTVFilmesAcao.br",
+    "name": "Pluto TV Filmes Acao",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "PlutoTVFilmRomantici.it",
+    "name": "Pluto TV Film Romantici",
+    "stream_urls": [
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "PlutoTVFilmThriller.it",
+    "name": "Pluto TV Film Thriller",
+    "stream_urls": [
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "PlutoTVHorror.us",
+    "name": "Pluto TV Horror",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=569546031a619b8f07ce6e25&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=75&terminate=false&userId=",
+      "https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=&appName=&appStoreUrl=&appVersion=2.0.0&app_name=&deviceDNT=0&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceLat=38.5783&deviceLon=-90.6666&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=37.0.2049.0&serverSideAds=false&sid=6e360db0-724b-11e8-be77-bf4d1417b012&userId="
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVMovies.de",
+    "name": "Pluto TV Movies",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c5c3b948002db3c3e0b262e&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=50&terminate=false&userId="
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "PlutoTVMovies.uk",
+    "name": "Pluto TV Movies",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ad8d3a31b95267e225e4e09&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=50&terminate=false&userId="
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "PlutoTVMovies.us",
+    "name": "Pluto TV Movies",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5c5c3b948002db3c3e0b262e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=eddfafe3-0584-11eb-82fe-0242ac110002&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVNovelasDrama.us",
+    "name": "Pluto TV Novelas Drama",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVNovelasThriller.us",
+    "name": "Pluto TV Novelas Thriller",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dc59026b9b000766f9a2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=943&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVRomance.uk",
+    "name": "Pluto TV Romance",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf321-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ebb5004-1cd6-44bb-990a-082fdcdcba6d",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc287ce3086a20009f5024c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a66795ef91fef2c7031c599&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=70&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc287ce3086a20009f5024c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5dc287ce3086a20009f5024c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=b2e82991-0585-11eb-8b9f-0242ac110002&terminate=false&userId="
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "PlutoTVSciFi.us",
+    "name": "Pluto TV Sci-Fi",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc02a44a9518600094273ac/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4fc274694c027be6ed3eea&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=151&terminate=false&userId="
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVSpotlight.us",
+    "name": "Pluto TV Spotlight",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=51&terminate=false&userId="
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVStaffPicks.us",
+    "name": "Pluto TV Staff Picks",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd061/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVTelemundoTelenovelas.us",
+    "name": "Pluto TV Telemundo Telenovelas",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId="
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVTerror.us",
+    "name": "Pluto TV Terror",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c6dc88fcd232425a6e0f06e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=76&terminate=false&userId="
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVWesterns.us",
+    "name": "Pluto TV Westerns",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8df4bc16e34700077e77d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=526&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Pro100TV.ru",
+    "name": "Pro100TV",
+    "stream_urls": [
+      "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "RaiMovie.it",
+    "name": "Rai Movie",
+    "stream_urls": [
+      "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002"
+    ],
+    "language": "ita",
+    "country": "IT",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "RakutenTVActionMovies.at",
+    "name": "Rakuten TV Action Movies",
+    "stream_urls": [
+      "https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8"
+    ],
+    "language": "deu",
+    "country": "AT"
+  },
+  {
+    "id": "RakutenTVActionMovies.de",
+    "name": "Rakuten TV Action Movies",
+    "stream_urls": [
+      "https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "RakutenTVActionMovies.es",
+    "name": "Rakuten TV Action Movies",
+    "stream_urls": [
+      "https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8",
+      "https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "RakutenTVActionMovies.fi",
+    "name": "Rakuten TV Action Movies",
+    "stream_urls": [
+      "https://rakuten-action-12-eu.rakuten.wurl.tv/playlist.m3u8"
+    ],
+    "language": "fin",
+    "country": "FI"
+  },
+  {
+    "id": "RakutenTVActionMovies.fr",
+    "name": "Rakuten TV Action Movies",
+    "stream_urls": [
+      "https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8",
+      "https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8",
+      "https://rakuten-actionmovies-7-fr.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "RakutenTVActionMovies.it",
+    "name": "Rakuten TV Action Movies",
+    "stream_urls": [
+      "https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/playlist.m3u8",
+      "https://rakuten-actionmovies-6-it.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "RakutenTVActionMovies.uk",
+    "name": "Rakuten TV Action Movies",
+    "stream_urls": [
+      "https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "RakutenTVComedyMovies.at",
+    "name": "Rakuten TV Comedy Movies",
+    "stream_urls": [
+      "https://7ed752b220a441b7b22bdf697c6c4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenComedyMovies-1/playlist.m3u8",
+      "https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8"
+    ],
+    "language": "deu",
+    "country": "AT"
+  },
+  {
+    "id": "RakutenTVComedyMovies.de",
+    "name": "Rakuten TV Comedy Movies",
+    "stream_urls": [
+      "https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "RakutenTVComedyMovies.es",
+    "name": "Rakuten TV Comedy Movies",
+    "stream_urls": [
+      "https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8",
+      "https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "RakutenTVComedyMovies.fi",
+    "name": "Rakuten TV Comedy Movies",
+    "stream_urls": [
+      "https://rakuten-comedy-12-eu.rakuten.wurl.tv/playlist.m3u8"
+    ],
+    "language": "fin",
+    "country": "FI"
+  },
+  {
+    "id": "RakutenTVComedyMovies.fr",
+    "name": "Rakuten TV Comedy Movies",
+    "stream_urls": [
+      "https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8",
+      "https://rakuten-comedymovies-7-fr.plex.wurl.tv/playlist.m3u8",
+      "https://rakuten-comedymovies-7-fr.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "RakutenTVComedyMovies.it",
+    "name": "Rakuten TV Comedy Movies",
+    "stream_urls": [
+      "https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8",
+      "https://rakuten-comedymovies-6-it.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "RakutenTVComedyMovies.uk",
+    "name": "Rakuten TV Comedy Movies",
+    "stream_urls": [
+      "https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "RakutenTVDramaMovies.at",
+    "name": "Rakuten TV Drama Movies",
+    "stream_urls": [
+      "https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenTVShows-1/playlist.m3u8"
+    ],
+    "language": "deu",
+    "country": "AT"
+  },
+  {
+    "id": "RakutenTVDramaMovies.es",
+    "name": "Rakuten TV Drama Movies",
+    "stream_urls": [
+      "https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "RakutenTVDramaMovies.fi",
+    "name": "Rakuten TV Drama Movies",
+    "stream_urls": [
+      "https://rakuten-drama-12-eu.rakuten.wurl.tv/playlist.m3u8"
+    ],
+    "language": "fin",
+    "country": "FI"
+  },
+  {
+    "id": "RakutenTVDramaMovies.it",
+    "name": "Rakuten TV Drama Movies",
+    "stream_urls": [
+      "https://rakuten-tvshows-6-it.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "RakutenTVFamilyMovies.at",
+    "name": "Rakuten TV Family Movies",
+    "stream_urls": [
+      "https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8"
+    ],
+    "language": "deu",
+    "country": "AT"
+  },
+  {
+    "id": "RakutenTVFamilyMovies.ch",
+    "name": "Rakuten TV Family Movies",
+    "stream_urls": [
+      "https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8"
+    ],
+    "language": "deu",
+    "country": "CH"
+  },
+  {
+    "id": "RakutenTVFamilyMovies.es",
+    "name": "Rakuten TV Family Movies",
+    "stream_urls": [
+      "https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8",
+      "https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "RakutenTVFamilyMovies.fi",
+    "name": "Rakuten TV Family Movies",
+    "stream_urls": [
+      "https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8",
+      "https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8"
+    ],
+    "language": "fin",
+    "country": "FI"
+  },
+  {
+    "id": "RakutenTVFamilyMovies.fr",
+    "name": "Rakuten TV Family Movies",
+    "stream_urls": [
+      "https://rakuten-family-7-fr.samsung.wurl.tv/playlist.m3u8",
+      "https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "RakutenTVFamilyMovies.it",
+    "name": "Rakuten TV Family Movies",
+    "stream_urls": [
+      "https://rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "RakutenTVFamilyMovies.uk",
+    "name": "Rakuten TV Family Movies",
+    "stream_urls": [
+      "https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "RakutenTVRakutenStories.fi",
+    "name": "Rakuten TV Rakuten Stories",
+    "stream_urls": [
+      "https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8"
+    ],
+    "language": "fin",
+    "country": "FI"
+  },
+  {
+    "id": "RakutenTVSpotlight.de",
+    "name": "Rakuten TV Spotlight",
+    "stream_urls": [
+      "https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "RakutenTVSpotlight.es",
+    "name": "Rakuten TV Spotlight",
+    "stream_urls": [
+      "https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8",
+      "https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "RakutenTVSpotlight.fr",
+    "name": "Rakuten TV Spotlight",
+    "stream_urls": [
+      "https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8",
+      "https://rakuten-spotlight-7-fr.plex.wurl.tv/playlist.m3u8",
+      "https://rakuten-spotlight-7-fr.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "RakutenTVSpotlight.it",
+    "name": "Rakuten TV Spotlight",
+    "stream_urls": [
+      "https://rakuten-spotlight-6-eu.rakuten.wurl.tv/playlist.m3u8",
+      "https://rakuten-spotlight-6-it.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "RakutenTVSpotlight.uk",
+    "name": "Rakuten TV Spotlight",
+    "stream_urls": [
+      "https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "RakutenTVTopMovies.fi",
+    "name": "Rakuten TV Top Movies",
+    "stream_urls": [
+      "https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8"
+    ],
+    "language": "fin",
+    "country": "FI"
+  },
+  {
+    "id": "RakutenTVTopMovies.fr",
+    "name": "Rakuten TV Top Movies",
+    "stream_urls": [
+      "https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8",
+      "https://rakuten-topfree-7-fr.plex.wurl.tv/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "RedboxSpotlight.us",
+    "name": "Redbox Spotlight",
+    "stream_urls": [
+      "https://spotlight-redbox.amagi.tv/playlist.m3u8",
+      "https://spotlight-vizio.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "RedboxUnsolvedMysteries.us",
+    "name": "Redbox Unsolved Mysteries",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "RetroPlus3.cl",
+    "name": "Retro Plus 3",
+    "stream_urls": [
+      "https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "RotanaCinemaEgypt.eg",
+    "name": "Rotana Cinema Egypt",
+    "stream_urls": [
+      "https://daiconnect.com/live/hls/rotana/cinema-masr-egypt/.m3u8",
+      "https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8"
+    ],
+    "language": "ara",
+    "country": "EG",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "RotanaCinemaKSA.sa",
+    "name": "Rotana Cinema KSA",
+    "stream_urls": [
+      "https://daiconnect.com/live/hls/rotana/cinema-ksa/.m3u8",
+      "https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "SA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "Russkiyroman.ru",
+    "name": "Russkiy roman",
+    "stream_urls": [
+      "https://woobl.ru/hls987/Russkiy_roman.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "SEOTV4Peliculas.bo",
+    "name": "SEO TV 4 Peliculas",
+    "stream_urls": [
+      "https://live.seo.tv.bo/live/SEO-4.m3u8"
+    ],
+    "language": "spa",
+    "country": "BO"
+  },
+  {
+    "id": "ServusTV.at",
+    "name": "ServusTV",
+    "stream_urls": [
+      "https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8"
+    ],
+    "language": "deu",
+    "country": "AT",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "ServusTVDeutschland.de",
+    "name": "ServusTV Deutschland",
+    "stream_urls": [
+      "https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master_3392.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "SL1.ir",
+    "name": "SL 1",
+    "stream_urls": [
+      "https://slonehls.wns.live/hls/stream.m3u8"
+    ],
+    "language": "fas",
+    "country": "IR"
+  },
+  {
+    "id": "SL2.ir",
+    "name": "SL 2",
+    "stream_urls": [
+      "https://sltwohls.wns.live/hls/stream.m3u8"
+    ],
+    "language": "fas",
+    "country": "IR"
+  },
+  {
+    "id": "SofyTV.ch",
+    "name": "Sofy TV",
+    "stream_urls": [
+      "https://sofy-ger-samsung.amagi.tv/playlist.m3u8",
+      "https://sofytv-samsunges.amagi.tv/playlist.m3u8",
+      "https://sofytv-samsungfr.amagi.tv/playlist.m3u8",
+      "https://sofytv-samsungit.amagi.tv/playlist.m3u8",
+      "https://sofytv-samsunguk.amagi.tv/playlist.m3u8",
+      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-samsungnl/playlist.m3u8"
+    ],
+    "language": "deu",
+    "country": "CH"
+  },
+  {
+    "id": "SonyCanalNovelas.us",
+    "name": "Sony Canal Novelas",
+    "stream_urls": [
+      "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "SonyMovies.us",
+    "name": "Sony Movies",
+    "stream_urls": [
+      "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "SundanceTV.es",
+    "name": "Sundance TV",
+    "stream_urls": [
+      "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:88_HD.smil/manifest.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "TCMEast.us",
+    "name": "TCM East",
+    "stream_urls": [
+      "https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8",
+      "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TCMEast.us.m3u8"
+    ],
+    "language": "eng",
+    "country": "US",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "TCMWest.us",
+    "name": "TCM West",
+    "stream_urls": [
+      "https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8",
+      "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TCMWest.us.m3u8"
+    ],
+    "language": "eng",
+    "country": "US",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "TelaViva.br",
+    "name": "Tela Viva",
+    "stream_urls": [
+      "https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "TheFilmDetective.us",
+    "name": "The Film Detective",
+    "stream_urls": [
+      "https://tfd-distro.amagi.tv/index.m3u8",
+      "https://filmdetective-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-filmdetective-plex/CDN/master.m3u8",
+      "https://filmdetective-plex.amagi.tv/index.m3u8",
+      "https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8",
+      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TopCine.us",
+    "name": "Top Cine",
+    "stream_urls": [
+      "https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8"
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "TVLandDrama.us",
+    "name": "TV Land Drama",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d40bebc5e3d2750a2239d7e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=130&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TVSDriveInMovie.us",
+    "name": "TVS Drive In Movie",
+    "stream_urls": [
+      "https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TVSFilmNoirNetwork.us",
+    "name": "TVS Film Noir Network",
+    "stream_urls": [
+      "https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "VictorValleyTV.us",
+    "name": "Victor Valley TV",
+    "stream_urls": [
+      "https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "vijuTV1000.ru",
+    "name": "viju TV1000",
+    "stream_urls": [
+      "https://woobl.ru/hls987/TV1000_hd.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "vijuTV1000action.ru",
+    "name": "viju TV1000 action",
+    "stream_urls": [
+      "https://woobl.ru/hls987/TV1000_action_hd.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "WeyyakAction.ae",
+    "name": "Weyyak Action",
+    "stream_urls": [
+      "https://weyyak-live.akamaized.net/weyyak_action/index.m3u8"
+    ],
+    "language": "ara",
+    "country": "AE",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "WeyyakDrama.ae",
+    "name": "Weyyak Drama",
+    "stream_urls": [
+      "https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8"
+    ],
+    "language": "ara",
+    "country": "AE",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "WildSideTV.fr",
+    "name": "Wild Side TV",
+    "stream_urls": [
+      "https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "WuTangCollection.us",
+    "name": "Wu Tang Collection",
+    "stream_urls": [
+      "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "XtremaAccion.ar",
+    "name": "Xtrema Accion",
+    "stream_urls": [
+      "https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "XtremaAsia.ar",
+    "name": "Xtrema Asia",
+    "stream_urls": [
+      "https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "XtremaComedy.ar",
+    "name": "Xtrema Comedy",
+    "stream_urls": [
+      "https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "XtremaDrama.ar",
+    "name": "Xtrema Drama",
+    "stream_urls": [
+      "https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "XtremaEuropa.ar",
+    "name": "Xtrema Europa",
+    "stream_urls": [
+      "https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "XtremaFamily.ar",
+    "name": "Xtrema Family",
+    "stream_urls": [
+      "https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "XtremaHindi.ar",
+    "name": "Xtrema Hindi",
+    "stream_urls": [
+      "https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "XtremaLatina.ar",
+    "name": "Xtrema Latina",
+    "stream_urls": [
+      "https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "XtremaSeries.ar",
+    "name": "Xtrema Series",
+    "stream_urls": [
+      "https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "XtremaSuspenso.ar",
+    "name": "Xtrema Suspenso",
+    "stream_urls": [
+      "https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "XtremaTerror.ar",
+    "name": "Xtrema Terror",
+    "stream_urls": [
+      "https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  }
+]

@@ -1,0 +1,438 @@
+[
+  {
+    "id": "30ADarcizzleOffshore.us",
+    "name": "30A Darcizzle Offshore",
+    "stream_urls": [
+      "https://30a-tv.com/darcizzle.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "AgroBrasilTV.br",
+    "name": "AgroBrasil TV",
+    "stream_urls": [
+      "https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "AgrotendenciaTV.cr",
+    "name": "Agrotendencia TV",
+    "stream_urls": [
+      "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CR"
+  },
+  {
+    "id": "AgroTV.bg",
+    "name": "Agro TV",
+    "stream_urls": [
+      "https://restr2.bgtv.bg/agro/hls/agro.m3u8"
+    ],
+    "language": "bul",
+    "country": "BG"
+  },
+  {
+    "id": "AgroTV.pe",
+    "name": "Agro TV",
+    "stream_urls": [
+      "https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "PE"
+  },
+  {
+    "id": "AgroTV.ro",
+    "name": "Agro TV",
+    "stream_urls": [
+      "https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8",
+      "https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8"
+    ],
+    "language": "ron",
+    "country": "RO"
+  },
+  {
+    "id": "AgroTV.tr",
+    "name": "Agro TV",
+    "stream_urls": [
+      "https://yayin30.haber100.com/live/agrotv/playlist.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "id": "AKCTV.us",
+    "name": "AKC TV",
+    "stream_urls": [
+      "https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8",
+      "https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "AKCTVMeettheBreeds.us",
+    "name": "AKC TV Meet the Breeds",
+    "stream_urls": [
+      "https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "AKCTVPuppies.us",
+    "name": "AKC TV Puppies",
+    "stream_urls": [
+      "https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "ANIMALKINGDOM.de",
+    "name": "ANIMAL KINGDOM",
+    "stream_urls": [
+      "https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "CanaldoCriador.br",
+    "name": "Canal do Criador",
+    "stream_urls": [
+      "https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "CanalRural.ar",
+    "name": "Canal Rural",
+    "stream_urls": [
+      "https://cda2.alsolnet.com/elrural/live/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "CanalRural.br",
+    "name": "Canal Rural",
+    "stream_urls": [
+      "https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "ChacraTV.ar",
+    "name": "Chacra TV",
+    "stream_urls": [
+      "https://s8.stweb.tv/chacra/live/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "ChiveTV.us",
+    "name": "Chive TV",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxchive/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CiudadMagica.ar",
+    "name": "Ciudad Magica",
+    "stream_urls": [
+      "https://tv.initium.net.ar:3235/live/grupocitylive.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "Dialogiorybalke.ru",
+    "name": "Dialogi o rybalke",
+    "stream_urls": [
+      "https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "earthTV.de",
+    "name": "earthTV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8"
+    ],
+    "language": "eng",
+    "country": "DE"
+  },
+  {
+    "id": "HamroKisanTV.np",
+    "name": "Hamro Kisan TV",
+    "stream_urls": [
+      "https://realtvlive.servep2p.com/livetv/KSNTV/playlist.m3u8"
+    ],
+    "language": "nep",
+    "country": "NP"
+  },
+  {
+    "id": "HorseCountryTV.uk",
+    "name": "Horse & Country TV",
+    "stream_urls": [
+      "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
+      "https://hncfree-samsungau.amagi.tv/playlist.m3u8",
+      "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8",
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "HuntChannel.us",
+    "name": "Hunt Channel",
+    "stream_urls": [
+      "https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8",
+      "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/huntchannel_720p/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "ItalianFishingTV.it",
+    "name": "Italian Fishing TV",
+    "stream_urls": [
+      "https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "LoveNature.ca",
+    "name": "Love Nature",
+    "stream_urls": [
+      "https://lnc-love-nature.tubi.video/playlist.m3u8",
+      "https://bamus-klowdtv.amagi.tv/playlist.m3u8",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "CA"
+  },
+  {
+    "id": "LoveNature4K.ca",
+    "name": "Love Nature 4K",
+    "stream_urls": [
+      "https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8",
+      "https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA"
+  },
+  {
+    "id": "MoyaPlaneta.ru",
+    "name": "Moya Planeta",
+    "stream_urls": [
+      "https://woobl.ru/hls987/Moya_planeta.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "OutdoorAmerica.us",
+    "name": "Outdoor America",
+    "stream_urls": [
+      "https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8",
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "OutdoorChannel.us",
+    "name": "Outdoor Channel",
+    "stream_urls": [
+      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "OutsideTV.us",
+    "name": "Outside TV",
+    "stream_urls": [
+      "https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8",
+      "https://lnc-outsidetv.tubi.video/playlist.m3u8",
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8",
+      "https://outside-tv-samsung-ca.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "OutsideTVPlus.us",
+    "name": "Outside TV+",
+    "stream_urls": [
+      "https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8",
+      "https://outsidetvplus-xumo.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "ParyawaranTV.np",
+    "name": "Paryawaran TV",
+    "stream_urls": [
+      "https://webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/playlist.m3u8"
+    ],
+    "language": "dhw",
+    "country": "NP"
+  },
+  {
+    "id": "PeerTVAltoAdige.it",
+    "name": "Peer TV Alto Adige",
+    "stream_urls": [
+      "https://iptv.peer.biz/live/peertv-it.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "PeerTVSouthTyrol.it",
+    "name": "Peer TV South Tyrol",
+    "stream_urls": [
+      "https://iptv.peer.biz/live/peertv-en.m3u8"
+    ],
+    "language": "eng",
+    "country": "IT"
+  },
+  {
+    "id": "PeerTVSudtirol.it",
+    "name": "Peer TV Sudtirol",
+    "stream_urls": [
+      "https://iptv.peer.biz/live/peertv.m3u8"
+    ],
+    "language": "deu",
+    "country": "IT"
+  },
+  {
+    "id": "PlutoTVBackcountry.us",
+    "name": "Pluto TV Backcountry",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cabdf1437b88b26947346b2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cabdf1437b88b26947346b2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=755&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cabdf1437b88b26947346b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVFishing.us",
+    "name": "Pluto TV Fishing",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528eda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVHunter.us",
+    "name": "Pluto TV Hunter",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVNaturaleza.us",
+    "name": "Pluto TV Naturaleza",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId="
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "PlutoTVNature.us",
+    "name": "Pluto TV Nature",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5be1c3f9851dd5632e2c91b2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=1e26d24e-0585-11eb-82fe-0242ac110002&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PursuitUP.us",
+    "name": "PursuitUP",
+    "stream_urls": [
+      "https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8",
+      "https://pursuitup-klowdtv.amagi.tv/playlist.m3u8",
+      "https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "SpikeOutdoors.us",
+    "name": "Spike Outdoors",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c393cad2de254456f7ef8c2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=291&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "SwamijiTVAmerican.at",
+    "name": "Swamiji TV American",
+    "stream_urls": [
+      "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "AT"
+  },
+  {
+    "id": "SwamijiTVAustralian.at",
+    "name": "Swamiji TV Australian",
+    "stream_urls": [
+      "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "AT"
+  },
+  {
+    "id": "SwamijiTVEuropean.at",
+    "name": "Swamiji TV European",
+    "stream_urls": [
+      "https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "AT"
+  },
+  {
+    "id": "TheBoatShow.us",
+    "name": "The Boat Show",
+    "stream_urls": [
+      "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "WaypointTV.us",
+    "name": "Waypoint TV",
+    "stream_urls": [
+      "https://lnc-waypoint.tubi.video/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  }
+]

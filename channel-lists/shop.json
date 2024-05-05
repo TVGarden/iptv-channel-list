@@ -1,0 +1,718 @@
+[
+  {
+    "id": "1001Noites.br",
+    "name": "1001 Noites",
+    "stream_urls": [
+      "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "123tv.de",
+    "name": "1-2-3.tv",
+    "stream_urls": [
+      "https://123tv-mx1.flex-cdn.net/index.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "30ATheBeachShow.us",
+    "name": "30A The Beach Show",
+    "stream_urls": [
+      "https://30a-tv.com/beachy.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "AmericasAuctionChannel.us",
+    "name": "America's Auction Channel",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCMeyWH1vyb1TT6Vimp4MqLA.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "BajoTechoTV.do",
+    "name": "Bajo Techo TV",
+    "stream_urls": [
+      "https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8"
+    ],
+    "language": "spa",
+    "country": "DO"
+  },
+  {
+    "id": "CasaItalia53.it",
+    "name": "Casa Italia 53",
+    "stream_urls": [
+      "https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "CitrussTV.ae",
+    "name": "Citruss TV",
+    "stream_urls": [
+      "https://d7km4gkevcbok.cloudfront.net/live/watch_720p30.m3u8"
+    ],
+    "language": "ara",
+    "country": "AE",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CJOnStyle.kr",
+    "name": "CJ OnStyle",
+    "stream_urls": [
+      "https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8"
+    ],
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "id": "CJOnStylePlus.kr",
+    "name": "CJ OnStyle+",
+    "stream_urls": [
+      "https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8"
+    ],
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "id": "Cruise1stTV.uk",
+    "name": "Cruise1st TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UC9r76Tzp5HxeQG7SqZwV3OA.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "DonnaShopping.it",
+    "name": "Donna Shopping",
+    "stream_urls": [
+      "https://5926fc9c7c5b2.streamlock.net/9354/9354/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "ETMall60.tw",
+    "name": "ET Mall 60",
+    "stream_urls": [
+      "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8"
+    ],
+    "language": "cmn",
+    "country": "TW"
+  },
+  {
+    "id": "ExpoChannel.au",
+    "name": "Expo Channel",
+    "stream_urls": [
+      "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "AU"
+  },
+  {
+    "id": "FashionFinds.us",
+    "name": "Fashion Finds",
+    "stream_urls": [
+      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "GemShoppingNetwork.us",
+    "name": "Gem Shopping Network",
+    "stream_urls": [
+      "https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "GM24.it",
+    "name": "GM24",
+    "stream_urls": [
+      "https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "GongyoungHomeShopping.kr",
+    "name": "Gongyoung Home Shopping",
+    "stream_urls": [
+      "https://etv.publichs.com/live5.stream/playlist.m3u8"
+    ],
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "id": "GSMyShop.kr",
+    "name": "GS My Shop",
+    "stream_urls": [
+      "https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8"
+    ],
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "id": "GSShop.kr",
+    "name": "GS Shop",
+    "stream_urls": [
+      "https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "KR"
+  },
+  {
+    "id": "GSTV.jp",
+    "name": "GSTV",
+    "stream_urls": [
+      "https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)"
+    ],
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "id": "HomeShopping.kr",
+    "name": "Home & Shopping",
+    "stream_urls": [
+      "https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8"
+    ],
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "id": "HorseShoppingChannel.us",
+    "name": "Horse Shopping Channel",
+    "stream_urls": [
+      "https://uplynkcontent.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad0625d9.m3u8",
+      "https://playoutengine.sinclairstoryline.com/playout/c16448cc-ef21-44a5-a5b4-192f943b2dbb.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "HSN.us",
+    "name": "HSN",
+    "stream_urls": [
+      "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/hsn_720p/playlist.m3u8",
+      "https://dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8",
+      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "HSN2.us",
+    "name": "HSN2",
+    "stream_urls": [
+      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "HyundaiHomeShopping.kr",
+    "name": "Hyundai Home Shopping",
+    "stream_urls": [
+      "https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8"
+    ],
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "id": "HyundaiHomeShoppingPlusShop.kr",
+    "name": "Hyundai Home Shopping + Shop",
+    "stream_urls": [
+      "https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8"
+    ],
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "id": "iBerkah.id",
+    "name": "iBerkah",
+    "stream_urls": [
+      "https://play.accolamedia.id/accola/iberkah.stream/playlist.m3u8"
+    ],
+    "language": "ind",
+    "country": "ID"
+  },
+  {
+    "id": "IdealWorldTV.uk",
+    "name": "Ideal World TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCJbgGTpBWuC87VFIKTTO4RQ.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "IntheKitchen.us",
+    "name": "In the Kitchen",
+    "stream_urls": [
+      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "JewelryTV.us",
+    "name": "Jewelry TV",
+    "stream_urls": [
+      "https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Juwelo.it",
+    "name": "Juwelo",
+    "stream_urls": [
+      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8"
+    ],
+    "language": "deu",
+    "country": "IT"
+  },
+  {
+    "id": "KCKSLD10.us",
+    "name": "KCKS-LD10",
+    "stream_urls": [
+      "https://cdn.igocast.com/channel10_hls/channel10_master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "KShopping.kr",
+    "name": "K Shopping",
+    "stream_urls": [
+      "https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8"
+    ],
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "id": "LaoChampaTV1.la",
+    "name": "Lao Champa TV 1",
+    "stream_urls": [
+      "https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8",
+      "https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/playlist.m3u8"
+    ],
+    "language": "lao",
+    "country": "LA"
+  },
+  {
+    "id": "LaoChampaTV2.la",
+    "name": "Lao Champa TV 2",
+    "stream_urls": [
+      "https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/playlist.m3u8"
+    ],
+    "language": "lao",
+    "country": "LA"
+  },
+  {
+    "id": "LaosPlanetTV.la",
+    "name": "Laos Planet TV",
+    "stream_urls": [
+      "https://livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/playlist.m3u8"
+    ],
+    "language": "vie",
+    "country": "LA"
+  },
+  {
+    "id": "LaoSVTV.vn",
+    "name": "Lao SV TV",
+    "stream_urls": [
+      "https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8"
+    ],
+    "language": "vie",
+    "country": "VN"
+  },
+  {
+    "id": "LaoThaiTV.us",
+    "name": "Lao-Thai TV",
+    "stream_urls": [
+      "https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8"
+    ],
+    "language": "vie",
+    "country": "US"
+  },
+  {
+    "id": "LejelHomeShopping.id",
+    "name": "Lejel Home Shopping",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8"
+    ],
+    "language": "ind",
+    "country": "ID"
+  },
+  {
+    "id": "Leomax24.ru",
+    "name": "Leomax 24",
+    "stream_urls": [
+      "https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "LotteHomeShopping.kr",
+    "name": "Lotte Home Shopping",
+    "stream_urls": [
+      "https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8"
+    ],
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "id": "LSTV.la",
+    "name": "LS TV",
+    "stream_urls": [
+      "https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8"
+    ],
+    "language": "lao",
+    "country": "LA"
+  },
+  {
+    "id": "Magnat.ru",
+    "name": "Magnat",
+    "stream_urls": [
+      "https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "MediaShopTV.li",
+    "name": "MediaShop TV",
+    "stream_urls": [
+      "https://mediashop.akamaized.net/hls/live/2032402/Meine_Einkaufswelt/1.m3u8"
+    ],
+    "language": "deu",
+    "country": "LI"
+  },
+  {
+    "id": "NaDooCommerce.id",
+    "name": "NaDoo Commerce",
+    "stream_urls": [
+      "https://op-krgroup1-swiftservehd-1.dens.tv/h/h126/live.m3u8"
+    ],
+    "language": "ind",
+    "country": "ID",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "NATTV.th",
+    "name": "NAT TV",
+    "stream_urls": [
+      "https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8"
+    ],
+    "language": "tha",
+    "country": "TH"
+  },
+  {
+    "id": "NSHomeShopping.kr",
+    "name": "NS Home Shopping",
+    "stream_urls": [
+      "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
+    ],
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "id": "NSShopPlus.kr",
+    "name": "NS Shop+",
+    "stream_urls": [
+      "https://shoppstream.nsmall.com/IPHONE/mobile.m3u8"
+    ],
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "id": "QVC.de",
+    "name": "QVC",
+    "stream_urls": [
+      "https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "QVC.it",
+    "name": "QVC",
+    "stream_urls": [
+      "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "QVC.jp",
+    "name": "QVC",
+    "stream_urls": [
+      "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8"
+    ],
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "id": "QVC.uk",
+    "name": "QVC",
+    "stream_urls": [
+      "https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "QVC.us",
+    "name": "QVC",
+    "stream_urls": [
+      "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/qvclive_720p/playlist.m3u8",
+      "https://dai.google.com/linear/hls/event/roEbn_l7Tzezwy22F1NSfA/master.m3u8",
+      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "QVC2.us",
+    "name": "QVC2",
+    "stream_urls": [
+      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "QVC3.us",
+    "name": "QVC3",
+    "stream_urls": [
+      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "QVCBeauty.uk",
+    "name": "QVC Beauty",
+    "stream_urls": [
+      "https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "QVCExtra.uk",
+    "name": "QVC Extra",
+    "stream_urls": [
+      "https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "QVCStyle.de",
+    "name": "QVC Style",
+    "stream_urls": [
+      "https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "QVCStyle.uk",
+    "name": "QVC Style",
+    "stream_urls": [
+      "https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "ShinsegaeTVShopping.kr",
+    "name": "Shinsegae TV Shopping",
+    "stream_urls": [
+      "https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8"
+    ],
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "id": "ShopCh.th",
+    "name": "Shop Ch",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCKrzHQD9zTLLhBAR8w4zaxA.m3u8"
+    ],
+    "language": "tha",
+    "country": "TH"
+  },
+  {
+    "id": "ShopChannel.jp",
+    "name": "Shop Channel",
+    "stream_urls": [
+      "https://stream3.shopch.jp/HLS/master.m3u8"
+    ],
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "id": "ShopHQ.us",
+    "name": "ShopHQ",
+    "stream_urls": [
+      "https://aos01-evine.secure.footprint.net/evine/cleanfeed/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "ShopLC.us",
+    "name": "Shop LC",
+    "stream_urls": [
+      "https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd",
+      "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8",
+      "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8",
+      "https://dai.google.com/linear/hls/event/9WYzyYxrRvafiVxUGKV2OA/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "ShoppingNT.kr",
+    "name": "Shopping NT",
+    "stream_urls": [
+      "https://live.shoppingntmall.com/live/10011.m3u8"
+    ],
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "id": "TeaTV.vn",
+    "name": "Tea TV",
+    "stream_urls": [
+      "https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8"
+    ],
+    "language": "vie",
+    "country": "VN"
+  },
+  {
+    "id": "TeaTVKhmer.vn",
+    "name": "Tea TV Khmer",
+    "stream_urls": [
+      "https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8"
+    ],
+    "language": "vie",
+    "country": "VN"
+  },
+  {
+    "id": "TheShoppingChannel.il",
+    "name": "The Shopping Channel",
+    "stream_urls": [
+      "https://shoppingil-rewriter.vidnt.com/index.m3u8"
+    ],
+    "language": "heb",
+    "country": "IL"
+  },
+  {
+    "id": "TJC.uk",
+    "name": "TJC",
+    "stream_urls": [
+      "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "TommyTeleshopping.nl",
+    "name": "Tommy Teleshopping",
+    "stream_urls": [
+      "https://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8"
+    ],
+    "language": "nld",
+    "country": "NL"
+  },
+  {
+    "id": "TSC.ca",
+    "name": "TSC",
+    "stream_urls": [
+      "https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8",
+      "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA"
+  },
+  {
+    "id": "TVSN.au",
+    "name": "TVSN",
+    "stream_urls": [
+      "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8",
+      "https://ythls.armelin.one/channel/UCo4sch-fwKIeyzyPIWRXjdw.m3u8"
+    ],
+    "language": "eng",
+    "country": "AU"
+  },
+  {
+    "id": "TVSRareCollectibles.us",
+    "name": "TVS Rare Collectibles",
+    "stream_urls": [
+      "https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TVSSiloDiscountNetwork.us",
+    "name": "TVS Silo Discount Network",
+    "stream_urls": [
+      "https://rpn1.bozztv.com/36bay2/gusa-tvssilodiscount/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TVTudoBH.br",
+    "name": "TV Tudo BH",
+    "stream_urls": [
+      "https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "UniquelyThai.vn",
+    "name": "Uniquely Thai",
+    "stream_urls": [
+      "https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8"
+    ],
+    "language": "vie",
+    "country": "VN"
+  },
+  {
+    "id": "WShopping.kr",
+    "name": "W Shopping",
+    "stream_urls": [
+      "https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8"
+    ],
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "id": "Yuvelirochka.ru",
+    "name": "Yuvelirochka",
+    "stream_urls": [
+      "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  }
+]

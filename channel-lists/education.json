@@ -1,0 +1,910 @@
+[
+  {
+    "id": "2STV.sn",
+    "name": "2STV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCeLEGbj240J6JhpP7ba8GwA.m3u8"
+    ],
+    "language": "fra",
+    "country": "SN"
+  },
+  {
+    "id": "A2iNaija.sn",
+    "name": "A2i Naija",
+    "stream_urls": [
+      "https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8"
+    ],
+    "language": "wol",
+    "country": "SN"
+  },
+  {
+    "id": "ABCMESydney.au",
+    "name": "ABC ME Sydney",
+    "stream_urls": [
+      "https://c.mjh.nz/abc-me.m3u8"
+    ],
+    "language": "eng",
+    "country": "AU"
+  },
+  {
+    "id": "AgroTV.tr",
+    "name": "Agro TV",
+    "stream_urls": [
+      "https://yayin30.haber100.com/live/agrotv/playlist.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "id": "AlBinaaTV.id",
+    "name": "Al Binaa TV",
+    "stream_urls": [
+      "https://master.antosatriani.workers.dev/channel/UCdq-DJ5MS7qjd1aXPFg71Yg.m3u8"
+    ],
+    "language": "ind",
+    "country": "ID"
+  },
+  {
+    "id": "AlHiwarTV.uk",
+    "name": "Al Hiwar TV",
+    "stream_urls": [
+      "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8",
+      "https://ythls.armelin.one/channel/UC_fNP2ettM5ius4BZ6G7MOg.m3u8"
+    ],
+    "language": "ara",
+    "country": "UK"
+  },
+  {
+    "id": "AlQudsOpenUniversity.ps",
+    "name": "Al-Quds Open University",
+    "stream_urls": [
+      "https://streaming2.qou.edu/hls/stream.m3u8"
+    ],
+    "language": "ara",
+    "country": "PS"
+  },
+  {
+    "id": "ALTV.th",
+    "name": "ALTV",
+    "stream_urls": [
+      "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+      "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8"
+    ],
+    "language": "tha",
+    "country": "TH"
+  },
+  {
+    "id": "AngerManagementChannel.us",
+    "name": "Anger Management Channel",
+    "stream_urls": [
+      "https://lnc-anger-management.tubi.video/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "ArchitecturalDigest.us",
+    "name": "Architectural Digest",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "ARDalpha.de",
+    "name": "ARD-alpha",
+    "stream_urls": [
+      "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "AsharqDiscovery.sa",
+    "name": "Asharq Discovery",
+    "stream_urls": [
+      "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
+    ],
+    "language": "ara",
+    "country": "SA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "AstroTV.de",
+    "name": "AstroTV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCwS3E2NaN3uorr9wf2_i6Cg.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "AyenehTV.us",
+    "name": "Ayeneh TV",
+    "stream_urls": [
+      "https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Canal15.ni",
+    "name": "Canal 15",
+    "stream_urls": [
+      "https://cootv.cootel.com.ni:8095/Canal15_CooTel/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "NI"
+  },
+  {
+    "id": "CanalEducacao.br",
+    "name": "Canal Educacao",
+    "stream_urls": [
+      "https://canaleducacao-stream.ebc.com.br/index.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "CanalFDR.br",
+    "name": "Canal FDR",
+    "stream_urls": [
+      "https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "CCPSEducationChannel.us",
+    "name": "CCPS Education Channel",
+    "stream_urls": [
+      "https://watch.collierschools.com/EducationChannel/educhannel.stream/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CCTV10.cn",
+    "name": "CCTV-10",
+    "stream_urls": [
+      "https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8"
+    ],
+    "language": "zho",
+    "country": "CN"
+  },
+  {
+    "id": "CloudflareTV.us",
+    "name": "Cloudflare TV",
+    "stream_urls": [
+      "https://cloudflare.tv/hls/live.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CMAC2.us",
+    "name": "CMAC 2",
+    "stream_urls": [
+      "https://reflect-vod-cmac.cablecast.tv/live-12/live/live.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CreaTVChannel28.us",
+    "name": "CreaTV Channel 28",
+    "stream_urls": [
+      "https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CVCEducation.us",
+    "name": "CVC Education",
+    "stream_urls": [
+      "https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch2/video.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "DerryTV23.us",
+    "name": "DerryTV 23",
+    "stream_urls": [
+      "https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "DKN.us",
+    "name": "DKN",
+    "stream_urls": [
+      "https://video.oct.dc.gov/out/u/DKN.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "DRTSTV.sn",
+    "name": "DRTS TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UC-6dz560kcpeLmxceZzn44A.m3u8"
+    ],
+    "language": "fra",
+    "country": "SN"
+  },
+  {
+    "id": "EaDTVCONGO.cg",
+    "name": "EaDTV CONGO",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCdBQfm4truef3mDSYHDS0ig.m3u8"
+    ],
+    "language": "fra",
+    "country": "CG"
+  },
+  {
+    "id": "earthTV.de",
+    "name": "earthTV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8"
+    ],
+    "language": "eng",
+    "country": "DE"
+  },
+  {
+    "id": "EBSEnglish.kr",
+    "name": "EBS English",
+    "stream_urls": [
+      "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "KR"
+  },
+  {
+    "id": "EBSPlus2.kr",
+    "name": "EBS Plus 2",
+    "stream_urls": [
+      "https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "KR"
+  },
+  {
+    "id": "Educanal.py",
+    "name": "Educanal",
+    "stream_urls": [
+      "https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "PY"
+  },
+  {
+    "id": "EducaTV.ec",
+    "name": "Educa TV",
+    "stream_urls": [
+      "https://vid2.ecuamedia.net/educatv/live/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "EC"
+  },
+  {
+    "id": "Eduvision.co",
+    "name": "Eduvision",
+    "stream_urls": [
+      "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CO"
+  },
+  {
+    "id": "FairTVEducationChannel.us",
+    "name": "FairTV Education Channel",
+    "stream_urls": [
+      "https://streams.helnix.com/autoHLS/900735315c2bc38b/900735315c2bc38b.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "HKTV.us",
+    "name": "HKTV",
+    "stream_urls": [
+      "https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8"
+    ],
+    "language": "eng",
+    "country": "US",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "iSTUFF.de",
+    "name": "iSTUFF",
+    "stream_urls": [
+      "https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "KanEducational.il",
+    "name": "Kan Educational",
+    "stream_urls": [
+      "https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8"
+    ],
+    "language": "heb",
+    "country": "IL"
+  },
+  {
+    "id": "KBEV.us",
+    "name": "KBEV",
+    "stream_urls": [
+      "https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "KETSDT1.us",
+    "name": "KETS-DT1",
+    "stream_urls": [
+      "https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "KHETDT1.us",
+    "name": "KHET-DT1",
+    "stream_urls": [
+      "https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "KOCTChannel19.us",
+    "name": "KOCT Channel 19",
+    "stream_urls": [
+      "https://securestream6.champds.com/hlssstc/KOCTCALIVE2/KOCTCALIVE2.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "KTOODT3.us",
+    "name": "KTOO-DT3",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "KUONDT1.us",
+    "name": "KUON-DT1",
+    "stream_urls": [
+      "https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "LA36.us",
+    "name": "LA36",
+    "stream_urls": [
+      "https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "LEspritSorcierTV.fr",
+    "name": "L'Esprit Sorcier TV",
+    "stream_urls": [
+      "https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "MarinTVEducationalChannel.us",
+    "name": "Marin TV Educational Channel",
+    "stream_urls": [
+      "https://dacastmmd.mmdlive.lldns.net/dacastmmd/bc1fcf000e4e48a6a490d2af1f6added/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "MCN6ArtsChannel.us",
+    "name": "MCN6 Arts Channel",
+    "stream_urls": [
+      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "MCPSSTV.us",
+    "name": "MCPSS TV",
+    "stream_urls": [
+      "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "MidpenMediaCenterChannel28.us",
+    "name": "Midpen Media Center Channel 28",
+    "stream_urls": [
+      "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "MSTV.us",
+    "name": "MSTV",
+    "stream_urls": [
+      "https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "MultizonasTV.cr",
+    "name": "Multizonas TV",
+    "stream_urls": [
+      "https://cloudvideo.servers10.com:8081/8068/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "CR"
+  },
+  {
+    "id": "NapaValleyChannel27.us",
+    "name": "Napa Valley Channel 27",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_003/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "NASATVMedia.us",
+    "name": "NASA TV Media",
+    "stream_urls": [
+      "https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "NASATVPublic.us",
+    "name": "NASA TV Public",
+    "stream_urls": [
+      "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "NashuaETV.us",
+    "name": "Nashua ETV",
+    "stream_urls": [
+      "https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "NCMEducationalKidsChannel.us",
+    "name": "NCM Educational & Kids Channel",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_005/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "NihonGakkoTV.py",
+    "name": "Nihon Gakko TV",
+    "stream_urls": [
+      "https://59ce1298bfb98.streamlock.net/ngtv/ngtv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "PY"
+  },
+  {
+    "id": "NTV.cl",
+    "name": "NTV",
+    "stream_urls": [
+      "https://marine2.miplay.cl/ntv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "PaighanTV.pk",
+    "name": "Paighan TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCi-vOBG7Jgk_nKAG1Zd0R5g.m3u8"
+    ],
+    "language": "urd",
+    "country": "PK"
+  },
+  {
+    "id": "ParyawaranTV.np",
+    "name": "Paryawaran TV",
+    "stream_urls": [
+      "https://webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/playlist.m3u8"
+    ],
+    "language": "dhw",
+    "country": "NP"
+  },
+  {
+    "id": "PBSEast.us",
+    "name": "PBS East",
+    "stream_urls": [
+      "https://pbs.lls.cdn.pbs.org/est/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "PBSKidsAlaska.us",
+    "name": "PBS Kids Alaska",
+    "stream_urls": [
+      "https://livestream.pbskids.org/out/v1/2963202df0c142c69b5254a546473308/akst.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PBSKidsEasternCentral.us",
+    "name": "PBS Kids Eastern/Central",
+    "stream_urls": [
+      "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PBSKidsHawaii.us",
+    "name": "PBS Kids Hawaii",
+    "stream_urls": [
+      "https://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PBSKidsMountain.us",
+    "name": "PBS Kids Mountain",
+    "stream_urls": [
+      "https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PBSKidsPacific.us",
+    "name": "PBS Kids Pacific",
+    "stream_urls": [
+      "https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "PBSWest.us",
+    "name": "PBS West",
+    "stream_urls": [
+      "https://pbs.lls.cdn.pbs.org/pst/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "PlatziTV.es",
+    "name": "Platzi TV",
+    "stream_urls": [
+      "https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "PlutoTVMisterios.br",
+    "name": "Pluto TV Misterios",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId="
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "PlutoTVNatureza.br",
+    "name": "Pluto TV Natureza",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "PlutoTVVidaReal.br",
+    "name": "Pluto TV Vida Real",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "PSDTV.us",
+    "name": "PSD TV",
+    "stream_urls": [
+      "https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "RedApple21.us",
+    "name": "Red Apple 21",
+    "stream_urls": [
+      "https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "RedeMinas.br",
+    "name": "Rede Minas",
+    "stream_urls": [
+      "https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "SMCTVChannel24.us",
+    "name": "SMCTV Channel 24",
+    "stream_urls": [
+      "https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "SQOOLTV.fr",
+    "name": "SQOOL TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCaEqMbRYYOmI3WrALMhxuIg.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "Telepace3.it",
+    "name": "Telepace 3",
+    "stream_urls": [
+      "https://live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/index.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "TUTV.us",
+    "name": "TUTV",
+    "stream_urls": [
+      "https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "TVBEJoinville.br",
+    "name": "TVBE Joinville",
+    "stream_urls": [
+      "https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "TVERS.br",
+    "name": "TVE RS",
+    "stream_urls": [
+      "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "TVMackenzie.br",
+    "name": "TV Mackenzie",
+    "stream_urls": [
+      "https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "TVMaya.gt",
+    "name": "TV Maya",
+    "stream_urls": [
+      "https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8"
+    ],
+    "language": "yua",
+    "country": "GT"
+  },
+  {
+    "id": "TVUJAT.mx",
+    "name": "TV UJAT",
+    "stream_urls": [
+      "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "id": "TVUniversidad.ar",
+    "name": "TV Universidad",
+    "stream_urls": [
+      "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "UChileTV.cl",
+    "name": "UChile TV",
+    "stream_urls": [
+      "https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "UCSGTV.ec",
+    "name": "UCSG TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCH5499PHqkqKPsGEUJl5lZg.m3u8"
+    ],
+    "language": "spa",
+    "country": "EC"
+  },
+  {
+    "id": "UCTV.us",
+    "name": "UCTV",
+    "stream_urls": [
+      "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "UEBITVOnline.ec",
+    "name": "UEBI TV Online",
+    "stream_urls": [
+      "https://cloud2.streaminglivehd.com:1936/uebi/uebi/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "EC"
+  },
+  {
+    "id": "UnisulTV.br",
+    "name": "Unisul TV",
+    "stream_urls": [
+      "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "VisionTV.us",
+    "name": "Vision TV",
+    "stream_urls": [
+      "https://otv3.ocfl.net/VisionTV/smil:VisionTV.smil/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "VyasChannel.in",
+    "name": "Vyas Channel",
+    "stream_urls": [
+      "https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8"
+    ],
+    "language": "eng",
+    "country": "IN"
+  },
+  {
+    "id": "WKMJDT1.us",
+    "name": "WKMJ-DT1",
+    "stream_urls": [
+      "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "WomanTV.tr",
+    "name": "Woman TV",
+    "stream_urls": [
+      "https://embedlp.becdn.net/womantv.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "id": "WPSTV.us",
+    "name": "WPS-TV",
+    "stream_urls": [
+      "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "XEIPNTDT.mx",
+    "name": "XEIPN-TDT",
+    "stream_urls": [
+      "https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "id": "XHMNLTDT.mx",
+    "name": "XHMNL-TDT",
+    "stream_urls": [
+      "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "id": "XHSPRTDT1.mx",
+    "name": "XHSPR-TDT1",
+    "stream_urls": [
+      "https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "id": "XHUNESTDT.mx",
+    "name": "XHUNES-TDT",
+    "stream_urls": [
+      "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
+    ],
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "id": "YTN2.kr",
+    "name": "YTN2",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8"
+    ],
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "id": "ZarokTV.iq",
+    "name": "Zarok TV",
+    "stream_urls": [
+      "https://zindisorani.zaroktv.com.tr/hls/stream.m3u8"
+    ],
+    "language": "kur",
+    "country": "IQ"
+  }
+]

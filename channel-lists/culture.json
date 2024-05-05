@@ -1,0 +1,860 @@
+[
+  {
+    "id": "AbaiTV.kz",
+    "name": "Abai TV",
+    "stream_urls": [
+      "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8"
+    ],
+    "language": "kaz",
+    "country": "KZ"
+  },
+  {
+    "id": "AlKhadimiyyahTV.sn",
+    "name": "Al Khadimiyyah TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCqbQTS505CVDNNmPI0KwoYA.m3u8"
+    ],
+    "language": "fra",
+    "country": "SN"
+  },
+  {
+    "id": "AlternaTV.ar",
+    "name": "AlternaTV",
+    "stream_urls": [
+      "https://alternatv.ar/stream/hls/live.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "AmaniTV.sn",
+    "name": "Amani TV",
+    "stream_urls": [
+      "https://goccn.cloud/hls/amanitv/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "SN"
+  },
+  {
+    "id": "AMP2.us",
+    "name": "AMP 2",
+    "stream_urls": [
+      "https://livestream.telvue.com/ampmedia2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "apartTV.lu",
+    "name": "apart TV",
+    "stream_urls": [
+      "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8"
+    ],
+    "language": "ltz",
+    "country": "LU"
+  },
+  {
+    "id": "APlus.mx",
+    "name": "A+",
+    "stream_urls": [
+      "https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8"
+    ],
+    "language": "spa",
+    "country": "MX",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "AsiriTV.pe",
+    "name": "AsiriTV",
+    "stream_urls": [
+      "https://video2.lhdserver.es/asiritv/live.m3u8"
+    ],
+    "language": "spa",
+    "country": "PE"
+  },
+  {
+    "id": "Athaqafia.ma",
+    "name": "Athaqafia",
+    "stream_urls": [
+      "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa.m3u8"
+    ],
+    "language": "ara",
+    "country": "MA"
+  },
+  {
+    "id": "Aunar.ar",
+    "name": "Aunar",
+    "stream_urls": [
+      "https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "AuroraArte.it",
+    "name": "Aurora Arte",
+    "stream_urls": [
+      "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "AyenehTV.us",
+    "name": "Ayeneh TV",
+    "stream_urls": [
+      "https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "BaliTV.id",
+    "name": "Bali TV",
+    "stream_urls": [
+      "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8"
+    ],
+    "language": "ind",
+    "country": "ID",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "BAMTV.be",
+    "name": "BAM-TV",
+    "stream_urls": [
+      "https://goccn.cloud/hls/belafrikatv/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "BE"
+  },
+  {
+    "id": "BaynounahTV.ae",
+    "name": "Baynounah TV",
+    "stream_urls": [
+      "https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8"
+    ],
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "id": "BBCFour.uk",
+    "name": "BBC Four",
+    "stream_urls": [
+      "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd",
+      "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8",
+      "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "BXArts.us",
+    "name": "BX Arts",
+    "stream_urls": [
+      "https://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "BXCulture.us",
+    "name": "BX Culture",
+    "stream_urls": [
+      "https://reflect-stream-bronxnet.cablecast.tv/live-7/live/live.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Canal33.cl",
+    "name": "Canal 33",
+    "stream_urls": [
+      "https://5eae379fb77bb.streamlock.net/eduardo555/eduardo555/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CanalCulturaVenezuela.ve",
+    "name": "Canal Cultura Venezuela",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCMPPdsYmf-V6jukDtIfpM_A.m3u8"
+    ],
+    "language": "spa",
+    "country": "VE"
+  },
+  {
+    "id": "CanalDiplomatico.ve",
+    "name": "Canal Diplomatico",
+    "stream_urls": [
+      "https://vcp.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "VE"
+  },
+  {
+    "id": "ChiloeRed25.cl",
+    "name": "Chiloe Red 25",
+    "stream_urls": [
+      "https://v2.tustreaming.cl/chiloered/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "CostaRicaChannel.cr",
+    "name": "Costa Rica Channel",
+    "stream_urls": [
+      "https://panel2.streamingtv-mediacp.online:1936/rudcmzwtnh/rudcmzwtnh/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CR"
+  },
+  {
+    "id": "Cultura24.pe",
+    "name": "Cultura 24",
+    "stream_urls": [
+      "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8"
+    ],
+    "language": "spa",
+    "country": "PE"
+  },
+  {
+    "id": "CulturaOnline.cl",
+    "name": "Cultura Online",
+    "stream_urls": [
+      "https://v1.tustreaming.cl:19360/culturaonline/culturaonline.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "CumoTV.pe",
+    "name": "Cumo TV",
+    "stream_urls": [
+      "https://live.obslivestream.com/cumo/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "PE"
+  },
+  {
+    "id": "DiasporaTV.pe",
+    "name": "Diaspora TV",
+    "stream_urls": [
+      "https://s1.tvdatta.com:3804/live/diasporatvlive.m3u8"
+    ],
+    "language": "spa",
+    "country": "PE"
+  },
+  {
+    "id": "DunasTV.br",
+    "name": "Dunas TV",
+    "stream_urls": [
+      "https://5cf4a2c2512a2.streamlock.net/dunastv/dunastv/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "El33SX3.es",
+    "name": "El 33/SX3",
+    "stream_urls": [
+      "https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8",
+      "https://directes-tv-es.ccma.cat/live-origin/c33-super3-hls/master.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "ElSonorense.mx",
+    "name": "El Sonorense",
+    "stream_urls": [
+      "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "id": "Encuentro.ar",
+    "name": "Encuentro",
+    "stream_urls": [
+      "https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "EssaidaTV.tn",
+    "name": "Essaida TV",
+    "stream_urls": [
+      "https://essaidatv.dextream.com/hls/stream/index.m3u8"
+    ],
+    "language": "ara",
+    "country": "TN"
+  },
+  {
+    "id": "EurolatinaTV.es",
+    "name": "Eurolatina TV",
+    "stream_urls": [
+      "https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "EwenyigbaTV.de",
+    "name": "Ewenyigba TV",
+    "stream_urls": [
+      "https://barakyah-hls.secdn.net/barakyah-channel/play/mp4:enyigba/playlist.m3u8"
+    ],
+    "language": "ewe",
+    "country": "DE"
+  },
+  {
+    "id": "FoxSoul.us",
+    "name": "Fox Soul",
+    "stream_urls": [
+      "https://fox-foxsoul-roku.amagi.tv/playlist.m3u8",
+      "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8",
+      "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
+      "https://lnc-fox-soul-scte.tubi.video/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "ImaiTV.lk",
+    "name": "Imai TV",
+    "stream_urls": [
+      "https://rpn3.bozztv.com/ssh101/ssh101/imaitv/playlist.m3u8"
+    ],
+    "language": "tam",
+    "country": "LK"
+  },
+  {
+    "id": "IshushoTV.rw",
+    "name": "Ishusho TV",
+    "stream_urls": [
+      "https://tv.livebcm.com:3425/stream/play.m3u8"
+    ],
+    "language": "eng",
+    "country": "RW"
+  },
+  {
+    "id": "JhankarTV.ca",
+    "name": "Jhankar TV",
+    "stream_urls": [
+      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/playlist.m3u8"
+    ],
+    "language": "ben",
+    "country": "CA"
+  },
+  {
+    "id": "KDOCDT7.us",
+    "name": "KDOC-DT7",
+    "stream_urls": [
+      "https://media.streambrothers.com:1936/8228/8228/playlist.m3u8"
+    ],
+    "language": "vie",
+    "country": "US"
+  },
+  {
+    "id": "KweliTV.us",
+    "name": "Kweli TV",
+    "stream_urls": [
+      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2129"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Madaniyat.kg",
+    "name": "Madaniyat",
+    "stream_urls": [
+      "https://st2.mediabay.tv/KG_KTRK-Madaniyat/playlist.m3u8"
+    ],
+    "language": "kir",
+    "country": "KG"
+  },
+  {
+    "id": "MBCAmerica.us",
+    "name": "MBC America",
+    "stream_urls": [
+      "https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8"
+    ],
+    "language": "kor",
+    "country": "US"
+  },
+  {
+    "id": "MCN6ArtsChannel.us",
+    "name": "MCN6 Arts Channel",
+    "stream_urls": [
+      "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "MedeniyyetTV.az",
+    "name": "Medeniyyet TV",
+    "stream_urls": [
+      "https://str.yodacdn.net/medeniyyet/index.m3u8"
+    ],
+    "language": "aze",
+    "country": "AZ"
+  },
+  {
+    "id": "MetroGlobeNetwork.id",
+    "name": "Metro Globe Network",
+    "stream_urls": [
+      "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "ID"
+  },
+  {
+    "id": "MidpenMediaCenterChannel30.us",
+    "name": "Midpen Media Center Channel 30",
+    "stream_urls": [
+      "https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "MidpenMediaCenterChannel75.us",
+    "name": "Midpen Media Center Channel 75",
+    "stream_urls": [
+      "https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Miras.tm",
+    "name": "Miras",
+    "stream_urls": [
+      "https://alpha.tv.online.tm/hls/ch003.m3u8",
+      "https://alpha.tv.online.tm/legacyhls/ch003.m3u8"
+    ],
+    "language": "tuk",
+    "country": "TM"
+  },
+  {
+    "id": "MuseumTVFast.us",
+    "name": "Museum TV Fast",
+    "stream_urls": [
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungse/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "MuseumTVFrench.fr",
+    "name": "Museum TV French",
+    "stream_urls": [
+      "https://live2.creacast.com/museum-france/smil:museum-france.smil/master.m3u8",
+      "https://rakutenaa-museumtv-fr-rakuten-nilyp.amagi.tv/playlist/rakutenAA-museumtv-fr-rakuten/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8",
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungnl/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "NHKWorldJapan.jp",
+    "name": "NHK World-Japan",
+    "stream_urls": [
+      "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8",
+      "https://ythls.armelin.one/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8",
+      "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8",
+      "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8"
+    ],
+    "language": "eng",
+    "country": "JP"
+  },
+  {
+    "id": "NTV.cl",
+    "name": "NTV",
+    "stream_urls": [
+      "https://marine2.miplay.cl/ntv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "OndambientalTV.co",
+    "name": "Ondambiental TV",
+    "stream_urls": [
+      "https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CO"
+  },
+  {
+    "id": "OneNationTV.sn",
+    "name": "One Nation TV",
+    "stream_urls": [
+      "https://endour.net/hls/One_nationtv/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "SN"
+  },
+  {
+    "id": "OnlineTVNusantara.id",
+    "name": "Online TV Nusantara",
+    "stream_urls": [
+      "https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8"
+    ],
+    "language": "ind",
+    "country": "ID"
+  },
+  {
+    "id": "PanarmenianTV.us",
+    "name": "Panarmenian TV",
+    "stream_urls": [
+      "https://us1.ottstream.live:17071/C279/index.m3u8?token=123TREWQ456"
+    ],
+    "language": "hye",
+    "country": "US"
+  },
+  {
+    "id": "PLTV.ve",
+    "name": "PLTV",
+    "stream_urls": [
+      "https://vcp2.myplaytv.com/pltv/pltv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "VE"
+  },
+  {
+    "id": "PlutoTVCineSuspenso.us",
+    "name": "Pluto TV Cine Suspenso",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId="
+    ],
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "id": "PresumiendoMexico.mx",
+    "name": "Presumiendo Mexico",
+    "stream_urls": [
+      "https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "id": "QausainTV.ng",
+    "name": "Qausain TV",
+    "stream_urls": [
+      "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "NG"
+  },
+  {
+    "id": "RTBZenith.bf",
+    "name": "RTB Zenith",
+    "stream_urls": [
+      "https://edge20.vedge.infomaniak.com/livecast/ik:zenith/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "BF",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "RussiaK.ru",
+    "name": "Russia-K",
+    "stream_urls": [
+      "https://player.smotrim.ru/iframe/stream/live_id/19201",
+      "https://streaming.televizor-24-tochka.ru/live/9.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "id": "Salto2.nl",
+    "name": "Salto 2",
+    "stream_urls": [
+      "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8"
+    ],
+    "language": "nld",
+    "country": "NL"
+  },
+  {
+    "id": "SanskarTV.in",
+    "name": "Sanskar TV",
+    "stream_urls": [
+      "https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "id": "SaudiThaqafiyaTV.sa",
+    "name": "Saudi Thaqafiya TV",
+    "stream_urls": [
+      "https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8"
+    ],
+    "language": "ara",
+    "country": "SA"
+  },
+  {
+    "id": "SenalU.ar",
+    "name": "Senal U",
+    "stream_urls": [
+      "https://tvd.uncu.edu.ar/memfs/2d4ab656-9596-4ce8-85a5-9aae1cf3a31d.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "ShowVenTV.ve",
+    "name": "ShowVen TV",
+    "stream_urls": [
+      "https://vcp.myplaytv.com/coll/coll/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "VE"
+  },
+  {
+    "id": "SomosCulturaTV.pa",
+    "name": "Somos Cultura TV",
+    "stream_urls": [
+      "https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "PA"
+  },
+  {
+    "id": "STZTV.br",
+    "name": "STZ TV",
+    "stream_urls": [
+      "https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "SuperscreenTV.ng",
+    "name": "Superscreen TV",
+    "stream_urls": [
+      "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "NG"
+  },
+  {
+    "id": "TeatroTV.it",
+    "name": "Teatro TV",
+    "stream_urls": [
+      "https://m.iostream.it/hls/teatrotv/teatrotv.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "TeleAmbienteTV.it",
+    "name": "TeleAmbiente TV",
+    "stream_urls": [
+      "https://5f22d76e220e1.streamlock.net/teleambiente/teleambiente/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "TeleMaroc.ma",
+    "name": "Tele Maroc",
+    "stream_urls": [
+      "https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8"
+    ],
+    "language": "ara",
+    "country": "MA"
+  },
+  {
+    "id": "Telepace2.it",
+    "name": "Telepace 2",
+    "stream_urls": [
+      "https://live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/index.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "TODAYTV.us",
+    "name": "TODAY TV",
+    "stream_urls": [
+      "https://todayhls.wns.live/hls/stream.m3u8"
+    ],
+    "language": "fas",
+    "country": "US"
+  },
+  {
+    "id": "TuCanalTV.pa",
+    "name": "Tu Canal TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCziREKwhu2KgoDVNlRrfMBw.m3u8"
+    ],
+    "language": "spa",
+    "country": "PA"
+  },
+  {
+    "id": "TVart.bg",
+    "name": "TVart",
+    "stream_urls": [
+      "https://stream.osc.bg/tvart/Stream3/playlist.m3u8"
+    ],
+    "language": "bul",
+    "country": "BG"
+  },
+  {
+    "id": "TVBEJoinville.br",
+    "name": "TVBE Joinville",
+    "stream_urls": [
+      "https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "TVERS.br",
+    "name": "TVE RS",
+    "stream_urls": [
+      "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "TVGCultural.es",
+    "name": "TVG Cultural",
+    "stream_urls": [
+      "https://cultural-crtvg.flumotion.com/playlist.m3u8"
+    ],
+    "language": "glg",
+    "country": "ES"
+  },
+  {
+    "id": "TVOmindare.br",
+    "name": "TV Omindare",
+    "stream_urls": [
+      "https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "TVPlus.cr",
+    "name": "TV+",
+    "stream_urls": [
+      "https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CR"
+  },
+  {
+    "id": "TVPlus2.cl",
+    "name": "TV+ 2",
+    "stream_urls": [
+      "https://marine2.miplay.cl/tateti/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "TVRCultural.ro",
+    "name": "TVR Cultural",
+    "stream_urls": [
+      "https://mn-nl.mncdn.com/tvr_cultural/tvrcultural/index.m3u8"
+    ],
+    "language": "ron",
+    "country": "RO"
+  },
+  {
+    "id": "UChileTV.cl",
+    "name": "UChile TV",
+    "stream_urls": [
+      "https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "UnisulTV.br",
+    "name": "Unisul TV",
+    "stream_urls": [
+      "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "USMPTV.pe",
+    "name": "USMPTV",
+    "stream_urls": [
+      "https://streamusmptv.ddns.net/live/stream.m3u8"
+    ],
+    "language": "spa",
+    "country": "PE"
+  },
+  {
+    "id": "WeddingTV.it",
+    "name": "Wedding TV",
+    "stream_urls": [
+      "https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "WomanTV.tr",
+    "name": "Woman TV",
+    "stream_urls": [
+      "https://embedlp.becdn.net/womantv.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "id": "XHSPRTDT1.mx",
+    "name": "XHSPR-TDT1",
+    "stream_urls": [
+      "https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "id": "YakaarTV.sn",
+    "name": "Yakaar TV",
+    "stream_urls": [
+      "https://strhls.streamakaci.tv/yakaartv/yakaartv-multi/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "SN"
+  },
+  {
+    "id": "YemenShababChannel.ye",
+    "name": "Yemen Shabab Channel",
+    "stream_urls": [
+      "https://master.starmena-cloud.com/hls/yemenshabab.m3u8"
+    ],
+    "language": "ara",
+    "country": "YE"
+  },
+  {
+    "id": "ZaireTV.uk",
+    "name": "Zaire TV",
+    "stream_urls": [
+      "https://5caf24a595d94.streamlock.net:1937/kcvugnzbpu/kcvugnzbpu/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "UK"
+  }
+]

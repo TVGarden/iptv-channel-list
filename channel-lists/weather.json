@@ -1,0 +1,127 @@
+[
+  {
+    "id": "AccuWeatherNOW.us",
+    "name": "AccuWeather NOW",
+    "stream_urls": [
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
+      "https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "FoxWeather.us",
+    "name": "Fox Weather",
+    "stream_urls": [
+      "https://247wlive.foxweather.com/stream/index.m3u8",
+      "https://lnc-fox-weather.tubi.video/index.m3u8",
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8",
+      "https://foxweather-xumo.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "KCKSLD6.us",
+    "name": "KCKS-LD6",
+    "stream_urls": [
+      "https://cdn.igocast.com/channel6_hls/channel6_master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "KTCADT5.us",
+    "name": "KTCA-DT5",
+    "stream_urls": [
+      "https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "Meteonews.ch",
+    "name": "Meteonews",
+    "stream_urls": [
+      "https://streaming.meteonews.net/hls/stream.m3u8"
+    ],
+    "language": "deu",
+    "country": "CH"
+  },
+  {
+    "id": "MeteoTVTV.ro",
+    "name": "MeteoTV.TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCme7pPv6AZoSMsFbSYK0esg.m3u8"
+    ],
+    "language": "ron",
+    "country": "RO"
+  },
+  {
+    "id": "NHKKishouSaigai.jp",
+    "name": "NHK Kishou-Saigai",
+    "stream_urls": [
+      "https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8"
+    ],
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "id": "PlutoTVWeatherNation.us",
+    "name": "Pluto TV WeatherNation",
+    "stream_urls": [
+      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=",
+      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "WeatherNation.us",
+    "name": "WeatherNation",
+    "stream_urls": [
+      "https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "Weathernews.jp",
+    "name": "Weathernews",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8",
+      "https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8"
+    ],
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "id": "WeatherSpy.ca",
+    "name": "WeatherSpy",
+    "stream_urls": [
+      "https://jukin-weatherspy-2-ca.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA"
+  },
+  {
+    "id": "WeatherSpy.in",
+    "name": "WeatherSpy",
+    "stream_urls": [
+      "https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "id": "WeatherSpy.us",
+    "name": "WeatherSpy",
+    "stream_urls": [
+      "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8",
+      "https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  }
+]
