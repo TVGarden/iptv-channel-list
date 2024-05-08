@@ -429,6 +429,15 @@
     "country": "CA"
   },
   {
+    "id": "BelRTL.be",
+    "name": "Bel RTL",
+    "stream_urls": [
+      "https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8"
+    ],
+    "language": "fra",
+    "country": "BE"
+  },
+  {
     "id": "BestCableMusic.pe",
     "name": "Best Cable Music",
     "stream_urls": [

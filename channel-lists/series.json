@@ -211,6 +211,16 @@
     "country": "FR"
   },
   {
+    "id": "BeanoTV.uk",
+    "name": "Beano TV",
+    "stream_urls": [
+      "https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8",
+      "https://a5b4bacecd47433dad06d3189fc7422e.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BeanoTV/b1f233d5-847c-437d-aa4f-f73e67a85323/2.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
     "id": "BlackInkCrew.us",
     "name": "Black Ink Crew",
     "stream_urls": [

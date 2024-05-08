@@ -503,6 +503,25 @@
     "country": "NL"
   },
   {
+    "id": "Belarus2.by",
+    "name": "Belarus-2",
+    "stream_urls": [
+      "https://edge60.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8"
+    ],
+    "language": "rus",
+    "country": "BY"
+  },
+  {
+    "id": "Bellavision.do",
+    "name": "Bellavision",
+    "stream_urls": [
+      "https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8"
+    ],
+    "language": "spa",
+    "country": "DO"
+  },
+  {
     "id": "BENTelevision.uk",
     "name": "BEN Television",
     "stream_urls": [

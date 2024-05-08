@@ -149,6 +149,16 @@
     "isGeoBlocked": true
   },
   {
+    "id": "Belarus3.by",
+    "name": "Belarus-3",
+    "stream_urls": [
+      "https://edge60.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
+    ],
+    "language": "rus",
+    "country": "BY"
+  },
+  {
     "id": "BXArts.us",
     "name": "BX Arts",
     "stream_urls": [

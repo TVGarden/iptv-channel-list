@@ -860,6 +860,15 @@
     "country": "IQ"
   },
   {
+    "id": "BeautifulLifeTV.tw",
+    "name": "Beautiful Life TV",
+    "stream_urls": [
+      "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"
+    ],
+    "language": "zho",
+    "country": "TW"
+  },
+  {
     "id": "BeitolAbbasTVChannel.iq",
     "name": "BeitolAbbas TV Channel",
     "stream_urls": [

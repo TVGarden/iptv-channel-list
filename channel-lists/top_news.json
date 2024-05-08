@@ -85,6 +85,16 @@
     "country": "US"
   },
   {
+    "id": "DWEnglish.de",
+    "name": "DW English",
+    "stream_urls": [
+      "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+      "https://ythls.armelin.one/channel/UCknLrEdhRCp1aegoMqRaCZg.m3u8"
+    ],
+    "language": "eng",
+    "country": "DE"
+  },
+  {
     "id": "EuronewsEnglish.fr",
     "name": "Euronews English",
     "stream_urls": [
