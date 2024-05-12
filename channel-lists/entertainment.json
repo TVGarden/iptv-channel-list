@@ -2596,15 +2596,6 @@
     "country": "EC"
   },
   {
-    "id": "SEOTV6.bo",
-    "name": "SEO TV 6",
-    "stream_urls": [
-      "https://live.seo.tv.bo/live/SEO-6.m3u8"
-    ],
-    "language": "spa",
-    "country": "BO"
-  },
-  {
     "id": "SETTV2.us",
     "name": "SET TV 2",
     "stream_urls": [
@@ -3354,6 +3345,15 @@
     ],
     "language": "eng",
     "country": "US"
+  },
+  {
+    "id": "WorldVybzTV.jm",
+    "name": "World Vybz TV",
+    "stream_urls": [
+      "https://tv.wowzahosting.com:3292/stream/play.m3u8"
+    ],
+    "language": "spa",
+    "country": "JM"
   },
   {
     "id": "WRUADT1.pr",

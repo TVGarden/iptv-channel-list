@@ -845,6 +845,15 @@
     "country": "TR"
   },
   {
+    "id": "WorldChannel.us",
+    "name": "World Channel",
+    "stream_urls": [
+      "https://world.lls.pbs.org/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "id": "WPSTV.us",
     "name": "WPS-TV",
     "stream_urls": [

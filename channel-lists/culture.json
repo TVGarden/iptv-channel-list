@@ -476,6 +476,15 @@
     "country": "FR"
   },
   {
+    "id": "NHKWorldEspanol.jp",
+    "name": "NHK World Espanol",
+    "stream_urls": [
+      "https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "JP"
+  },
+  {
     "id": "NHKWorldJapan.jp",
     "name": "NHK World-Japan",
     "stream_urls": [

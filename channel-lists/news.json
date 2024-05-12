@@ -4027,10 +4027,31 @@
     "country": "JP"
   },
   {
+    "id": "Medi1TVAfrique.ma",
+    "name": "Medi 1 TV Afrique",
+    "stream_urls": [
+      "https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8",
+      "https://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "MA"
+  },
+  {
+    "id": "Medi1TVArabic.ma",
+    "name": "Medi 1 TV Arabic",
+    "stream_urls": [
+      "https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8",
+      "https://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "MA"
+  },
+  {
     "id": "Medi1TVMaghreb.ma",
     "name": "Medi 1 TV Maghreb",
     "stream_urls": [
-      "https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8"
+      "https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8",
+      "https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8"
     ],
     "language": "fra",
     "country": "MA"
@@ -4633,6 +4654,15 @@
       "https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8"
     ],
     "language": "zho",
+    "country": "JP"
+  },
+  {
+    "id": "NHKWorldEspanol.jp",
+    "name": "NHK World Espanol",
+    "stream_urls": [
+      "https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8"
+    ],
+    "language": "spa",
     "country": "JP"
   },
   {
@@ -5925,15 +5955,6 @@
     ],
     "language": "hin",
     "country": "US"
-  },
-  {
-    "id": "TBSNEWS.jp",
-    "name": "TBS NEWS",
-    "stream_urls": [
-      "https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8"
-    ],
-    "language": "jpn",
-    "country": "JP"
   },
   {
     "id": "TCM10HD.br",
