@@ -1414,15 +1414,6 @@
     "country": "VE"
   },
   {
-    "id": "Karibena.pe",
-    "name": "Karibena",
-    "stream_urls": [
-      "https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.fmp4.m3u8"
-    ],
-    "language": "spa",
-    "country": "PE"
-  },
-  {
     "id": "KissTV.ro",
     "name": "Kiss TV",
     "stream_urls": [
@@ -2097,6 +2088,15 @@
     "language": "rus",
     "country": "RU",
     "isGeoBlocked": true
+  },
+  {
+    "id": "MusicPlus.pl",
+    "name": "Music+",
+    "stream_urls": [
+      "https://hugh.cdn.rumble.cloud/live/4gf18j5s/slot-79/3fqc-ohua/chunklist_DVR.m3u8"
+    ],
+    "language": "pol",
+    "country": "PL"
   },
   {
     "id": "MuzangalaTV.ao",
@@ -2986,7 +2986,7 @@
     "id": "RadioSanBorjaTV.pe",
     "name": "Radio San Borja TV",
     "stream_urls": [
-      "https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8"
+      "https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8"
     ],
     "language": "spa",
     "country": "PE"
@@ -3144,15 +3144,6 @@
       "https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8"
     ],
     "language": "eng",
-    "country": "CL"
-  },
-  {
-    "id": "RetroPlus2.cl",
-    "name": "Retro Plus 2",
-    "stream_urls": [
-      "https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8"
-    ],
-    "language": "spa",
     "country": "CL"
   },
   {
@@ -4017,7 +4008,7 @@
     "id": "TopLatinoTV.pe",
     "name": "Top Latino TV",
     "stream_urls": [
-      "https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8"
+      "https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/playlist.m3u8"
     ],
     "language": "spa",
     "country": "PE"

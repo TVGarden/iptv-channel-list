@@ -228,6 +228,15 @@
     "country": "CL"
   },
   {
+    "id": "FanpopTV.cl",
+    "name": "Fanpop TV",
+    "stream_urls": [
+      "https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
     "id": "Geekdot.br",
     "name": "Geekdot",
     "stream_urls": [

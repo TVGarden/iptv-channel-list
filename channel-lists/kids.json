@@ -1288,6 +1288,16 @@
     "country": "US"
   },
   {
+    "id": "SmileTV.gr",
+    "name": "Smile TV",
+    "stream_urls": [
+      "https://s1.cystream.net/live/smile/playlist.m3u8"
+    ],
+    "language": "ell",
+    "country": "GR",
+    "isGeoBlocked": true
+  },
+  {
     "id": "SpacetoonArabic.ae",
     "name": "Spacetoon Arabic",
     "stream_urls": [
@@ -1464,6 +1474,15 @@
     "name": "TRT Cocuk",
     "stream_urls": [
       "https://tv-trtcocuk.live.trt.com.tr/master.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "id": "TRTDiyanetCocuk.tr",
+    "name": "TRT Diyanet Cocuk",
+    "stream_urls": [
+      "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8"
     ],
     "language": "tur",
     "country": "TR"

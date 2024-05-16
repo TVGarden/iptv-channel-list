@@ -1795,15 +1795,6 @@
     "country": "US"
   },
   {
-    "id": "RetroPlus3.cl",
-    "name": "Retro Plus 3",
-    "stream_urls": [
-      "https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8"
-    ],
-    "language": "spa",
-    "country": "CL"
-  },
-  {
     "id": "RotanaCinemaEgypt.eg",
     "name": "Rotana Cinema Egypt",
     "stream_urls": [

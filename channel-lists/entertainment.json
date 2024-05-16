@@ -407,6 +407,7 @@
     "id": "AsianTV.bd",
     "name": "Asian TV",
     "stream_urls": [
+      "https://mtlivestream.site/asian/ytlive/index.m3u8",
       "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/playlist.m3u8"
     ],
     "language": "ben",
@@ -1709,15 +1710,6 @@
     "country": "MX"
   },
   {
-    "id": "M6.fr",
-    "name": "M6",
-    "stream_urls": [
-      "https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8"
-    ],
-    "language": "fra",
-    "country": "FR"
-  },
-  {
     "id": "MagicPowerRadio.nl",
     "name": "Magic PowerRadio",
     "stream_urls": [
@@ -1842,6 +1834,15 @@
     ],
     "language": "spa",
     "country": "VE"
+  },
+  {
+    "id": "MeritStreet.us",
+    "name": "Merit Street",
+    "stream_urls": [
+      "https://tbn-jw.cdn.vustreams.com/live/merit-dev/live.isml/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
   },
   {
     "id": "MetaVersusCR.cr",

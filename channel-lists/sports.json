@@ -1134,7 +1134,7 @@
     "id": "RTASport.af",
     "name": "RTA Sport",
     "stream_urls": [
-      "https://hls.rtasport.live/hls/stream.m3u8"
+      "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8"
     ],
     "language": "pus",
     "country": "AF"

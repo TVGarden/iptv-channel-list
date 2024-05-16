@@ -1366,6 +1366,16 @@
     "country": "KE"
   },
   {
+    "id": "DieNeueZeitTV.ch",
+    "name": "Die Neue Zeit TV",
+    "stream_urls": [
+      "https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8",
+      "https://www.onairport.live/die-neue-zeit-tv-live/livestream/playlist.m3u8"
+    ],
+    "language": "deu",
+    "country": "CH"
+  },
+  {
     "id": "DiosTeVe.hn",
     "name": "Dios Te Ve",
     "stream_urls": [
@@ -3852,7 +3862,7 @@
     "id": "SaltTV.ug",
     "name": "Salt TV",
     "stream_urls": [
-      "https://salttelevision.com/memfs/d1b981f8-317d-4750-8eb0-1c116add469c.m3u8",
+      "https://live.salttelevision.com/app/stream/abr.m3u8",
       "https://readymedia.moderntv.cloud:8092/distribute/readymedia/SALTTV_stream_13/5-20-hls/live.m3u8"
     ],
     "language": "eng",

@@ -137,6 +137,7 @@
     "name": "24 TV",
     "stream_urls": [
       "https://tv.ensonhaber.com/tv24/tv24.m3u8",
+      "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
       "https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8"
     ],
     "language": "tur",
@@ -733,7 +734,7 @@
   },
   {
     "id": "AlertTV.gr",
-    "name": "AlertTV",
+    "name": "Alert TV",
     "stream_urls": [
       "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8"
     ],
@@ -1262,8 +1263,7 @@
     "id": "ATVPlus.pe",
     "name": "ATV+",
     "stream_urls": [
-      "https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8",
-      "https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8"
+      "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8"
     ],
     "language": "spa",
     "country": "PE"
@@ -3026,6 +3026,7 @@
     "id": "HaberturkTV.tr",
     "name": "Haberturk TV",
     "stream_urls": [
+      "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8",
       "https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8",
       "https://tv.ensonhaber.com/haberturk/haberturk.m3u8"
     ],
@@ -3236,7 +3237,7 @@
     "id": "IdentidadTV.pe",
     "name": "Identidad TV",
     "stream_urls": [
-      "https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8"
+      "https://cast.stre.live7.la:3322/live/identidadtvlive.m3u8"
     ],
     "language": "spa",
     "country": "PE"
@@ -4548,7 +4549,7 @@
     "id": "NewsmaxTV.us",
     "name": "Newsmax TV",
     "stream_urls": [
-      "https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8",
+      "https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8",
       "https://newsmax-samsungus.amagi.tv/playlist.m3u8",
       "https://newsmax-vizio.amagi.tv/playlist.m3u8",
       "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
@@ -4850,6 +4851,15 @@
     "language": "eng",
     "country": "US",
     "isGeoBlocked": true
+  },
+  {
+    "id": "OANPlus.us",
+    "name": "OAN Plus",
+    "stream_urls": [
+      "https://oan-plus-tcl.amagi.tv/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
   },
   {
     "id": "ObservatorNews.ro",

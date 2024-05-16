@@ -1601,7 +1601,7 @@
     "id": "ATV.pe",
     "name": "ATV",
     "stream_urls": [
-      "https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8"
+      "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8"
     ],
     "language": "spa",
     "country": "PE"
@@ -1619,7 +1619,7 @@
     "id": "ATVSur.pe",
     "name": "ATV Sur",
     "stream_urls": [
-      "https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8"
+      "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8"
     ],
     "language": "spa",
     "country": "PE"
@@ -2353,6 +2353,15 @@
     "country": "HU"
   },
   {
+    "id": "BHTV.pe",
+    "name": "BHTV",
+    "stream_urls": [
+      "https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8"
+    ],
+    "language": "spa",
+    "country": "PE"
+  },
+  {
     "id": "BioBioTV.cl",
     "name": "Bio Bio TV",
     "stream_urls": [
@@ -2421,7 +2430,7 @@
     "id": "BNBDigital.pe",
     "name": "BNB Digital",
     "stream_urls": [
-      "https://vdo.panelstreaming.live:3806/live/bnbdigitallive.m3u8"
+      "https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8"
     ],
     "language": "spa",
     "country": "PE"
@@ -7768,6 +7777,15 @@
     "country": "CZ"
   },
   {
+    "id": "PolarTV.cz",
+    "name": "Polar TV",
+    "stream_urls": [
+      "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8"
+    ],
+    "language": "ces",
+    "country": "CZ"
+  },
+  {
     "id": "PORTMONETV.ua",
     "name": "PORT-MONE.TV",
     "stream_urls": [
@@ -8606,7 +8624,7 @@
     "id": "RTA.af",
     "name": "RTA",
     "stream_urls": [
-      "https://hls.rta.live/hls/stream.m3u8"
+      "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8"
     ],
     "language": "fas",
     "country": "AF"
