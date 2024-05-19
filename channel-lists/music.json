@@ -3201,26 +3201,6 @@
     "country": "RO"
   },
   {
-    "id": "RotanaKhalijia.sa",
-    "name": "Rotana Khalijia",
-    "stream_urls": [
-      "https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8"
-    ],
-    "language": "ara",
-    "country": "SA",
-    "isGeoBlocked": true
-  },
-  {
-    "id": "RotanaMusic.sa",
-    "name": "Rotana Music",
-    "stream_urls": [
-      "https://daiconnect.com/live/hls/rotana/music/.m3u8"
-    ],
-    "language": "ara",
-    "country": "SA",
-    "isGeoBlocked": true
-  },
-  {
     "id": "RTVMusic.bd",
     "name": "RTV Music",
     "stream_urls": [

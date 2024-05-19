@@ -6046,16 +6046,6 @@
     "country": "BR"
   },
   {
-    "id": "LBC.sa",
-    "name": "LBC",
-    "stream_urls": [
-      "https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8"
-    ],
-    "language": "ara",
-    "country": "SA",
-    "isGeoBlocked": true
-  },
-  {
     "id": "LeFigaroTVIledeFrance.fr",
     "name": "Le Figaro TV Ile-de-France",
     "stream_urls": [

@@ -1798,23 +1798,19 @@
     "id": "RotanaCinemaEgypt.eg",
     "name": "Rotana Cinema Egypt",
     "stream_urls": [
-      "https://daiconnect.com/live/hls/rotana/cinema-masr-egypt/.m3u8",
       "https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8"
     ],
     "language": "ara",
-    "country": "EG",
-    "isGeoBlocked": true
+    "country": "EG"
   },
   {
     "id": "RotanaCinemaKSA.sa",
     "name": "Rotana Cinema KSA",
     "stream_urls": [
-      "https://daiconnect.com/live/hls/rotana/cinema-ksa/.m3u8",
       "https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8"
     ],
     "language": "ara",
-    "country": "SA",
-    "isGeoBlocked": true
+    "country": "SA"
   },
   {
     "id": "Russkiyroman.ru",

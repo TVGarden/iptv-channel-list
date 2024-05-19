@@ -2406,19 +2406,11 @@
     "country": "CO"
   },
   {
-    "id": "IqraaAfricaEurope.sa",
-    "name": "Iqraa Africa & Europe",
-    "stream_urls": [
-      "https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope.m3u8"
-    ],
-    "language": "fra",
-    "country": "SA"
-  },
-  {
     "id": "IqraaArabic.sa",
     "name": "Iqraa Arabic",
     "stream_urls": [
-      "https://jmc-live.ercdn.net/iqraa/iqraa.m3u8"
+      "https://jmc-live.ercdn.net/iqraa/iqraa.m3u8",
+      "https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8"
     ],
     "language": "ara",
     "country": "SA"
