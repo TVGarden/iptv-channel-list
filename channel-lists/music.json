@@ -1132,6 +1132,15 @@
     "country": "PE"
   },
   {
+    "id": "GalaxyTV.ug",
+    "name": "Galaxy TV",
+    "stream_urls": [
+      "https://readymedia.moderntv.cloud:8092/distribute/readymedia/ABS_stream_gy/5-20-hls/live.m3u8"
+    ],
+    "language": "eng",
+    "country": "UG"
+  },
+  {
     "id": "GalerasTV.co",
     "name": "Galeras TV",
     "stream_urls": [
@@ -1766,6 +1775,15 @@
     ],
     "language": "ita",
     "country": "IT"
+  },
+  {
+    "id": "MadrasFMTV.gp",
+    "name": "Madras FM TV",
+    "stream_urls": [
+      "https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8"
+    ],
+    "language": "fra",
+    "country": "GP"
   },
   {
     "id": "MagentaMusik360.de",
@@ -3199,6 +3217,15 @@
     ],
     "language": "ron",
     "country": "RO"
+  },
+  {
+    "id": "RTLGold.lu",
+    "name": "RTL Gold",
+    "stream_urls": [
+      "https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8"
+    ],
+    "language": "ltz",
+    "country": "LU"
   },
   {
     "id": "RTVMusic.bd",

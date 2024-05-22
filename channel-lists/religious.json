@@ -1741,7 +1741,7 @@
     "id": "FicoaTV.ec",
     "name": "Ficoa TV",
     "stream_urls": [
-      "https://rpn3.bozztv.com/ssh101/ssh101/FicoaTVM/playlist.m3u8"
+      "https://ssh101-fl.bozztv.com/ssh101/FicoaTVM/playlist.m3u8"
     ],
     "language": "spa",
     "country": "EC"
@@ -3210,6 +3210,15 @@
     "country": "CL"
   },
   {
+    "id": "MunaraTV.kz",
+    "name": "Munara TV",
+    "stream_urls": [
+      "https://ythls.onrender.com/channel/UC4tTvzqFKK2Dpfp-qP47b1w.m3u8"
+    ],
+    "language": "kaz",
+    "country": "KZ"
+  },
+  {
     "id": "MuthingiTV.ke",
     "name": "Muthingi TV",
     "stream_urls": [
@@ -3433,6 +3442,15 @@
     ],
     "language": "fra",
     "country": "CD"
+  },
+  {
+    "id": "ParoleParleeTV.ci",
+    "name": "Parole Parlee TV",
+    "stream_urls": [
+      "https://ythls.onrender.com/channel/UCTWC45fM79-R8wFQPosO1xg.m3u8"
+    ],
+    "language": "fra",
+    "country": "CI"
   },
   {
     "id": "PayvandTV.ir",
@@ -3770,6 +3788,15 @@
     "country": "CL"
   },
   {
+    "id": "RestTV.ug",
+    "name": "Rest TV",
+    "stream_urls": [
+      "https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/RestTV/10-hls/live-media.m3u8"
+    ],
+    "language": "eng",
+    "country": "UG"
+  },
+  {
     "id": "ReveilTVSAT.fr",
     "name": "Reveil TV SAT",
     "stream_urls": [
@@ -3916,6 +3943,15 @@
     "country": "CY"
   },
   {
+    "id": "SathiTV.lk",
+    "name": "Sathi TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCj-bQzHpWB5MtmJoDzizzbw.m3u8"
+    ],
+    "language": "sin",
+    "country": "LK"
+  },
+  {
     "id": "SayareTV.ke",
     "name": "Sayare TV",
     "stream_urls": [
@@ -4007,6 +4043,15 @@
     "country": "IN"
   },
   {
+    "id": "SMATogoTV.tg",
+    "name": "SMATogoTV",
+    "stream_urls": [
+      "https://smatogo.tv:89/smatogo/smatogo.m3u8"
+    ],
+    "language": "fra",
+    "country": "TG"
+  },
+  {
     "id": "SOATV.ke",
     "name": "SOA TV",
     "stream_urls": [
@@ -4061,6 +4106,15 @@
     ],
     "language": "ron",
     "country": "RO"
+  },
+  {
+    "id": "SpiritOfGloryTV.ug",
+    "name": "Spirit Of Glory TV",
+    "stream_urls": [
+      "https://panel.freedomflixtv.org:3937/hybrid/play.m3u8"
+    ],
+    "language": "eng",
+    "country": "UG"
   },
   {
     "id": "SpiritTV.ug",

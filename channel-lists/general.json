@@ -1957,6 +1957,15 @@
     "country": "GT"
   },
   {
+    "id": "BarinasTV.ve",
+    "name": "Barinas TV",
+    "stream_urls": [
+      "https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "VE"
+  },
+  {
     "id": "Bashkortostan24.ru",
     "name": "Bashkortostan 24",
     "stream_urls": [
@@ -2289,6 +2298,15 @@
     "isGeoBlocked": true
   },
   {
+    "id": "BBSTV.ug",
+    "name": "BBS TV",
+    "stream_urls": [
+      "https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/BBSTV/5-hls/live-media.m3u8"
+    ],
+    "language": "swa",
+    "country": "UG"
+  },
+  {
     "id": "BCSStarCrossTV.ng",
     "name": "BCS StarCross TV",
     "stream_urls": [
@@ -2507,6 +2525,15 @@
     ],
     "language": "pol",
     "country": "PL"
+  },
+  {
+    "id": "BTMTV.ug",
+    "name": "BTM TV",
+    "stream_urls": [
+      "https://btmug.zerocdn.org/hls/stream.m3u8"
+    ],
+    "language": "eng",
+    "country": "UG"
   },
   {
     "id": "BTV.hu",
@@ -4848,6 +4875,15 @@
     "country": "BO"
   },
   {
+    "id": "FarajaTelevision.ug",
+    "name": "Faraja Television",
+    "stream_urls": [
+      "https://panel.freedomflixtv.org:3868/hybrid/play.m3u8"
+    ],
+    "language": "eng",
+    "country": "UG"
+  },
+  {
     "id": "FaroPuntarenasTV.cr",
     "name": "Faro Puntarenas TV",
     "stream_urls": [
@@ -5510,7 +5546,7 @@
     "id": "JibekJoly.kz",
     "name": "Jibek Joly",
     "stream_urls": [
-      "https://ikomg3.s.llnwi.net/test123/master.m3u8"
+      "https://stream.qazcdn.net/jjtv/jjtv/playlist.m3u8"
     ],
     "language": "kaz",
     "country": "KZ"
@@ -7151,6 +7187,15 @@
     "country": "BR"
   },
   {
+    "id": "NTV.na",
+    "name": "NTV",
+    "stream_urls": [
+      "https://s-pl-01.mediatool.tv/playout/ntv-abr/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "NA"
+  },
+  {
     "id": "NTV.ru",
     "name": "NTV",
     "stream_urls": [
@@ -7419,6 +7464,15 @@
     ],
     "language": "ind",
     "country": "ID"
+  },
+  {
+    "id": "OnniTV.fi",
+    "name": "Onni TV",
+    "stream_urls": [
+      "https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8"
+    ],
+    "language": "fin",
+    "country": "FI"
   },
   {
     "id": "ONT.by",
@@ -8638,6 +8692,24 @@
     "country": "US"
   },
   {
+    "id": "RTLTeleLetzebuerg.lu",
+    "name": "RTL Tele Letzebuerg",
+    "stream_urls": [
+      "https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8"
+    ],
+    "language": "ltz",
+    "country": "LU"
+  },
+  {
+    "id": "RTLWebRadioTV.lu",
+    "name": "RTL Web Radio TV",
+    "stream_urls": [
+      "https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8"
+    ],
+    "language": "ltz",
+    "country": "LU"
+  },
+  {
     "id": "RTLZwee.lu",
     "name": "RTL Zwee",
     "stream_urls": [
@@ -8919,6 +8991,15 @@
     ],
     "language": "hrv",
     "country": "HR"
+  },
+  {
+    "id": "ScandaloTV.ec",
+    "name": "Scandalo TV",
+    "stream_urls": [
+      "https://ssh101-fl.bozztv.com/ssh101/scandalotv/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "EC"
   },
   {
     "id": "SCBCTV.cm",
@@ -11013,6 +11094,25 @@
     "country": "BR"
   },
   {
+    "id": "TVColorCanal36.ec",
+    "name": "TV Color Canal 36",
+    "stream_urls": [
+      "https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8"
+    ],
+    "language": "spa",
+    "country": "EC"
+  },
+  {
+    "id": "TVCom.be",
+    "name": "TVCom",
+    "stream_urls": [
+      "https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/master.m3u8"
+    ],
+    "language": "fra",
+    "country": "BE",
+    "isGeoBlocked": true
+  },
+  {
     "id": "TVCOMMaceio.br",
     "name": "TVCOM Maceio",
     "stream_urls": [
@@ -12143,6 +12243,15 @@
     ],
     "language": "spa",
     "country": "BO"
+  },
+  {
+    "id": "UniTV.ve",
+    "name": "UniTV",
+    "stream_urls": [
+      "https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "VE"
   },
   {
     "id": "UNTV.ph",

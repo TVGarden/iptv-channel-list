@@ -3570,7 +3570,8 @@
     "id": "KairaliNews.in",
     "name": "Kairali News",
     "stream_urls": [
-      "https://ythls.armelin.one/channel/UCkCWitaToNG1_lR-Si1oMrg.m3u8"
+      "https://ythls.armelin.one/channel/UCkCWitaToNG1_lR-Si1oMrg.m3u8",
+      "https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8"
     ],
     "language": "mal",
     "country": "IN"
@@ -5106,7 +5107,7 @@
     "id": "PrensaEc.ec",
     "name": "PrensaEc",
     "stream_urls": [
-      "https://rpn3.bozztv.com/ssh101/ssh101/prensaec/playlist.m3u8"
+      "https://ssh101-fl.bozztv.com/ssh101/prensaec/playlist.m3u8"
     ],
     "language": "spa",
     "country": "EC"
@@ -5965,6 +5966,15 @@
     ],
     "language": "hin",
     "country": "US"
+  },
+  {
+    "id": "TBSNewsDig.jp",
+    "name": "TBS News Dig",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8"
+    ],
+    "language": "jpn",
+    "country": "JP"
   },
   {
     "id": "TCM10HD.br",

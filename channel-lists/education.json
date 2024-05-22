@@ -800,6 +800,15 @@
     "country": "EC"
   },
   {
+    "id": "UNIANDESTV.ec",
+    "name": "UNIANDES TV",
+    "stream_urls": [
+      "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
+    ],
+    "language": "spa",
+    "country": "EC"
+  },
+  {
     "id": "UnisulTV.br",
     "name": "Unisul TV",
     "stream_urls": [
