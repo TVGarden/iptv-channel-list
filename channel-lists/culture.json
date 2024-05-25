@@ -64,6 +64,15 @@
     "isGeoBlocked": true
   },
   {
+    "id": "ART.gr",
+    "name": "ART",
+    "stream_urls": [
+      "https://live-4gf18j5s.rmbl.ws/slot-56/5x3r-6ido_1080p/chunklist.m3u8"
+    ],
+    "language": "ell",
+    "country": "GR"
+  },
+  {
     "id": "AsiriTV.pe",
     "name": "AsiriTV",
     "stream_urls": [
@@ -98,15 +107,6 @@
     ],
     "language": "ita",
     "country": "IT"
-  },
-  {
-    "id": "AyenehTV.us",
-    "name": "Ayeneh TV",
-    "stream_urls": [
-      "https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8"
-    ],
-    "language": "eng",
-    "country": "US"
   },
   {
     "id": "BaliTV.id",

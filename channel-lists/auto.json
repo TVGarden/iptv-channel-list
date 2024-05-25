@@ -49,33 +49,6 @@
     "country": "AR"
   },
   {
-    "id": "HarleyDavidsonFactoryTV.us",
-    "name": "Harley Davidson Factory TV",
-    "stream_urls": [
-      "https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8"
-    ],
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "id": "HarleyDavidsonRacingTV.us",
-    "name": "Harley Davidson Racing TV",
-    "stream_urls": [
-      "https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8"
-    ],
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "id": "HarleyDavidsonRidesTV.us",
-    "name": "Harley Davidson Rides TV",
-    "stream_urls": [
-      "https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8"
-    ],
-    "language": "eng",
-    "country": "US"
-  },
-  {
     "id": "MotorSurMedia.py",
     "name": "Motor Sur Media",
     "stream_urls": [

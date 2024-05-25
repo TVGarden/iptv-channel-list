@@ -479,6 +479,15 @@
     "country": "KW"
   },
   {
+    "id": "AlMaarefTV.qa",
+    "name": "Al Maaref TV",
+    "stream_urls": [
+      "https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "QA"
+  },
+  {
     "id": "AlmagdTVMiddleEast.us",
     "name": "Almagd TV Middle East",
     "stream_urls": [
@@ -532,6 +541,15 @@
     ],
     "language": "ara",
     "country": "SA"
+  },
+  {
+    "id": "AlRafidainTV.tr",
+    "name": "Al-Rafidain TV",
+    "stream_urls": [
+      "https://cdg8.edge.technocdn.com/arrafidaintv/source/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "TR"
   },
   {
     "id": "AlRahma.eg",
@@ -804,6 +822,15 @@
     ],
     "language": "ben",
     "country": "BD"
+  },
+  {
+    "id": "ATVSat.us",
+    "name": "ATVSat",
+    "stream_urls": [
+      "https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "US"
   },
   {
     "id": "AudazTV.ve",
@@ -1306,7 +1333,7 @@
     "id": "CTN.us",
     "name": "CTN",
     "stream_urls": [
-      "https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/playlist.m3u8"
+      "https://ctntv.getstreamhosting.com:1936/CTNTV/CTNTV/playlist.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -1930,7 +1957,7 @@
     "id": "GospelTruthTV.us",
     "name": "Gospel Truth TV",
     "stream_urls": [
-      "https://bstna.tulix.tv/live/bs_2m/index.m3u8"
+      "https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -2527,7 +2554,7 @@
     "id": "JewishLifeTelevision.us",
     "name": "Jewish Life Television",
     "stream_urls": [
-      "https://jlt2208.cdn.nextologies.com/065bfb40eb8ec3bec9595def7957fd86/cfa912d9928e8e0e7d616abbcb7896b1/playlist.m3u8"
+      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/jewish-life-television-jltv/playlist.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -2675,6 +2702,15 @@
     ],
     "language": "eng",
     "country": "US"
+  },
+  {
+    "id": "LGDTelevision.ve",
+    "name": "LGD Television",
+    "stream_urls": [
+      "https://streamtv.intervenhosting.net:3259/hybrid/play.m3u8"
+    ],
+    "language": "spa",
+    "country": "VE"
   },
   {
     "id": "LifeStyleTV.se",
@@ -4724,15 +4760,6 @@
     ],
     "language": "por",
     "country": "BR"
-  },
-  {
-    "id": "TVSSoftWindsNetwork.us",
-    "name": "TVS Soft Winds Network",
-    "stream_urls": [
-      "https://rpn.bozztv.com/36bay2/gusa-tvssoftwinds/index.m3u8"
-    ],
-    "language": "eng",
-    "country": "US"
   },
   {
     "id": "TVTerceiroAnjo.br",

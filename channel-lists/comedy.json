@@ -64,7 +64,7 @@
     "id": "CameraSmileTV.us",
     "name": "Camera Smile TV",
     "stream_urls": [
-      "https://nrpus.bozztv.com/36bay2/gusa-camerasmile/index.m3u8"
+      "https://bozztv.com/gusa/gusa-camerasmile/index.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -443,7 +443,7 @@
     "id": "TVSComedyNetwork.us",
     "name": "TVS Comedy Network",
     "stream_urls": [
-      "https://rpn1.bozztv.com/36bay2/gusa-comedyclassics/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8"
     ],
     "language": "eng",
     "country": "US"

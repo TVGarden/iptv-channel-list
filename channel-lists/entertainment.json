@@ -367,6 +367,15 @@
     "country": "PE"
   },
   {
+    "id": "ApnaPunjabTV.ca",
+    "name": "Apna Punjab TV",
+    "stream_urls": [
+      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
+    ],
+    "language": "hin",
+    "country": "CA"
+  },
+  {
     "id": "arte.de",
     "name": "arte",
     "stream_urls": [
@@ -2154,15 +2163,6 @@
     "country": "FR"
   },
   {
-    "id": "PersianBazaarTV.us",
-    "name": "Persian Bazaar TV",
-    "stream_urls": [
-      "https://stream.persiantv1.com/ptv1/playlist.m3u8"
-    ],
-    "language": "fas",
-    "country": "US"
-  },
-  {
     "id": "PlanetaTV90s.cl",
     "name": "PlanetaTV 90s",
     "stream_urls": [
@@ -3154,15 +3154,6 @@
     ],
     "language": "por",
     "country": "BR"
-  },
-  {
-    "id": "TVSTodayHomeEntertainmentNetwork.us",
-    "name": "TVS Today Home Entertainment Network",
-    "stream_urls": [
-      "https://rpn1.bozztv.com/36bay2/gusa-TVSTodayHomeEntertainment/index.m3u8"
-    ],
-    "language": "eng",
-    "country": "US"
   },
   {
     "id": "TVZoom.br",

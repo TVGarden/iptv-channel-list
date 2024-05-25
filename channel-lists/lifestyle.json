@@ -175,6 +175,15 @@
     "country": "US"
   },
   {
+    "id": "CTNLifestyle.us",
+    "name": "CTN Lifestyle",
+    "stream_urls": [
+      "https://ctntv.getstreamhosting.com:1936/Lifestyle/Lifestyle/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "id": "Diva.za",
     "name": "Diva",
     "stream_urls": [

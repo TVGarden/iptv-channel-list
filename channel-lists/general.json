@@ -1149,15 +1149,6 @@
     "country": "UK"
   },
   {
-    "id": "AndishehTV.us",
-    "name": "Andisheh TV",
-    "stream_urls": [
-      "https://2nbyjjx7y53k-hls-live.5centscdn.com/atvweb/d23299de099088e7444868cd0814f1c7.sdp/playlist.m3u8"
-    ],
-    "language": "fas",
-    "country": "US"
-  },
-  {
     "id": "AndorraTV.ad",
     "name": "Andorra TV",
     "stream_urls": [
@@ -1442,6 +1433,15 @@
     "country": "PY"
   },
   {
+    "id": "ARTNTV.us",
+    "name": "ARTN TV",
+    "stream_urls": [
+      "https://streamer1.connectto.com/ARTN_mobile/index.m3u8"
+    ],
+    "language": "rus",
+    "country": "US"
+  },
+  {
     "id": "ARTTV.gr",
     "name": "ART TV",
     "stream_urls": [
@@ -1488,6 +1488,15 @@
     "country": "NL"
   },
   {
+    "id": "AssyrianANB.us",
+    "name": "Assyrian ANB",
+    "stream_urls": [
+      "https://anbsat.ddns.net/anb/live/ANB/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "US"
+  },
+  {
     "id": "AT5.nl",
     "name": "AT5",
     "stream_urls": [
@@ -1531,6 +1540,16 @@
     ],
     "language": "spa",
     "country": "PE"
+  },
+  {
+    "id": "ATNBangla.bd",
+    "name": "ATN Bangla",
+    "stream_urls": [
+      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8"
+    ],
+    "language": "ben",
+    "country": "BD",
+    "isGeoBlocked": true
   },
   {
     "id": "ATNBanglaUK.uk",
@@ -1696,6 +1715,15 @@
     ],
     "language": "spa",
     "country": "CL"
+  },
+  {
+    "id": "AvaTV.ca",
+    "name": "Ava TV",
+    "stream_urls": [
+      "https://cdn3.wowza.com/1/OWNQVXVWc0dQclJz/RXJPdHJx/hls/live/playlist.m3u8"
+    ],
+    "language": "fas",
+    "country": "CA"
   },
   {
     "id": "AVCHD.ar",
@@ -1920,6 +1948,15 @@
     "country": "HU"
   },
   {
+    "id": "BalikpapanTV.id",
+    "name": "Balikpapan TV",
+    "stream_urls": [
+      "https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8"
+    ],
+    "language": "ind",
+    "country": "ID"
+  },
+  {
     "id": "BanatTV.ro",
     "name": "Banat TV",
     "stream_urls": [
@@ -2000,6 +2037,16 @@
     ],
     "language": "spa",
     "country": "AR"
+  },
+  {
+    "id": "BBCAlba.uk",
+    "name": "BBC Alba",
+    "stream_urls": [
+      "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd"
+    ],
+    "language": "glg",
+    "country": "UK",
+    "isGeoBlocked": true
   },
   {
     "id": "BBCOne.uk",
@@ -5645,6 +5692,7 @@
     "id": "KanalD.ro",
     "name": "Kanal D",
     "stream_urls": [
+      "https://stream1.kanald.ro/iphone/knd-live.m3u8",
       "https://stream1.kanald.ro/iphone/knd-live.m3u8"
     ],
     "language": "ron",
@@ -6276,7 +6324,7 @@
     "id": "MadDogandMerrill.us",
     "name": "Mad Dog and Merrill",
     "stream_urls": [
-      "https://rpn1.bozztv.com/36bay2/gusa-mwg/playlist.m3u8"
+      "https://bozztv.com/gusa/gusa-mwg/index.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -7027,6 +7075,7 @@
     "id": "NethraTV.lk",
     "name": "Nethra TV",
     "stream_urls": [
+      "https://ythls.armelin.one/channel/UC6b6XrsNOxQiS-FdfE8-Avw.m3u8",
       "https://ythls.armelin.one/channel/UC6b6XrsNOxQiS-FdfE8-Avw.m3u8"
     ],
     "language": "tam",
@@ -12013,7 +12062,7 @@
     "id": "TVSSelectNetwork.us",
     "name": "TVS Select Network",
     "stream_urls": [
-      "https://rpn1.bozztv.com/36bay2/gusa-tvsselect/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvsselect/index.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -12022,7 +12071,7 @@
     "id": "TVSTelevisionNetwork.us",
     "name": "TVS Television Network",
     "stream_urls": [
-      "https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvstn/index.m3u8"
     ],
     "language": "eng",
     "country": "US"

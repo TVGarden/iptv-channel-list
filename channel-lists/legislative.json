@@ -30,7 +30,7 @@
     "id": "ACTV.us",
     "name": "ACTV",
     "stream_urls": [
-      "https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/6361162879_AZ-247.stream_247/chunklist.m3u8"
+      "https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -75,7 +75,7 @@
     "id": "BanningCityTV.us",
     "name": "Banning CityTV",
     "stream_urls": [
-      "https://vblive-c.viebit.com/072e341f-100d-4da1-9c18-65370ebf35c6/playlist.m3u8"
+      "https://vbfast-c.viebit.com/072e341f-100d-4da1-9c18-65370ebf35c6/playlist.m3u8"
     ],
     "language": "eng",
     "country": "US"

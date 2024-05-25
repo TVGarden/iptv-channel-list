@@ -61,7 +61,7 @@
     "id": "ClassicCinema.us",
     "name": "Classic Cinema",
     "stream_urls": [
-      "https://rpn1.bozztv.com/36bay2/gusa-classiccinema/mono.m3u8"
+      "https://bozztv.com/gusa/gusa-classiccinema/index.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -298,7 +298,7 @@
     "id": "TVSCipherNetwork.us",
     "name": "TVS Cipher Network",
     "stream_urls": [
-      "https://rpn1.bozztv.com/36bay2/gusa-tvsmystery/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvsmystery/index.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -307,16 +307,7 @@
     "id": "TVSClassicMovies.us",
     "name": "TVS Classic Movies",
     "stream_urls": [
-      "https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8"
-    ],
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "id": "TVSFrontPageDetective.us",
-    "name": "TVS Front Page Detective",
-    "stream_urls": [
-      "https://rpn1.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -325,25 +316,7 @@
     "id": "TVSHollywoodHistory.us",
     "name": "TVS Hollywood History",
     "stream_urls": [
-      "https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8"
-    ],
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "id": "TVSHorrorNetwork.us",
-    "name": "TVS Horror Network",
-    "stream_urls": [
-      "https://rpn1.bozztv.com/36bay2/gusa-tvshorror/index.m3u8"
-    ],
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "id": "TVSInspirationalNetwork.us",
-    "name": "TVS Inspirational Network",
-    "stream_urls": [
-      "https://rpn1.bozztv.com/36bay2/gusa-TVSInspirationalNetwork/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -352,7 +325,7 @@
     "id": "TVSMainstreet.us",
     "name": "TVS Mainstreet",
     "stream_urls": [
-      "https://rpn1.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvsmainst/index.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -361,7 +334,7 @@
     "id": "TVSNostalgia.us",
     "name": "TVS Nostalgia",
     "stream_urls": [
-      "https://rpn1.bozztv.com/36bay2/gusa-nostalgia/index.m3u8"
+      "https://bozztv.com/gusa/gusa-nostalgia/index.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -370,7 +343,7 @@
     "id": "TVSNostalgiaMovies.us",
     "name": "TVS Nostalgia Movies",
     "stream_urls": [
-      "https://rpn1.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -379,7 +352,7 @@
     "id": "TVSPetParadeNetwork.us",
     "name": "TVS Pet Parade Network",
     "stream_urls": [
-      "https://rpn1.bozztv.com/36bay2/gusa-petparadenetwork/index.m3u8"
+      "https://bozztv.com/gusa/gusa-petparadenetwork/index.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -388,7 +361,7 @@
     "id": "TVSQuizShowNetwork.us",
     "name": "TVS Quiz Show Network",
     "stream_urls": [
-      "https://rpn1.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvsgameshow/index.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -406,7 +379,7 @@
     "id": "TVSTalkNetwork.us",
     "name": "TVS Talk Network",
     "stream_urls": [
-      "https://rpn.bozztv.com/36bay2/gusa-TVStalk/index.m3u8"
+      "https://bozztv.com/gusa/gusa-TVStalk/index.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -415,7 +388,7 @@
     "id": "TVSTallyHo.us",
     "name": "TVS Tally Ho",
     "stream_urls": [
-      "https://rpn1.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvstallyho/index.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -424,7 +397,7 @@
     "id": "TVSTavern.us",
     "name": "TVS Tavern",
     "stream_urls": [
-      "https://rpn1.bozztv.com/36bay2/gusa-tavern/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tavern/index.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -433,7 +406,7 @@
     "id": "TVSWesternMovie.us",
     "name": "TVS Western Movie",
     "stream_urls": [
-      "https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8"
+      "https://bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8"
     ],
     "language": "eng",
     "country": "US"

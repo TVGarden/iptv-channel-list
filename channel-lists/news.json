@@ -263,6 +263,15 @@
     "country": "PK"
   },
   {
+    "id": "92NewsUK.uk",
+    "name": "92 News UK",
+    "stream_urls": [
+      "https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8"
+    ],
+    "language": "urd",
+    "country": "UK"
+  },
+  {
     "id": "99TV.in",
     "name": "99TV",
     "stream_urls": [
@@ -592,6 +601,31 @@
     "country": "FR"
   },
   {
+    "id": "AfricanewsEnglish.fr",
+    "name": "Africanews English",
+    "stream_urls": [
+      "https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://ythls.armelin.one/channel/UC1_E8NeF5QHY2dtdLRBCCLA.m3u8",
+      "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "FR"
+  },
+  {
+    "id": "AfricanewsFrench.fr",
+    "name": "Africanews French",
+    "stream_urls": [
+      "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://rakuten-africanews-2-lu.samsung.wurl.tv/manifest/playlist.m3u8",
+      "https://ythls.armelin.one/channel/UC25EuGAePOPvPrUA5cmu3dQ.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
     "id": "AfrikInfoTV.gn",
     "name": "Afrik Info TV",
     "stream_urls": [
@@ -704,6 +738,26 @@
     "country": "AE"
   },
   {
+    "id": "AlArabyTV.qa",
+    "name": "Al Araby TV",
+    "stream_urls": [
+      "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8",
+      "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8"
+    ],
+    "language": "ara",
+    "country": "QA"
+  },
+  {
+    "id": "AlArabyTV2.qa",
+    "name": "Al Araby TV 2",
+    "stream_urls": [
+      "https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8",
+      "https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8"
+    ],
+    "language": "ara",
+    "country": "QA"
+  },
+  {
     "id": "AlaToo24.kg",
     "name": "Ala-Too 24",
     "stream_urls": [
@@ -749,6 +803,18 @@
     ],
     "language": "ara",
     "country": "EG"
+  },
+  {
+    "id": "AlHadath.sa",
+    "name": "Al Hadath",
+    "stream_urls": [
+      "https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8",
+      "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+      "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+      "https://ythls.armelin.one/channel/UCrj5BGAhtWxDfqbza9T9hqA.m3u8"
+    ],
+    "language": "ara",
+    "country": "SA"
   },
   {
     "id": "AlhaqeqaAldawlia.jo",
@@ -847,6 +913,15 @@
     ],
     "language": "ara",
     "country": "UK"
+  },
+  {
+    "id": "AlmahriahTV.tr",
+    "name": "Almahriah TV",
+    "stream_urls": [
+      "https://master.starmena-cloud.com/hls/almahriah.m3u8"
+    ],
+    "language": "ara",
+    "country": "TR"
   },
   {
     "id": "AlMamlakaTV.jo",
@@ -1090,6 +1165,15 @@
     ],
     "language": "eng",
     "country": "UK"
+  },
+  {
+    "id": "ARYNewsPakistan.pk",
+    "name": "ARY News Pakistan",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCMmpLL2ucRHAXbNHiCPyIyg.m3u8"
+    ],
+    "language": "urd",
+    "country": "PK"
   },
   {
     "id": "AsahiShimbunDigital.jp",
@@ -4976,6 +5060,15 @@
     "country": "MX"
   },
   {
+    "id": "PayvandTV.us",
+    "name": "Payvand TV",
+    "stream_urls": [
+      "https://bozztv.com/cus01/ucur1/Payvand/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "id": "PBO.pe",
     "name": "PBO",
     "stream_urls": [
@@ -5454,7 +5547,7 @@
     "id": "RelevantTV.il",
     "name": "Relevant TV",
     "stream_urls": [
-      "https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd"
+      "https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8"
     ],
     "language": "heb",
     "country": "IL"
