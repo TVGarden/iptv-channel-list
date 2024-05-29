@@ -11425,6 +11425,15 @@
     "country": "LV"
   },
   {
+    "id": "TVK.kh",
+    "name": "TVK",
+    "stream_urls": [
+      "https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8"
+    ],
+    "language": "khm",
+    "country": "KH"
+  },
+  {
     "id": "TVKeszthely.hu",
     "name": "TV Keszthely",
     "stream_urls": [

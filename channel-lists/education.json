@@ -719,6 +719,15 @@
     "country": "BR"
   },
   {
+    "id": "TVK2.kh",
+    "name": "TVK 2",
+    "stream_urls": [
+      "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8"
+    ],
+    "language": "khm",
+    "country": "KH"
+  },
+  {
     "id": "TVMackenzie.br",
     "name": "TV Mackenzie",
     "stream_urls": [
