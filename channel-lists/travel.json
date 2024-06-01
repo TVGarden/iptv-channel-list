@@ -183,15 +183,6 @@
     "country": "IT"
   },
   {
-    "id": "PlutoTVAnimaux.fr",
-    "name": "Pluto TV Animaux",
-    "stream_urls": [
-      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7"
-    ],
-    "language": "fra",
-    "country": "FR"
-  },
-  {
     "id": "PlutoTVTravel.us",
     "name": "Pluto TV Travel",
     "stream_urls": [

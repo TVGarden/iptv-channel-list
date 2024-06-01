@@ -1975,6 +1975,15 @@
     "country": "BD"
   },
   {
+    "id": "BanglaTV.bd",
+    "name": "Bangla TV",
+    "stream_urls": [
+      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/playlist.m3u8"
+    ],
+    "language": "ben",
+    "country": "BD"
+  },
+  {
     "id": "BanglaVision.bd",
     "name": "Bangla Vision",
     "stream_urls": [
@@ -4251,6 +4260,15 @@
     ],
     "language": "spa",
     "country": "PE"
+  },
+  {
+    "id": "CRTelevisionCholuteca.hn",
+    "name": "CR Television Choluteca",
+    "stream_urls": [
+      "https://www.televinterserver.com:19360/crtvcholuteca/crtvcholuteca.m3u8"
+    ],
+    "language": "spa",
+    "country": "HN"
   },
   {
     "id": "CSRTV.sk",

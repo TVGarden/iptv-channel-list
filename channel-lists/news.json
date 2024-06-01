@@ -1399,15 +1399,6 @@
     "country": "AZ"
   },
   {
-    "id": "BanglaTV.bd",
-    "name": "Bangla TV",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
-  },
-  {
     "id": "BansalNews.in",
     "name": "Bansal News",
     "stream_urls": [
@@ -2646,7 +2637,6 @@
       "https://rakuten-euronews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8",
-      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
       "https://rakuten-euronews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8",
@@ -6128,7 +6118,7 @@
     "id": "Telesur.ve",
     "name": "Telesur",
     "stream_urls": [
-      "https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8"
+      "https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur.m3u8"
     ],
     "language": "spa",
     "country": "VE"
@@ -6137,7 +6127,7 @@
     "id": "TelesurEnglish.ve",
     "name": "Telesur English",
     "stream_urls": [
-      "https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8"
+      "https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8"
     ],
     "language": "eng",
     "country": "VE"
