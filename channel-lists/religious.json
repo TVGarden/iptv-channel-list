@@ -4316,6 +4316,15 @@
     "country": "CR"
   },
   {
+    "id": "TeleLouange.ht",
+    "name": "Tele Louange",
+    "stream_urls": [
+      "https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "HT"
+  },
+  {
     "id": "Telepace1.it",
     "name": "Telepace 1",
     "stream_urls": [
