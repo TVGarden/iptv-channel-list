@@ -5626,6 +5626,15 @@
     "country": "CZ"
   },
   {
+    "id": "JN192.pe",
+    "name": "JN 19.2",
+    "stream_urls": [
+      "https://servilive.com:3224/live/jn19tv2live.m3u8"
+    ],
+    "language": "spa",
+    "country": "PE"
+  },
+  {
     "id": "JOAKDTV.jp",
     "name": "JOAK-DTV",
     "stream_urls": [
