@@ -1940,6 +1940,16 @@
     "country": "BR"
   },
   {
+    "id": "TF1SeriesFilms.fr",
+    "name": "TF1 Series Films",
+    "stream_urls": [
+      "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR",
+    "isGeoBlocked": true
+  },
+  {
     "id": "TheFilmDetective.us",
     "name": "The Film Detective",
     "stream_urls": [

@@ -2796,6 +2796,16 @@
     "country": "AR"
   },
   {
+    "id": "TF1.fr",
+    "name": "TF1",
+    "stream_urls": [
+      "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR",
+    "isGeoBlocked": true
+  },
+  {
     "id": "TheNest.us",
     "name": "The Nest",
     "stream_urls": [

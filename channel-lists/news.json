@@ -1120,6 +1120,15 @@
     "country": "RO"
   },
   {
+    "id": "APN.in",
+    "name": "APN",
+    "stream_urls": [
+      "https://cdn.smartstream.video/smartstream-us/apnnews/apnnews/chunks.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
+  },
+  {
     "id": "ApostropheTV.ua",
     "name": "Apostrophe TV",
     "stream_urls": [
@@ -1443,6 +1452,15 @@
     "name": "BBC News Arabic",
     "stream_urls": [
       "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "id": "BBCNewsAsiaPacific.uk",
+    "name": "BBC News Asia Pacific",
+    "stream_urls": [
+      "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8"
     ],
     "language": "eng",
     "country": "UK"
@@ -2005,7 +2023,7 @@
     "name": "CGTN",
     "stream_urls": [
       "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
-      "https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8"
+      "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"
     ],
     "language": "eng",
     "country": "CN"
@@ -6880,6 +6898,15 @@
     ],
     "language": "isl",
     "country": "IS"
+  },
+  {
+    "id": "VismayaNews.in",
+    "name": "Vismaya News",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCoOQDJS5K6v3g__qPcullxg.m3u8"
+    ],
+    "language": "mal",
+    "country": "IN"
   },
   {
     "id": "VNews.vn",
