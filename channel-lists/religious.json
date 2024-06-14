@@ -986,6 +986,15 @@
     "country": "NI"
   },
   {
+    "id": "Canal27.gt",
+    "name": "Canal 27",
+    "stream_urls": [
+      "https://live.canal27.tv:3633/live/canal27live.m3u8"
+    ],
+    "language": "spa",
+    "country": "GT"
+  },
+  {
     "id": "Canal29TVA.bo",
     "name": "Canal 29 TVA",
     "stream_urls": [
@@ -1458,6 +1467,15 @@
     "country": "TG"
   },
   {
+    "id": "EbenezerTV.hn",
+    "name": "Ebenezer TV",
+    "stream_urls": [
+      "https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "HN"
+  },
+  {
     "id": "EBNTV.ke",
     "name": "EBN TV",
     "stream_urls": [
@@ -1699,6 +1717,15 @@
     ],
     "language": "ukr",
     "country": "UA"
+  },
+  {
+    "id": "ExpresionTV.gt",
+    "name": "Expresion TV",
+    "stream_urls": [
+      "https://ssh101.bozztv.com/ssh101/expresiongrany/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "GT"
   },
   {
     "id": "ExtremaTV.cr",

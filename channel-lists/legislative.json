@@ -769,15 +769,6 @@
     "country": "US"
   },
   {
-    "id": "MRTVParliament.mm",
-    "name": "MRTV Parliament",
-    "stream_urls": [
-      "https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8"
-    ],
-    "language": "mya",
-    "country": "MM"
-  },
-  {
     "id": "NationalAssemblyTV.kr",
     "name": "National Assembly TV",
     "stream_urls": [

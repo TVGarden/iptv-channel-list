@@ -671,7 +671,7 @@
     "id": "JOJSport.sk",
     "name": "JOJ Sport",
     "stream_urls": [
-      "https://st01-2.iptv.joj.sk/110-tv-pc.m3u8"
+      "https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8"
     ],
     "language": "slk",
     "country": "SK"
@@ -1613,16 +1613,6 @@
     ],
     "language": "spa",
     "country": "GT"
-  },
-  {
-    "id": "TVRSport.ro",
-    "name": "TVR Sport",
-    "stream_urls": [
-      "https://tvr-tvrsport.cdn.zitec.com/live/tvrsport/main.m3u8"
-    ],
-    "language": "ron",
-    "country": "RO",
-    "isGeoBlocked": true
   },
   {
     "id": "TVSBoxing.us",

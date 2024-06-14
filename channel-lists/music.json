@@ -2056,6 +2056,24 @@
     "country": "US"
   },
   {
+    "id": "MTVClassicEast.us",
+    "name": "MTV Classic East",
+    "stream_urls": [
+      "https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "MTVLive.us",
+    "name": "MTV Live",
+    "stream_urls": [
+      "https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "id": "MTVPlutoTV.us",
     "name": "MTV Pluto TV",
     "stream_urls": [
@@ -2104,15 +2122,6 @@
     "language": "rus",
     "country": "RU",
     "isGeoBlocked": true
-  },
-  {
-    "id": "MusicPlus.pl",
-    "name": "Music+",
-    "stream_urls": [
-      "https://hugh.cdn.rumble.cloud/live/4gf18j5s/slot-79/3fqc-ohua/chunklist_DVR.m3u8"
-    ],
-    "language": "pol",
-    "country": "PL"
   },
   {
     "id": "MuzangalaTV.ao",
@@ -4202,15 +4211,6 @@
     ],
     "language": "spa",
     "country": "PE"
-  },
-  {
-    "id": "TVRFolclor.ro",
-    "name": "TVR Folclor",
-    "stream_urls": [
-      "https://mn-nl.mncdn.com/tvr_folclor/tvr_folclor/chunklist.m3u8"
-    ],
-    "language": "ron",
-    "country": "RO"
   },
   {
     "id": "TVSMusicNetwork.us",

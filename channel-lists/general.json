@@ -702,6 +702,15 @@
     "country": "ES"
   },
   {
+    "id": "AlanyaPostaTV.tr",
+    "name": "Alanya Posta TV",
+    "stream_urls": [
+      "https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "id": "AlAoulaEurope.ma",
     "name": "Al Aoula Europe",
     "stream_urls": [
@@ -3177,16 +3186,6 @@
     ],
     "language": "spa",
     "country": "DO"
-  },
-  {
-    "id": "Canal5.mx",
-    "name": "Canal 5",
-    "stream_urls": [
-      "https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8",
-      "https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8"
-    ],
-    "language": "spa",
-    "country": "MX"
   },
   {
     "id": "Canal50RTVE.bo",
@@ -5813,6 +5812,7 @@
       "https://ctrl.laotv.la/live/KBS/index.m3u8",
       "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8",
       "https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8",
+      "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8",
       "https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8"
     ],
     "language": "kor",
@@ -8732,15 +8732,6 @@
     "country": "NL"
   },
   {
-    "id": "RPTV.ph",
-    "name": "RPTV",
-    "stream_urls": [
-      "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnnph_qp.m3u8"
-    ],
-    "language": "tgl",
-    "country": "PH"
-  },
-  {
     "id": "RTA.af",
     "name": "RTA",
     "stream_urls": [
@@ -10916,6 +10907,15 @@
     "country": "UA"
   },
   {
+    "id": "TV8International.tr",
+    "name": "TV8 International",
+    "stream_urls": [
+      "https://tv8-live.daioncdn.net/tv8/tv8.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "id": "TVAberta.br",
     "name": "TV Aberta",
     "stream_urls": [
@@ -11852,33 +11852,6 @@
     "country": "ES"
   },
   {
-    "id": "TVR1.ro",
-    "name": "TVR 1",
-    "stream_urls": [
-      "https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8"
-    ],
-    "language": "ron",
-    "country": "RO"
-  },
-  {
-    "id": "TVR2.ro",
-    "name": "TVR 2",
-    "stream_urls": [
-      "https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8"
-    ],
-    "language": "ron",
-    "country": "RO"
-  },
-  {
-    "id": "TVR3.ro",
-    "name": "TVR 3",
-    "stream_urls": [
-      "https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8"
-    ],
-    "language": "ron",
-    "country": "RO"
-  },
-  {
     "id": "TVRCanal11.cl",
     "name": "TVR Canal 11",
     "stream_urls": [
@@ -11886,24 +11859,6 @@
     ],
     "language": "spa",
     "country": "CL"
-  },
-  {
-    "id": "TVRCluj.ro",
-    "name": "TVR Cluj",
-    "stream_urls": [
-      "https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8"
-    ],
-    "language": "ron",
-    "country": "RO"
-  },
-  {
-    "id": "TVRCraiova.ro",
-    "name": "TVR Craiova",
-    "stream_urls": [
-      "https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8"
-    ],
-    "language": "ron",
-    "country": "RO"
   },
   {
     "id": "TVReus.es",
@@ -11915,28 +11870,10 @@
     "country": "ES"
   },
   {
-    "id": "TVRFolclor.ro",
-    "name": "TVR Folclor",
-    "stream_urls": [
-      "https://mn-nl.mncdn.com/tvr_folclor/tvr_folclor/chunklist.m3u8"
-    ],
-    "language": "ron",
-    "country": "RO"
-  },
-  {
-    "id": "TVRIasi.ro",
-    "name": "TVR Iasi",
-    "stream_urls": [
-      "https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8"
-    ],
-    "language": "ron",
-    "country": "RO"
-  },
-  {
     "id": "TVRInternational.ro",
     "name": "TVR International",
     "stream_urls": [
-      "https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8"
+      "https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8"
     ],
     "language": "ron",
     "country": "RO"
@@ -11958,34 +11895,6 @@
     ],
     "language": "ron",
     "country": "MD"
-  },
-  {
-    "id": "TVRSport.ro",
-    "name": "TVR Sport",
-    "stream_urls": [
-      "https://tvr-tvrsport.cdn.zitec.com/live/tvrsport/main.m3u8"
-    ],
-    "language": "ron",
-    "country": "RO",
-    "isGeoBlocked": true
-  },
-  {
-    "id": "TVRTarguMures.ro",
-    "name": "TVR Targu-Mures",
-    "stream_urls": [
-      "https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8"
-    ],
-    "language": "ron",
-    "country": "RO"
-  },
-  {
-    "id": "TVRTimisoara.ro",
-    "name": "TVR Timisoara",
-    "stream_urls": [
-      "https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8"
-    ],
-    "language": "ron",
-    "country": "RO"
   },
   {
     "id": "TVS.st",

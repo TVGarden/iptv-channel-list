@@ -27,6 +27,15 @@
     "country": "CL"
   },
   {
+    "id": "13Ulica.pl",
+    "name": "13 Ulica",
+    "stream_urls": [
+      "https://cdn-notpub-london.lolokoko.tv/13ulica.stream/chunks.m3u8"
+    ],
+    "language": "pol",
+    "country": "PL"
+  },
+  {
     "id": "20.it",
     "name": "20",
     "stream_urls": [
@@ -71,15 +80,6 @@
     ],
     "language": "spa",
     "country": "HN"
-  },
-  {
-    "id": "5Plus.mm",
-    "name": "5 Plus",
-    "stream_urls": [
-      "https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8"
-    ],
-    "language": "mya",
-    "country": "MM"
   },
   {
     "id": "78TV.bg",
@@ -1920,15 +1920,6 @@
     "country": "UG"
   },
   {
-    "id": "MRTVEntertainment.mm",
-    "name": "MRTV Entertainment",
-    "stream_urls": [
-      "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8"
-    ],
-    "language": "mya",
-    "country": "MM"
-  },
-  {
     "id": "MTV.br",
     "name": "MTV",
     "stream_urls": [
@@ -1955,6 +1946,15 @@
     ],
     "language": "hin",
     "country": "IN"
+  },
+  {
+    "id": "MTV2East.us",
+    "name": "MTV2 East",
+    "stream_urls": [
+      "https://fl2.moveonjoy.com/MTV_2/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
   },
   {
     "id": "MyTVplus.de",
@@ -2804,6 +2804,15 @@
     "language": "fra",
     "country": "FR",
     "isGeoBlocked": true
+  },
+  {
+    "id": "ThanthiOne.in",
+    "name": "Thanthi One",
+    "stream_urls": [
+      "https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8"
+    ],
+    "language": "tam",
+    "country": "IN"
   },
   {
     "id": "TheNest.us",

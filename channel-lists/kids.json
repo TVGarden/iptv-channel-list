@@ -271,6 +271,15 @@
     "country": "SG"
   },
   {
+    "id": "CartoonNetworkEast.us",
+    "name": "Cartoon Network East",
+    "stream_urls": [
+      "https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "id": "CartoonNetworkLive.br",
     "name": "Cartoon Network Live",
     "stream_urls": [
@@ -414,6 +423,42 @@
     "country": "ES"
   },
   {
+    "id": "DisneyChannelEast.us",
+    "name": "Disney Channel East",
+    "stream_urls": [
+      "https://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "DisneyJunior.pl",
+    "name": "Disney Junior",
+    "stream_urls": [
+      "https://cdn-notpub-london.lolokoko.tv/disneyjunior.stream/chunks.m3u8"
+    ],
+    "language": "pol",
+    "country": "PL"
+  },
+  {
+    "id": "DisneyJuniorEast.us",
+    "name": "Disney Junior East",
+    "stream_urls": [
+      "https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "DisneyXDEast.us",
+    "name": "Disney XD East",
+    "stream_urls": [
+      "https://fl2.moveonjoy.com/DISNEY_XD/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "id": "DoraTV.us",
     "name": "Dora TV",
     "stream_urls": [
@@ -541,7 +586,7 @@
     "id": "Jojko.sk",
     "name": "Jojko",
     "stream_urls": [
-      "https://st01-2.iptv.joj.sk/104-tv-pc.m3u8"
+      "https://live.cdn.joj.sk/live/andromeda/jojko-1080.m3u8"
     ],
     "language": "slk",
     "country": "SK"
@@ -865,12 +910,12 @@
     "country": "BR"
   },
   {
-    "id": "NickJrenEspanol.us",
-    "name": "Nick Jr. en Espanol",
+    "id": "NickJrEast.us",
+    "name": "Nick Jr. East",
     "stream_urls": [
-      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId="
+      "https://fl2.moveonjoy.com/NICK_JR/index.m3u8"
     ],
-    "language": "spa",
+    "language": "eng",
     "country": "US"
   },
   {
@@ -929,15 +974,6 @@
     "name": "PBS Kids Eastern/Central",
     "stream_urls": [
       "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
-    ],
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "id": "PBSKidsHawaii.us",
-    "name": "PBS Kids Hawaii",
-    "stream_urls": [
-      "https://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8"
     ],
     "language": "eng",
     "country": "US"

@@ -364,15 +364,6 @@
     "country": "BR"
   },
   {
-    "id": "ColorsCineplexBollywood.in",
-    "name": "Colors Cineplex Bollywood",
-    "stream_urls": [
-      "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8"
-    ],
-    "language": "hin",
-    "country": "IN"
-  },
-  {
     "id": "ColorsCineplexSuperhits.in",
     "name": "Colors Cineplex Superhits",
     "stream_urls": [
@@ -404,7 +395,7 @@
     "id": "CSFilm.cz",
     "name": "CS Film",
     "stream_urls": [
-      "https://st01-2.iptv.joj.sk/106-tv-pc.m3u8"
+      "https://live.cdn.joj.sk/live/andromeda/cs_film-1080.m3u8"
     ],
     "language": "ces",
     "country": "CZ"
@@ -695,6 +686,15 @@
     "country": "UK"
   },
   {
+    "id": "HBO2East.us",
+    "name": "HBO 2 East",
+    "stream_urls": [
+      "https://fl2.moveonjoy.com/HBO_2/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "id": "HBOAsiaHD.sg",
     "name": "HBO Asia HD",
     "stream_urls": [
@@ -780,7 +780,7 @@
     "id": "JOJCinema.sk",
     "name": "JOJ Cinema",
     "stream_urls": [
-      "https://st01-2.iptv.joj.sk/105-tv-pc.m3u8"
+      "https://live.cdn.joj.sk/live/andromeda/cinema-1080.m3u8"
     ],
     "language": "slk",
     "country": "SK"
@@ -1907,6 +1907,15 @@
     ],
     "language": "spa",
     "country": "ES"
+  },
+  {
+    "id": "SundanceTVEast.us",
+    "name": "Sundance TV East",
+    "stream_urls": [
+      "https://fl2.moveonjoy.com/SUNDANCE/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
   },
   {
     "id": "TCMEast.us",

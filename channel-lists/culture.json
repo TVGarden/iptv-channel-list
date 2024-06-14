@@ -805,15 +805,6 @@
     "country": "CL"
   },
   {
-    "id": "TVRCultural.ro",
-    "name": "TVR Cultural",
-    "stream_urls": [
-      "https://mn-nl.mncdn.com/tvr_cultural/tvrcultural/index.m3u8"
-    ],
-    "language": "ron",
-    "country": "RO"
-  },
-  {
     "id": "U24Television.ug",
     "name": "U24 Television",
     "stream_urls": [

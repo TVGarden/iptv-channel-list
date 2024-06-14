@@ -375,6 +375,15 @@
     "country": "US"
   },
   {
+    "id": "HBO2East.us",
+    "name": "HBO 2 East",
+    "stream_urls": [
+      "https://fl2.moveonjoy.com/HBO_2/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "id": "Hunter.uk",
     "name": "Hunter",
     "stream_urls": [
@@ -1368,15 +1377,6 @@
     ],
     "language": "eng",
     "country": "US"
-  },
-  {
-    "id": "TlnovelasMexico.mx",
-    "name": "Tlnovelas Mexico",
-    "stream_urls": [
-      "https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8"
-    ],
-    "language": "spa",
-    "country": "MX"
   },
   {
     "id": "TokuSHOUTsu.us",

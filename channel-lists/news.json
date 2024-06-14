@@ -2083,6 +2083,15 @@
     "country": "UA"
   },
   {
+    "id": "Channel8.iq",
+    "name": "Channel8",
+    "stream_urls": [
+      "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8"
+    ],
+    "language": "kur",
+    "country": "IQ"
+  },
+  {
     "id": "ChannelDinraat.in",
     "name": "Channel Dinraat",
     "stream_urls": [
@@ -3616,8 +3625,7 @@
     "id": "JOJ24.sk",
     "name": "JOJ 24",
     "stream_urls": [
-      "https://st01-2.iptv.joj.sk/111-tv-pc.m3u8",
-      "https://nn.geo.joj.sk/hls/joj-540.m3u8"
+      "https://live.cdn.joj.sk/live/andromeda/joj_news-1080.m3u8"
     ],
     "language": "slk",
     "country": "SK"
@@ -3663,7 +3671,7 @@
     "id": "KairaliNews.in",
     "name": "Kairali News",
     "stream_urls": [
-      "https://ythls.armelin.one/channel/UCkCWitaToNG1_lR-Si1oMrg.m3u8",
+      "https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8",
       "https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8"
     ],
     "language": "mal",
@@ -6137,7 +6145,7 @@
     "id": "Telesur.ve",
     "name": "Telesur",
     "stream_urls": [
-      "https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur.m3u8"
+      "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8"
     ],
     "language": "spa",
     "country": "VE"
@@ -6672,15 +6680,6 @@
     ],
     "language": "pan",
     "country": "CA"
-  },
-  {
-    "id": "TVRInfo.ro",
-    "name": "TVR Info",
-    "stream_urls": [
-      "https://mn-nl.mncdn.com/tvrinfo/tvrinfo_mjuypp/index.m3u8"
-    ],
-    "language": "ron",
-    "country": "RO"
   },
   {
     "id": "TVShizuoka.jp",
