@@ -5883,6 +5883,24 @@
     "country": "US"
   },
   {
+    "id": "KNR1.gl",
+    "name": "KNR1",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCIjOAtv53RHerlfl98fZmcQ.m3u8"
+    ],
+    "language": "kal",
+    "country": "GL"
+  },
+  {
+    "id": "KNR2.gl",
+    "name": "KNR2",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UC6D225YIMCwVBiBktEeV-vQ.m3u8"
+    ],
+    "language": "kal",
+    "country": "GL"
+  },
+  {
     "id": "KOCTChannel18.us",
     "name": "KOCT Channel 18",
     "stream_urls": [
@@ -6615,6 +6633,15 @@
     ],
     "language": "eng",
     "country": "US"
+  },
+  {
+    "id": "MCRTVNF.cg",
+    "name": "MCR TV NF",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCwashcXWqSHTBVRO1V_qZ5w.m3u8"
+    ],
+    "language": "fra",
+    "country": "CG"
   },
   {
     "id": "MCTV.us",
@@ -8739,6 +8766,33 @@
     ],
     "language": "fas",
     "country": "AF"
+  },
+  {
+    "id": "RTBAneka.bn",
+    "name": "RTB Aneka",
+    "stream_urls": [
+      "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "BN"
+  },
+  {
+    "id": "RTBGo.bn",
+    "name": "RTB Go",
+    "stream_urls": [
+      "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8"
+    ],
+    "language": "msa",
+    "country": "BN"
+  },
+  {
+    "id": "RTBSukmaindera.bn",
+    "name": "RTB Sukmaindera",
+    "stream_urls": [
+      "https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8"
+    ],
+    "language": "msa",
+    "country": "BN"
   },
   {
     "id": "RTCQuartaRete.it",
