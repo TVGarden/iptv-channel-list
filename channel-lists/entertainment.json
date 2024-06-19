@@ -27,15 +27,6 @@
     "country": "CL"
   },
   {
-    "id": "13Ulica.pl",
-    "name": "13 Ulica",
-    "stream_urls": [
-      "https://cdn-notpub-london.lolokoko.tv/13ulica.stream/chunks.m3u8"
-    ],
-    "language": "pol",
-    "country": "PL"
-  },
-  {
     "id": "20.it",
     "name": "20",
     "stream_urls": [
@@ -484,15 +475,6 @@
     ],
     "language": "spa",
     "country": "MX"
-  },
-  {
-    "id": "BacanTeVeo.ec",
-    "name": "Bacan Te Veo",
-    "stream_urls": [
-      "https://cloudvideo.servers10.com:8081/8064/index.m3u8"
-    ],
-    "language": "spa",
-    "country": "EC"
   },
   {
     "id": "BalkanRadioSalzburg.at",
@@ -1521,7 +1503,7 @@
     "id": "IslandLuckTV.bs",
     "name": "Island Luck TV",
     "stream_urls": [
-      "https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8"
+      "https://cdn-edge1.streamcomedia.com/abr_islandluck-ott/abr-islandluck-ott_streams/playlist.m3u8"
     ],
     "language": "eng",
     "country": "BS"
@@ -1661,15 +1643,6 @@
     ],
     "language": "mal",
     "country": "IN"
-  },
-  {
-    "id": "KVNTV.ru",
-    "name": "KVN TV",
-    "stream_urls": [
-      "https://woobl.ru/hls987/KVN.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU"
   },
   {
     "id": "LaNuevaRadioTV977.ec",
@@ -2101,6 +2074,15 @@
     "country": "US"
   },
   {
+    "id": "PancTVPeru.pe",
+    "name": "Panc TV Peru",
+    "stream_urls": [
+      "https://panel.host-live.com/80010/80010/chunklist_w1244945356.m3u8"
+    ],
+    "language": "spa",
+    "country": "PE"
+  },
+  {
     "id": "PayamJavanTV.ir",
     "name": "Payam Javan TV",
     "stream_urls": [
@@ -2442,15 +2424,6 @@
     "country": "CO"
   },
   {
-    "id": "RDClickTV.sv",
-    "name": "RD Click TV",
-    "stream_urls": [
-      "https://cloudvideo.servers10.com:8081/8064/index.m3u8"
-    ],
-    "language": "spa",
-    "country": "SV"
-  },
-  {
     "id": "RedeMundoTV.br",
     "name": "Rede Mundo TV",
     "stream_urls": [
@@ -2598,7 +2571,7 @@
     "id": "ShemarooTV.in",
     "name": "Shemaroo TV",
     "stream_urls": [
-      "https://shemaroo.codeautoplay.workers.dev/?codeby=nd&channel=shemarootv"
+      "https://shemaroo.codeautoplay.workers.dev/?channel=shemarootv&codeby=nd"
     ],
     "language": "hin",
     "country": "IN"
@@ -2629,6 +2602,15 @@
     ],
     "language": "spa",
     "country": "GT"
+  },
+  {
+    "id": "SolTV.gq",
+    "name": "SolTV",
+    "stream_urls": [
+      "https://stream.solmediaeg.com/soltv/soltv.m3u8"
+    ],
+    "language": "spa",
+    "country": "GQ"
   },
   {
     "id": "SomosTopoPointTV.do",

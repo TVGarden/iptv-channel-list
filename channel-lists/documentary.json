@@ -556,15 +556,6 @@
     "country": "NG"
   },
   {
-    "id": "vijuExplore.ru",
-    "name": "viju Explore",
-    "stream_urls": [
-      "https://woobl.ru/hls987/Viju_Explore_hd.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU"
-  },
-  {
     "id": "VoyagerDocumentaries.us",
     "name": "Voyager Documentaries",
     "stream_urls": [

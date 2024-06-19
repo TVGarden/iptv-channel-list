@@ -101,6 +101,15 @@
     "country": "BR"
   },
   {
+    "id": "ATX.jp",
+    "name": "AT-X",
+    "stream_urls": [
+      "https://neetball.net/live/neet3.m3u8"
+    ],
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
     "id": "Cartoonito.it",
     "name": "Cartoonito",
     "stream_urls": [
@@ -253,6 +262,15 @@
     ],
     "language": "por",
     "country": "BR"
+  },
+  {
+    "id": "JapanimTV.be",
+    "name": "JapanimTV",
+    "stream_urls": [
+      "https://foxkidstv.be:3369/stream/play.m3u8"
+    ],
+    "language": "fra",
+    "country": "BE"
   },
   {
     "id": "KuriakosKids.pt",

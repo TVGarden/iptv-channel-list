@@ -45,6 +45,15 @@
     "country": "MX"
   },
   {
+    "id": "AfroSportNigeria.ng",
+    "name": "AfroSport Nigeria",
+    "stream_urls": [
+      "https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "NG"
+  },
+  {
     "id": "AioSport1.ir",
     "name": "Aio Sport 1",
     "stream_urls": [
@@ -223,15 +232,6 @@
     "country": "US"
   },
   {
-    "id": "BoksTV.ru",
-    "name": "Boks TV",
-    "stream_urls": [
-      "https://woobl.ru/hls987/Boks_tv.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU"
-  },
-  {
     "id": "CAFTV.eg",
     "name": "CAF TV",
     "stream_urls": [
@@ -309,7 +309,7 @@
     "name": "Claro Sports",
     "stream_urls": [
       "https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8",
-      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true"
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
     ],
     "language": "spa",
     "country": "MX",
@@ -319,7 +319,7 @@
     "id": "ClaroSportsChile.cl",
     "name": "Claro Sports Chile",
     "stream_urls": [
-      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true"
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
     ],
     "language": "spa",
     "country": "CL"
@@ -1085,7 +1085,7 @@
     "id": "RealitateaSportiva.ro",
     "name": "Realitatea Sportiva",
     "stream_urls": [
-      "https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8"
+      "https://stream.realitatea.net/realitatea/sportiva_md/playlist.m3u8"
     ],
     "language": "ron",
     "country": "RO"
@@ -1193,8 +1193,8 @@
     "id": "SonySportsTen1.in",
     "name": "Sony Sports Ten 1",
     "stream_urls": [
-      "https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8",
-      "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8"
+      "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8",
+      "https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8"
     ],
     "language": "eng",
     "country": "IN"
@@ -1203,8 +1203,7 @@
     "id": "SonySportsTen2.in",
     "name": "Sony Sports Ten 2",
     "stream_urls": [
-      "https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8",
-      "https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8"
+      "https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8"
     ],
     "language": "eng",
     "country": "IN"
@@ -1213,8 +1212,8 @@
     "id": "SonySportsTen3.in",
     "name": "Sony Sports Ten 3",
     "stream_urls": [
-      "https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8",
-      "https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8"
+      "https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8",
+      "https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8"
     ],
     "language": "hin",
     "country": "IN"
@@ -1223,8 +1222,8 @@
     "id": "SonySportsTen4.in",
     "name": "Sony Sports Ten 4",
     "stream_urls": [
-      "https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8",
-      "https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8"
+      "https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8",
+      "https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8"
     ],
     "language": "tel",
     "country": "IN"
@@ -1233,8 +1232,8 @@
     "id": "SonySportsTen5.in",
     "name": "Sony Sports Ten 5",
     "stream_urls": [
-      "https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8",
-      "https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8"
+      "https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8",
+      "https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8"
     ],
     "language": "eng",
     "country": "IN"

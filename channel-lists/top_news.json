@@ -44,7 +44,6 @@
     "id": "CGTN.cn",
     "name": "CGTN",
     "stream_urls": [
-      "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
       "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"
     ],
     "language": "eng",
@@ -166,13 +165,14 @@
     "id": "RT.ru",
     "name": "RT",
     "stream_urls": [
+      "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
       "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
       "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8",
-      "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
       "https://cdn-01.bonus-tv.ru/RussiaToday/playlist.m3u8"
     ],
     "language": "eng",
-    "country": "RU"
+    "country": "RU",
+    "isGeoBlocked": true
   },
   {
     "id": "ScrippsNews.us",

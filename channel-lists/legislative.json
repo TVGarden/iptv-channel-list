@@ -560,6 +560,15 @@
     "country": "US"
   },
   {
+    "id": "FSMCongress.fm",
+    "name": "FSM Congress",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCo_dc4xUi_eA5poaFqHeGpA.m3u8"
+    ],
+    "language": "eng",
+    "country": "FM"
+  },
+  {
     "id": "G10TV.us",
     "name": "G10TV",
     "stream_urls": [

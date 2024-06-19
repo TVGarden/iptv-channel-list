@@ -235,15 +235,6 @@
     "country": "CA"
   },
   {
-    "id": "MoyaPlaneta.ru",
-    "name": "Moya Planeta",
-    "stream_urls": [
-      "https://woobl.ru/hls987/Moya_planeta.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU"
-  },
-  {
     "id": "OutdoorAmerica.us",
     "name": "Outdoor America",
     "stream_urls": [

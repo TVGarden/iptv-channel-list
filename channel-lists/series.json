@@ -125,15 +125,6 @@
     "country": "US"
   },
   {
-    "id": "AmediaPremium.ru",
-    "name": "Amedia Premium",
-    "stream_urls": [
-      "https://woobl.ru/hls987/Amedia_Premium_hd.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU"
-  },
-  {
     "id": "Anaylos7.es",
     "name": "Ana y los 7",
     "stream_urls": [
@@ -338,15 +329,6 @@
     "country": "TR"
   },
   {
-    "id": "FoxLife.ru",
-    "name": "Fox Life",
-    "stream_urls": [
-      "https://woobl.ru/hls987/Fox_Life.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU"
-  },
-  {
     "id": "HalaLondonTVSeries.uk",
     "name": "Hala London TV Series",
     "stream_urls": [
@@ -485,15 +467,6 @@
     ],
     "language": "eng",
     "country": "US"
-  },
-  {
-    "id": "MirSeriala.ru",
-    "name": "Mir Seriala",
-    "stream_urls": [
-      "https://woobl.ru/hls987/Mir_seriala.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU"
   },
   {
     "id": "MissionImpossible.us",
@@ -1442,15 +1415,6 @@
     ],
     "language": "eng",
     "country": "US"
-  },
-  {
-    "id": "vijuPlusSerial.ru",
-    "name": "viju+ Serial",
-    "stream_urls": [
-      "https://woobl.ru/hls987/Viju_plus_Serial_hd.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU"
   },
   {
     "id": "WildNOut.us",

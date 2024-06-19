@@ -550,7 +550,7 @@
     "stream_urls": [
       "https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_5.m3u8",
       "https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_3.m3u8",
-      "https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeebusiness"
+      "https://news.codeautoplay.workers.dev/?channel=zeebusiness&codeby=nd"
     ],
     "language": "eng",
     "country": "IN"

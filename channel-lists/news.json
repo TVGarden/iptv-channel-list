@@ -105,6 +105,16 @@
     "country": "ES"
   },
   {
+    "id": "24HorasInternacional.es",
+    "name": "24 Horas Internacional",
+    "stream_urls": [
+      "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES",
+    "isGeoBlocked": true
+  },
+  {
     "id": "24KZ.kz",
     "name": "24KZ",
     "stream_urls": [
@@ -741,7 +751,6 @@
     "id": "AlArabyTV.qa",
     "name": "Al Araby TV",
     "stream_urls": [
-      "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8",
       "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8"
     ],
     "language": "ara",
@@ -751,7 +760,6 @@
     "id": "AlArabyTV2.qa",
     "name": "Al Araby TV 2",
     "stream_urls": [
-      "https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8",
       "https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8"
     ],
     "language": "ara",
@@ -808,9 +816,9 @@
     "id": "AlHadath.sa",
     "name": "Al Hadath",
     "stream_urls": [
+      "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
       "https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8",
       "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
-      "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
       "https://ythls.armelin.one/channel/UCrj5BGAhtWxDfqbza9T9hqA.m3u8"
     ],
     "language": "ara",
@@ -1436,16 +1444,15 @@
     "id": "BBCNews.uk",
     "name": "BBC News",
     "stream_urls": [
+      "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd",
+      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
       "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd",
       "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-      "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd",
-      "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8",
-      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8"
+      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8",
+      "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8"
     ],
     "language": "eng",
-    "country": "UK",
-    "isGeoBlocked": true
+    "country": "UK"
   },
   {
     "id": "BBCNewsArabic.uk",
@@ -1840,7 +1847,6 @@
     "stream_urls": [
       "https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8",
       "https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8",
-      "https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8",
       "https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8"
     ],
     "language": "eng",
@@ -2022,7 +2028,6 @@
     "id": "CGTN.cn",
     "name": "CGTN",
     "stream_urls": [
-      "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
       "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"
     ],
     "language": "eng",
@@ -3671,7 +3676,6 @@
     "id": "KairaliNews.in",
     "name": "Kairali News",
     "stream_urls": [
-      "https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8",
       "https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8"
     ],
     "language": "mal",
@@ -4657,6 +4661,15 @@
     "country": "IN"
   },
   {
+    "id": "NewsMalayalam24x7.in",
+    "name": "News Malayalam 24x7",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCXp6JTdq7-WwBK09S7SzmxQ.m3u8"
+    ],
+    "language": "mal",
+    "country": "IN"
+  },
+  {
     "id": "NewsmaxTV.us",
     "name": "Newsmax TV",
     "stream_urls": [
@@ -4725,6 +4738,15 @@
       "https://ythls.armelin.one/channel/UCeNP3dAy9_A32IWYZq_PZMQ.m3u8"
     ],
     "language": "hin",
+    "country": "IN"
+  },
+  {
+    "id": "NewsTamil24x7.in",
+    "name": "News Tamil 24x7",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8"
+    ],
+    "language": "tam",
     "country": "IN"
   },
   {
@@ -5639,13 +5661,14 @@
     "id": "RT.ru",
     "name": "RT",
     "stream_urls": [
+      "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
       "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
       "https://rumble.com/live-hls-dvr/33aw1a/playlist.m3u8",
-      "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
       "https://cdn-01.bonus-tv.ru/RussiaToday/playlist.m3u8"
     ],
     "language": "eng",
-    "country": "RU"
+    "country": "RU",
+    "isGeoBlocked": true
   },
   {
     "id": "RTArabic.ru",
@@ -6025,7 +6048,7 @@
     "name": "Sun News",
     "stream_urls": [
       "https://ythls.armelin.one/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8",
-      "https://news.codeautoplay.workers.dev/?codeby=nd&channel=sunnews"
+      "https://news.codeautoplay.workers.dev/?channel=sunnews&codeby=nd"
     ],
     "language": "tam",
     "country": "IN"
@@ -6045,6 +6068,15 @@
     "name": "Sunugal 24",
     "stream_urls": [
       "https://ythls.armelin.one/channel/UCAUXyESHY44j2QOLUsm5fAg.m3u8"
+    ],
+    "language": "fra",
+    "country": "SN"
+  },
+  {
+    "id": "SunuLabelTV.sn",
+    "name": "SunuLabel TV",
+    "stream_urls": [
+      "https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8"
     ],
     "language": "fra",
     "country": "SN"
@@ -7184,7 +7216,7 @@
     "name": "Zee Kannada News",
     "stream_urls": [
       "https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8",
-      "https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeekannada"
+      "https://news.codeautoplay.workers.dev/?channel=zeekannada&codeby=nd"
     ],
     "language": "kan",
     "country": "IN"
@@ -7195,18 +7227,9 @@
     "stream_urls": [
       "https://ythls.armelin.one/channel/UCIvaYmXn910QMdemBG3v1pQ.m3u8",
       "https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8",
-      "https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeenews"
+      "https://news.codeautoplay.workers.dev/?channel=zeenews&codeby=nd"
     ],
     "language": "hin",
-    "country": "IN"
-  },
-  {
-    "id": "ZeeNewsMalayalam.in",
-    "name": "Zee News Malayalam",
-    "stream_urls": [
-      "https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8"
-    ],
-    "language": "mal",
     "country": "IN"
   },
   {
@@ -7214,7 +7237,7 @@
     "name": "Zee Telugu News",
     "stream_urls": [
       "https://ythls.armelin.one/channel/UCfWo0Z5PKYd86JfQ5ZE5cWg.m3u8",
-      "https://news.codeautoplay.workers.dev/?codeby=nd&channel=zeetelugu"
+      "https://news.codeautoplay.workers.dev/?channel=zeetelugu&codeby=nd"
     ],
     "language": "tel",
     "country": "IN"

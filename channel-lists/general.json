@@ -239,6 +239,15 @@
     "country": "HU"
   },
   {
+    "id": "7TVSenegal.sn",
+    "name": "7TV Senegal",
+    "stream_urls": [
+      "https://live3.acangroup.org:1929/publiclive/septtv.stream/chunks.m3u8"
+    ],
+    "language": "fra",
+    "country": "SN"
+  },
+  {
     "id": "86.ru",
     "name": "86",
     "stream_urls": [
@@ -746,15 +755,6 @@
     ],
     "language": "spa",
     "country": "ES"
-  },
-  {
-    "id": "AlDafrahTV.ae",
-    "name": "Al Dafrah TV",
-    "stream_urls": [
-      "https://dacastmmd.mmdlive.lldns.net/dacastmmd/51c522ae7fe944238261725786724f94/chunklist.m3u8"
-    ],
-    "language": "ara",
-    "country": "AE"
   },
   {
     "id": "AlhayatTV.eg",
@@ -2390,6 +2390,15 @@
     "country": "GT"
   },
   {
+    "id": "BebTV.cg",
+    "name": "Beb TV",
+    "stream_urls": [
+      "https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "CG"
+  },
+  {
     "id": "Belarus1.by",
     "name": "Belarus-1",
     "stream_urls": [
@@ -2939,7 +2948,7 @@
     "id": "Canal17TVNosara.cr",
     "name": "Canal 17 TV Nosara",
     "stream_urls": [
-      "https://stmv.streamingvip.click/tvnosara2/tvnosara2/playlist.m3u8"
+      "https://acceso.radiosportstv.online:3430/hybrid/play.m3u8"
     ],
     "language": "spa",
     "country": "CR"
@@ -4450,6 +4459,15 @@
     "country": "MX"
   },
   {
+    "id": "DiamaTV.sn",
+    "name": "Diama TV",
+    "stream_urls": [
+      "https://helga.iptv2022.com/Diama_TV/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "SN"
+  },
+  {
     "id": "DiaTV.br",
     "name": "DiaTV",
     "stream_urls": [
@@ -4639,6 +4657,15 @@
     ],
     "language": "ara",
     "country": "AE"
+  },
+  {
+    "id": "DublinCommunityTelevision.ie",
+    "name": "Dublin Community Television",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCUETw12rMj3GP4FQ1SbEukQ.m3u8"
+    ],
+    "language": "eng",
+    "country": "IE"
   },
   {
     "id": "DudelangeTV.lu",
@@ -5186,6 +5213,15 @@
     "country": "IN"
   },
   {
+    "id": "GrandYoffTV.sn",
+    "name": "Grand Yoff TV",
+    "stream_urls": [
+      "https://helga.iptv2022.com/sh/Grand_Yoff_TV/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "SN"
+  },
+  {
     "id": "GRPVERATV.it",
     "name": "GRP VERATV",
     "stream_urls": [
@@ -5718,7 +5754,6 @@
     "id": "KanalD.ro",
     "name": "Kanal D",
     "stream_urls": [
-      "https://stream1.kanald.ro/iphone/knd-live.m3u8",
       "https://stream1.kanald.ro/iphone/knd-live.m3u8"
     ],
     "language": "ron",
@@ -5812,7 +5847,6 @@
       "https://ctrl.laotv.la/live/KBS/index.m3u8",
       "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8",
       "https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8",
-      "https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8",
       "https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8"
     ],
     "language": "kor",
@@ -6903,7 +6937,7 @@
     "name": "Multimedios CDMX",
     "stream_urls": [
       "https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8",
-      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true"
+      "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
     ],
     "language": "spa",
     "country": "MX"
@@ -7129,7 +7163,6 @@
     "id": "NethraTV.lk",
     "name": "Nethra TV",
     "stream_urls": [
-      "https://ythls.armelin.one/channel/UC6b6XrsNOxQiS-FdfE8-Avw.m3u8",
       "https://ythls.armelin.one/channel/UC6b6XrsNOxQiS-FdfE8-Avw.m3u8"
     ],
     "language": "tam",
@@ -7261,6 +7294,15 @@
     ],
     "language": "zho",
     "country": "US"
+  },
+  {
+    "id": "NTITV.cg",
+    "name": "NTI TV",
+    "stream_urls": [
+      "https://helga.iptv2022.com/NTI_Television/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "CG"
   },
   {
     "id": "NTKTV.ua",
@@ -7834,7 +7876,6 @@
     "id": "PersianaLatino.fr",
     "name": "Persiana Latino",
     "stream_urls": [
-      "https://latinohls.persiana.live/hls/stream.m3u8",
       "https://latinohls.persiana.live/hls/stream.m3u8"
     ],
     "language": "fas",
@@ -7844,7 +7885,6 @@
     "id": "PersianaTwo.fr",
     "name": "Persiana Two",
     "stream_urls": [
-      "https://twohls.persiana.live/hls/stream.m3u8",
       "https://twohls.persiana.live/hls/stream.m3u8"
     ],
     "language": "fas",
@@ -7954,7 +7994,7 @@
     "id": "PrimaFree.it",
     "name": "Prima Free",
     "stream_urls": [
-      "https://5f22d76e220e1.streamlock.net:443/primafree/primafree/playlist.m3u8"
+      "https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8"
     ],
     "language": "ita",
     "country": "IT"
@@ -8021,6 +8061,15 @@
     ],
     "language": "ita",
     "country": "IT"
+  },
+  {
+    "id": "ProximiteWebTV.ga",
+    "name": "Proximite Web TV",
+    "stream_urls": [
+      "https://helga.iptv2022.com/sh/PROXIMITE_WEB_TV/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "GA"
   },
   {
     "id": "PSCTV.us",
@@ -8626,15 +8675,6 @@
     "name": "REN TV",
     "stream_urls": [
       "https://streaming.televizor-24-tochka.ru/live/14.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU"
-  },
-  {
-    "id": "RENTVInternational.ru",
-    "name": "REN TV International",
-    "stream_urls": [
-      "https://woobl.ru/hls987/Rentv_international.m3u8"
     ],
     "language": "rus",
     "country": "RU"
@@ -9627,6 +9667,15 @@
     ],
     "language": "spa",
     "country": "PL"
+  },
+  {
+    "id": "SYNTYTV.cg",
+    "name": "SYNTY TV",
+    "stream_urls": [
+      "https://helga.iptv2022.com/sh/SYNTY_TV/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "CG"
   },
   {
     "id": "SyrosTV1.gr",
@@ -10886,6 +10935,15 @@
     "country": "DO"
   },
   {
+    "id": "TV1Samoa.ws",
+    "name": "TV1 Samoa",
+    "stream_urls": [
+      "https://anystrument.com:5443/LiveApp/streams/DfywyaY3DcWf1709948634332.m3u8"
+    ],
+    "language": "eng",
+    "country": "WS"
+  },
+  {
     "id": "TV2040.hu",
     "name": "TV2040",
     "stream_urls": [
@@ -10893,6 +10951,15 @@
     ],
     "language": "hun",
     "country": "HU"
+  },
+  {
+    "id": "TV3.ws",
+    "name": "TV3",
+    "stream_urls": [
+      "https://customer-ezarl905qqr949qs.cloudflarestream.com/856e914abd09e036ce9ce4fa649278b2/manifest/video.m3u8"
+    ],
+    "language": "eng",
+    "country": "WS"
   },
   {
     "id": "TV3V.fr",
@@ -10959,15 +11026,6 @@
     ],
     "language": "ukr",
     "country": "UA"
-  },
-  {
-    "id": "TV8International.tr",
-    "name": "TV8 International",
-    "stream_urls": [
-      "https://tv8-live.daioncdn.net/tv8/tv8.m3u8"
-    ],
-    "language": "tur",
-    "country": "TR"
   },
   {
     "id": "TVAberta.br",
@@ -11882,7 +11940,7 @@
     "id": "TVPublica.ar",
     "name": "TV Publica",
     "stream_urls": [
-      "https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8"
+      "https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8"
     ],
     "language": "spa",
     "country": "AR"
@@ -12364,6 +12422,15 @@
     ],
     "language": "eng",
     "country": "KE"
+  },
+  {
+    "id": "V6AH.fm",
+    "name": "V6AH",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UC103DbQcwFPuaCF4pleV7rw.m3u8"
+    ],
+    "language": "eng",
+    "country": "FM"
   },
   {
     "id": "ValeTV.ve",

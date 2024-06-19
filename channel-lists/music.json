@@ -174,15 +174,6 @@
     "country": "IR"
   },
   {
-    "id": "AfrobeatsTV.za",
-    "name": "Afrobeats TV",
-    "stream_urls": [
-      "https://stream.ecable.tv/afrobeats/index.m3u8"
-    ],
-    "language": "eng",
-    "country": "ZA"
-  },
-  {
     "id": "AfrobeatTVEntertainment.uk",
     "name": "Afrobeat TV Entertainment",
     "stream_urls": [
@@ -3511,7 +3502,6 @@
     "id": "Star101FM.gu",
     "name": "Star 101 FM",
     "stream_urls": [
-      "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8",
       "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8"
     ],
     "language": "eng",

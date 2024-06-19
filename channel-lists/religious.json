@@ -325,6 +325,15 @@
     "country": "EG"
   },
   {
+    "id": "AlFaydaTV.sn",
+    "name": "Al Fayda TV",
+    "stream_urls": [
+      "https://helga.iptv2022.com/sh/AL_AYDA_TV_DAKAR/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "SN"
+  },
+  {
     "id": "AlHorreyaTV.us",
     "name": "Al Horreya TV",
     "stream_urls": [
@@ -527,7 +536,8 @@
     "id": "Alquran.iq",
     "name": "Alquran",
     "stream_urls": [
-      "https://ktv.imamhussain.org/stream/hls/ch1.m3u8"
+      "https://ktv.imamhussain.org/stream/hls/ch1.m3u8",
+      "https://ktvlive.online/stream/hls/ch1.m3u8"
     ],
     "language": "ara",
     "country": "IQ"
@@ -2463,8 +2473,8 @@
     "id": "IqraaArabic.sa",
     "name": "Iqraa Arabic",
     "stream_urls": [
-      "https://jmc-live.ercdn.net/iqraa/iqraa.m3u8",
-      "https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8"
+      "https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8",
+      "https://jmc-live.ercdn.net/iqraa/iqraa.m3u8"
     ],
     "language": "ara",
     "country": "SA"
@@ -3408,6 +3418,15 @@
     "country": "LB"
   },
   {
+    "id": "NourTV.ga",
+    "name": "Nour TV",
+    "stream_urls": [
+      "https://helga.iptv2022.com/sh/Nour_tv/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "GA"
+  },
+  {
     "id": "NovoTempo.br",
     "name": "Novo Tempo",
     "stream_urls": [
@@ -3637,8 +3656,8 @@
     "id": "PresenciaTelevision.gt",
     "name": "Presencia Television",
     "stream_urls": [
-      "https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8",
-      "https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8"
+      "https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8",
+      "https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8"
     ],
     "language": "spa",
     "country": "GT"

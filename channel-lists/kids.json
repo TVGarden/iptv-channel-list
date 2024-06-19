@@ -432,15 +432,6 @@
     "country": "US"
   },
   {
-    "id": "DisneyJunior.pl",
-    "name": "Disney Junior",
-    "stream_urls": [
-      "https://cdn-notpub-london.lolokoko.tv/disneyjunior.stream/chunks.m3u8"
-    ],
-    "language": "pol",
-    "country": "PL"
-  },
-  {
     "id": "DisneyJuniorEast.us",
     "name": "Disney Junior East",
     "stream_urls": [
@@ -581,6 +572,15 @@
     ],
     "language": "deu",
     "country": "DE"
+  },
+  {
+    "id": "JapanimTV.be",
+    "name": "JapanimTV",
+    "stream_urls": [
+      "https://foxkidstv.be:3369/stream/play.m3u8"
+    ],
+    "language": "fra",
+    "country": "BE"
   },
   {
     "id": "Jojko.sk",
@@ -780,15 +780,6 @@
     "country": "UK"
   },
   {
-    "id": "MultHD.ru",
-    "name": "Mult HD",
-    "stream_urls": [
-      "https://woobl.ru/hls987/Mult_hd.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU"
-  },
-  {
     "id": "Multilandia.ru",
     "name": "Multilandia",
     "stream_urls": [
@@ -812,15 +803,6 @@
     "name": "Multimania",
     "stream_urls": [
       "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU"
-  },
-  {
-    "id": "Multimuzyka.ru",
-    "name": "Mult i muzyka",
-    "stream_urls": [
-      "https://woobl.ru/hls987/Multimuzyka.m3u8"
     ],
     "language": "rus",
     "country": "RU"
@@ -1377,8 +1359,8 @@
     "id": "TahaTV.lb",
     "name": "Taha TV",
     "stream_urls": [
-      "https://media2.livaat.com/TAHA-TV/index.m3u8",
-      "https://media2.livaat.com/TAHA-TV/index.fmp4.m3u8"
+      "https://media2.livaat.com/TAHA-TV/index.fmp4.m3u8",
+      "https://media2.livaat.com/TAHA-TV/index.m3u8"
     ],
     "language": "ara",
     "country": "LB"

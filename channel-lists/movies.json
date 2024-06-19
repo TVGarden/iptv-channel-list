@@ -101,15 +101,6 @@
     "country": "ES"
   },
   {
-    "id": "AmediaPremium.ru",
-    "name": "Amedia Premium",
-    "stream_urls": [
-      "https://woobl.ru/hls987/Amedia_Premium_hd.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU"
-  },
-  {
     "id": "AmericanClassics.us",
     "name": "American Classics",
     "stream_urls": [
@@ -440,17 +431,7 @@
     "id": "Domkino.ru",
     "name": "Dom kino",
     "stream_urls": [
-      "https://stream01.vnet.am/DomKino/mono.m3u8",
-      "https://woobl.ru/hls987/Dom_kino.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU"
-  },
-  {
-    "id": "DomkinoPremium.ru",
-    "name": "Dom kino Premium",
-    "stream_urls": [
-      "https://woobl.ru/hls987/Dom_kino_premium_hd.m3u8"
+      "https://stream01.vnet.am/DomKino/mono.m3u8"
     ],
     "language": "rus",
     "country": "RU"
@@ -786,15 +767,6 @@
     "country": "SK"
   },
   {
-    "id": "KinoTV.ru",
-    "name": "Kino TV",
-    "stream_urls": [
-      "https://woobl.ru/hls987/Kino_tv.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU"
-  },
-  {
     "id": "KuriakosCine.pt",
     "name": "Kuriakos Cine",
     "stream_urls": [
@@ -900,15 +872,6 @@
     ],
     "language": "eng",
     "country": "US"
-  },
-  {
-    "id": "Muzhskoekino.ru",
-    "name": "Muzhskoe kino",
-    "stream_urls": [
-      "https://woobl.ru/hls987/Muzhskoe_kino_hd.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU"
   },
   {
     "id": "MyTimeMovieNetwork.br",
@@ -1812,15 +1775,6 @@
     "country": "SA"
   },
   {
-    "id": "Russkiyroman.ru",
-    "name": "Russkiy roman",
-    "stream_urls": [
-      "https://woobl.ru/hls987/Russkiy_roman.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU"
-  },
-  {
     "id": "SEOTV4Peliculas.bo",
     "name": "SEO TV 4 Peliculas",
     "stream_urls": [
@@ -2016,24 +1970,6 @@
     ],
     "language": "eng",
     "country": "US"
-  },
-  {
-    "id": "vijuTV1000.ru",
-    "name": "viju TV1000",
-    "stream_urls": [
-      "https://woobl.ru/hls987/TV1000_hd.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU"
-  },
-  {
-    "id": "vijuTV1000action.ru",
-    "name": "viju TV1000 action",
-    "stream_urls": [
-      "https://woobl.ru/hls987/TV1000_action_hd.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU"
   },
   {
     "id": "WeyyakAction.ae",
