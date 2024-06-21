@@ -217,105 +217,6 @@
     "isGeoBlocked": true
   },
   {
-    "id": "Cartoonito.mx",
-    "name": "Cartoonito",
-    "stream_urls": [
-      "https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8"
-    ],
-    "language": "spa",
-    "country": "MX"
-  },
-  {
-    "id": "CartoonitoLive.br",
-    "name": "Cartoonito Live",
-    "stream_urls": [
-      "https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8"
-    ],
-    "language": "por",
-    "country": "BR"
-  },
-  {
-    "id": "CartoonitoLiveLatinAmerica.br",
-    "name": "Cartoonito Live Latin America",
-    "stream_urls": [
-      "https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8"
-    ],
-    "language": "spa",
-    "country": "BR"
-  },
-  {
-    "id": "CartoonNetwork.in",
-    "name": "Cartoon Network",
-    "stream_urls": [
-      "https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8"
-    ],
-    "language": "hin",
-    "country": "IN"
-  },
-  {
-    "id": "CartoonNetwork.mx",
-    "name": "Cartoon Network",
-    "stream_urls": [
-      "https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8"
-    ],
-    "language": "spa",
-    "country": "MX"
-  },
-  {
-    "id": "CartoonNetworkAsia.sg",
-    "name": "Cartoon Network Asia",
-    "stream_urls": [
-      "https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8"
-    ],
-    "language": "eng",
-    "country": "SG"
-  },
-  {
-    "id": "CartoonNetworkEast.us",
-    "name": "Cartoon Network East",
-    "stream_urls": [
-      "https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8"
-    ],
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "id": "CartoonNetworkLive.br",
-    "name": "Cartoon Network Live",
-    "stream_urls": [
-      "https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8"
-    ],
-    "language": "por",
-    "country": "BR"
-  },
-  {
-    "id": "CartoonNetworkLive2.br",
-    "name": "Cartoon Network Live 2",
-    "stream_urls": [
-      "https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8"
-    ],
-    "language": "por",
-    "country": "BR"
-  },
-  {
-    "id": "CartoonNetworkLiveLatinAmerica.br",
-    "name": "Cartoon Network Live Latin America",
-    "stream_urls": [
-      "https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8"
-    ],
-    "language": "spa",
-    "country": "BR"
-  },
-  {
-    "id": "CartoonNetworkLiveLatinAmerica2.br",
-    "name": "Cartoon Network Live Latin America 2",
-    "stream_urls": [
-      "https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8"
-    ],
-    "language": "spa",
-    "country": "BR"
-  },
-  {
     "id": "CBBC.uk",
     "name": "CBBC",
     "stream_urls": [
@@ -394,24 +295,6 @@
     ],
     "language": "spa",
     "country": "HN"
-  },
-  {
-    "id": "DiscoveryKidsLive.br",
-    "name": "Discovery Kids Live",
-    "stream_urls": [
-      "https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8"
-    ],
-    "language": "por",
-    "country": "BR"
-  },
-  {
-    "id": "DiscoveryKidsLiveLatinAmerica.br",
-    "name": "Discovery Kids Live Latin America",
-    "stream_urls": [
-      "https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8"
-    ],
-    "language": "spa",
-    "country": "BR"
   },
   {
     "id": "DisneyChannel.es",

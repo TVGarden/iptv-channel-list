@@ -1872,28 +1872,6 @@
     "country": "US"
   },
   {
-    "id": "TCMEast.us",
-    "name": "TCM East",
-    "stream_urls": [
-      "https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8",
-      "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TCMEast.us.m3u8"
-    ],
-    "language": "eng",
-    "country": "US",
-    "isGeoBlocked": true
-  },
-  {
-    "id": "TCMWest.us",
-    "name": "TCM West",
-    "stream_urls": [
-      "https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8",
-      "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TCMWest.us.m3u8"
-    ],
-    "language": "eng",
-    "country": "US",
-    "isGeoBlocked": true
-  },
-  {
     "id": "TelaViva.br",
     "name": "Tela Viva",
     "stream_urls": [

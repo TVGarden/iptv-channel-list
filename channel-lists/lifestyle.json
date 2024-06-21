@@ -416,7 +416,8 @@
     "id": "NTVStyle.ru",
     "name": "NTV Style",
     "stream_urls": [
-      "https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8"
+      "https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8",
+      "https://cdn.ntv.ru/th_hit/playlist.m3u8"
     ],
     "language": "rus",
     "country": "RU",

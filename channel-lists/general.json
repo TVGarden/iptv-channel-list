@@ -1454,7 +1454,7 @@
     "id": "ARTTV.gr",
     "name": "ART TV",
     "stream_urls": [
-      "https://til.pp.ua:3026/live/arttvgrlive.m3u8"
+      "https://til.pp.ua:3711/live/arttvgr70live.m3u8"
     ],
     "language": "ell",
     "country": "GR"
@@ -7344,6 +7344,7 @@
     "id": "NTV.ru",
     "name": "NTV",
     "stream_urls": [
+      "https://cdn.ntv.ru/ntv0/playlist.m3u8",
       "https://streaming.televizor-24-tochka.ru/live/7.m3u8"
     ],
     "language": "rus",
@@ -9795,37 +9796,6 @@
     "country": "US"
   },
   {
-    "id": "TBSEast.us",
-    "name": "TBS East",
-    "stream_urls": [
-      "https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8",
-      "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TBSEast.us.m3u8"
-    ],
-    "language": "eng",
-    "country": "US",
-    "isGeoBlocked": true
-  },
-  {
-    "id": "TBSeFM.kr",
-    "name": "TBS eFM",
-    "stream_urls": [
-      "https://ythls.armelin.one/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8"
-    ],
-    "language": "kor",
-    "country": "KR"
-  },
-  {
-    "id": "TBSWest.us",
-    "name": "TBS West",
-    "stream_urls": [
-      "https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8",
-      "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TBSWest.us.m3u8"
-    ],
-    "language": "eng",
-    "country": "US",
-    "isGeoBlocked": true
-  },
-  {
     "id": "TchamanTV.ci",
     "name": "Tchaman TV",
     "stream_urls": [
@@ -10667,17 +10637,6 @@
     "country": "VE"
   },
   {
-    "id": "TNTEast.us",
-    "name": "TNT East",
-    "stream_urls": [
-      "https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8",
-      "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TNTEast.us.m3u8"
-    ],
-    "language": "eng",
-    "country": "US",
-    "isGeoBlocked": true
-  },
-  {
     "id": "TNTV.pf",
     "name": "TNTV",
     "stream_urls": [
@@ -10686,17 +10645,6 @@
     ],
     "language": "fra",
     "country": "PF"
-  },
-  {
-    "id": "TNTWest.us",
-    "name": "TNT West",
-    "stream_urls": [
-      "https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8",
-      "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TNTWest.us.m3u8"
-    ],
-    "language": "eng",
-    "country": "US",
-    "isGeoBlocked": true
   },
   {
     "id": "Tojikiston.tj",

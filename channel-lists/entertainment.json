@@ -168,17 +168,6 @@
     "isGeoBlocked": true
   },
   {
-    "id": "AdultSwimEast.us",
-    "name": "Adult Swim East",
-    "stream_urls": [
-      "https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8",
-      "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimEast.us.m3u8"
-    ],
-    "language": "eng",
-    "country": "US",
-    "isGeoBlocked": true
-  },
-  {
     "id": "AdultSwimInfomercials.us",
     "name": "Adult Swim Infomercials",
     "stream_urls": [
@@ -206,17 +195,6 @@
     "stream_urls": [
       "https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_de.m3u8",
       "https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8"
-    ],
-    "language": "eng",
-    "country": "US",
-    "isGeoBlocked": true
-  },
-  {
-    "id": "AdultSwimWest.us",
-    "name": "Adult Swim West",
-    "stream_urls": [
-      "https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8",
-      "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimWest.us.m3u8"
     ],
     "language": "eng",
     "country": "US",
@@ -3044,16 +3022,6 @@
     ],
     "language": "por",
     "country": "BR"
-  },
-  {
-    "id": "tvNAsia.hk",
-    "name": "tvN Asia",
-    "stream_urls": [
-      "https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8"
-    ],
-    "language": "kor",
-    "country": "HK",
-    "isGeoBlocked": true
   },
   {
     "id": "TVNova.hr",
