@@ -9796,6 +9796,15 @@
     "country": "US"
   },
   {
+    "id": "TBSeFM.kr",
+    "name": "TBS eFM",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCHjDAeTbO4fQilomLD-kaXg.m3u8"
+    ],
+    "language": "kor",
+    "country": "KR"
+  },
+  {
     "id": "TchamanTV.ci",
     "name": "Tchaman TV",
     "stream_urls": [

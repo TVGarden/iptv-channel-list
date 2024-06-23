@@ -371,6 +371,15 @@
     "country": "AR"
   },
   {
+    "id": "DF1.de",
+    "name": "DF1",
+    "stream_urls": [
+      "https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
     "id": "DTPlay.bo",
     "name": "DT Play",
     "stream_urls": [

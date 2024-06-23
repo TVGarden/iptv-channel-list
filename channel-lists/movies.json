@@ -1794,16 +1794,6 @@
     "isGeoBlocked": true
   },
   {
-    "id": "ServusTVDeutschland.de",
-    "name": "ServusTV Deutschland",
-    "stream_urls": [
-      "https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master_3392.m3u8"
-    ],
-    "language": "deu",
-    "country": "DE",
-    "isGeoBlocked": true
-  },
-  {
     "id": "SL1.ir",
     "name": "SL 1",
     "stream_urls": [
