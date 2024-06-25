@@ -317,15 +317,6 @@
     "country": "AE"
   },
   {
-    "id": "CNBCAwaaz.in",
-    "name": "CNBC Awaaz",
-    "stream_urls": [
-      "https://ythls.armelin.one/channel/UCQIycDaLsBpMKjOCeaKUYVg.m3u8"
-    ],
-    "language": "hin",
-    "country": "IN"
-  },
-  {
     "id": "CNBCBajar.in",
     "name": "CNBC Bajar",
     "stream_urls": [

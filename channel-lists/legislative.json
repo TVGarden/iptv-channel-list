@@ -208,6 +208,15 @@
     "country": "MX"
   },
   {
+    "id": "CapitalCityConnectionMontgomery.us",
+    "name": "Capital City Connection Montgomery",
+    "stream_urls": [
+      "https://vbfast-c.viebit.com/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "id": "CDTV.cl",
     "name": "CDTV",
     "stream_urls": [
@@ -262,15 +271,6 @@
     "country": "LU"
   },
   {
-    "id": "ChannelOne.us",
-    "name": "Channel One",
-    "stream_urls": [
-      "https://ch1hls.wns.live/hls/stream.m3u8"
-    ],
-    "language": "fas",
-    "country": "US"
-  },
-  {
     "id": "CityofFlagstaff.us",
     "name": "City of Flagstaff",
     "stream_urls": [
@@ -298,10 +298,55 @@
     "country": "US"
   },
   {
+    "id": "CityofTracyChannel26.us",
+    "name": "City of Tracy Channel 26",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/tracy-ca/G0950_002/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CityofVacavilleChannel26.us",
+    "name": "City of Vacaville Channel 26",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/vacaville/G0228_002/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "id": "CityTV20SantaMonica.us",
     "name": "CityTV 20 Santa Monica",
     "stream_urls": [
       "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CityTVChannel341.us",
+    "name": "City TV Channel 3/41",
+    "stream_urls": [
+      "https://edge-f.swagit.com/live/chinohillsca/smil:std-4x3-1-a/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CityTVSanDiego.us",
+    "name": "CityTV San Diego",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CityTVWhittier.us",
+    "name": "CityTV Whittier",
+    "stream_urls": [
+      "https://whittier.cablecast.tv/live/stream-1/live.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -397,6 +442,16 @@
     "country": "PE"
   },
   {
+    "id": "ContraCostaTV.us",
+    "name": "Contra Costa TV",
+    "stream_urls": [
+      "https://reflect-contra-costa.cablecast.tv/live-7/live/live.m3u8"
+    ],
+    "language": "eng",
+    "country": "US",
+    "isGeoBlocked": true
+  },
+  {
     "id": "CoralGablesTV.us",
     "name": "Coral Gables TV",
     "stream_urls": [
@@ -424,6 +479,15 @@
     "country": "CA"
   },
   {
+    "id": "CruzTV.us",
+    "name": "Cruz TV",
+    "stream_urls": [
+      "https://reflect-communitytv.cablecast.tv/live-4/live/live.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "id": "CupertinoCityChannel.us",
     "name": "Cupertino City Channel",
     "stream_urls": [
@@ -437,6 +501,15 @@
     "name": "CVC Government",
     "stream_urls": [
       "https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch3/video.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CypressChannel36.us",
+    "name": "Cypress Channel 36",
+    "stream_urls": [
+      "https://edge-f.swagit.com/live/cypressca/smil:std-16x9-1-b/playlist.m3u8"
     ],
     "language": "eng",
     "country": "US"

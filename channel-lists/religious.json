@@ -698,15 +698,6 @@
     "country": "IN"
   },
   {
-    "id": "AngelTVEurope.in",
-    "name": "Angel TV Europe",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angeleurope_all/playlist.m3u8"
-    ],
-    "language": "eng",
-    "country": "IN"
-  },
-  {
     "id": "AngelTVFarEast.in",
     "name": "Angel TV Far East",
     "stream_urls": [
@@ -1068,6 +1059,15 @@
     "country": "GT"
   },
   {
+    "id": "CanalISB.cl",
+    "name": "Canal ISB",
+    "stream_urls": [
+      "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
     "id": "CanalMas.uy",
     "name": "Canal Mas",
     "stream_urls": [
@@ -1093,6 +1093,15 @@
     ],
     "language": "spa",
     "country": "GT"
+  },
+  {
+    "id": "CanalSantaMaria.ar",
+    "name": "Canal Santa Maria",
+    "stream_urls": [
+      "https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
   },
   {
     "id": "CanalTelefamilia.co",
@@ -1129,6 +1138,15 @@
     ],
     "language": "spa",
     "country": "GT"
+  },
+  {
+    "id": "CapuchinTV.ke",
+    "name": "Capuchin TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCHPJTU2lq20S3kQoDONYHgQ.m3u8"
+    ],
+    "language": "eng",
+    "country": "KE"
   },
   {
     "id": "CaribbeanGospelTV.jm",
@@ -1174,6 +1192,15 @@
     ],
     "language": "eng",
     "country": "US"
+  },
+  {
+    "id": "CaughtUpTV.ng",
+    "name": "Caught-Up TV",
+    "stream_urls": [
+      "https://webstreaming-3.viewmedia.tv/web_031/Stream/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "NG"
   },
   {
     "id": "CBNEspanol.us",
@@ -1239,6 +1266,15 @@
     "country": "CD"
   },
   {
+    "id": "CDMInternacional.pr",
+    "name": "CDM Internacional",
+    "stream_urls": [
+      "https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "PR"
+  },
+  {
     "id": "CGNTVJapan.jp",
     "name": "CGNTV Japan",
     "stream_urls": [
@@ -1257,6 +1293,24 @@
     "country": "KR"
   },
   {
+    "id": "ChannelDivya.in",
+    "name": "Channel Divya",
+    "stream_urls": [
+      "https://mcncdndigital.com/divyatv/index.fmp4.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "id": "ChannelWIN.in",
+    "name": "Channel WIN",
+    "stream_urls": [
+      "https://streamer.winfoundation.in:8081/live/winstream/playlist.m3u8"
+    ],
+    "language": "urd",
+    "country": "IN"
+  },
+  {
     "id": "CholutecaTV.hn",
     "name": "Choluteca TV",
     "stream_urls": [
@@ -1266,6 +1320,24 @@
     "country": "HN"
   },
   {
+    "id": "ChosenTVEnglish.ng",
+    "name": "Chosen TV English",
+    "stream_urls": [
+      "https://webstreaming-2.viewmedia.tv/web_024/Stream/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "NG"
+  },
+  {
+    "id": "ChristLive.ci",
+    "name": "Christ Live",
+    "stream_urls": [
+      "https://voozmedia.fun/stream/christlive/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "CI"
+  },
+  {
     "id": "ChurchofUgandaFamilyTelevision.ug",
     "name": "Church of Uganda Family Television",
     "stream_urls": [
@@ -1273,6 +1345,15 @@
     ],
     "language": "eng",
     "country": "UG"
+  },
+  {
+    "id": "CieloTV.do",
+    "name": "Cielo TV",
+    "stream_urls": [
+      "https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "DO"
   },
   {
     "id": "ClergyTV.ke",
@@ -1312,6 +1393,24 @@
     "country": "EG"
   },
   {
+    "id": "CozaTV.ng",
+    "name": "Coza TV",
+    "stream_urls": [
+      "https://webstreaming-7.viewmedia.tv/web_097/Stream/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "NG"
+  },
+  {
+    "id": "CredoTV.ro",
+    "name": "Credo TV",
+    "stream_urls": [
+      "https://5bb3298db4821.streamlock.net/ctv/livecredo/playlist.m3u8"
+    ],
+    "language": "ron",
+    "country": "RO"
+  },
+  {
     "id": "CristianaTV.es",
     "name": "Cristiana TV",
     "stream_urls": [
@@ -1328,6 +1427,15 @@
     ],
     "language": "spa",
     "country": "GT"
+  },
+  {
+    "id": "Cristovision.co",
+    "name": "Cristovision",
+    "stream_urls": [
+      "https://151972.global.ssl.fastly.net/60a5a559e3414ce54aa8a44d/live_66dad780017a11ee87ff5592d1e02764/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "CO"
   },
   {
     "id": "CristoVisionCanal31.cr",
@@ -1367,6 +1475,24 @@
     "country": "KR"
   },
   {
+    "id": "CVC.bo",
+    "name": "CVC",
+    "stream_urls": [
+      "https://5d00db0e0fcd5.streamlock.net/7034/7034/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "BO"
+  },
+  {
+    "id": "DAAITV.id",
+    "name": "DAAI TV",
+    "stream_urls": [
+      "https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8"
+    ],
+    "language": "zho",
+    "country": "ID"
+  },
+  {
     "id": "DaawahTV.tr",
     "name": "Daawah TV",
     "stream_urls": [
@@ -1374,15 +1500,6 @@
     ],
     "language": "ara",
     "country": "TR"
-  },
-  {
-    "id": "DacwaTV.so",
-    "name": "Dacwa TV",
-    "stream_urls": [
-      "https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8"
-    ],
-    "language": "som",
-    "country": "SO"
   },
   {
     "id": "DareToDreamNetwork.us",
@@ -1754,16 +1871,6 @@
     ],
     "language": "ara",
     "country": "UK"
-  },
-  {
-    "id": "FaithTV.us",
-    "name": "Faith TV",
-    "stream_urls": [
-      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c58a539fae3812612f33ca3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c58a539fae3812612f33ca3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=643&terminate=false&userId=",
-      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c58a539fae3812612f33ca3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
-    ],
-    "language": "eng",
-    "country": "US"
   },
   {
     "id": "FarodeSantidadTV.pr",
@@ -4174,8 +4281,7 @@
     "id": "Spas.ru",
     "name": "Spas",
     "stream_urls": [
-      "https://spas.mediacdn.ru/cdn/spas/playlist.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/15.m3u8"
+      "https://spas.mediacdn.ru/cdn/spas/playlist.m3u8"
     ],
     "language": "rus",
     "country": "RU"
@@ -4310,8 +4416,7 @@
     "id": "TBNEast.us",
     "name": "TBN East",
     "stream_urls": [
-      "https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8",
-      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d486b2eeddd9576d66f9066&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=644&terminate=false&userId="
+      "https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -4550,6 +4655,15 @@
     ],
     "language": "eng",
     "country": "UG"
+  },
+  {
+    "id": "TsargradTV.ru",
+    "name": "Tsargrad TV",
+    "stream_urls": [
+      "https://evtccc0y6kd.a.trbcdn.net/livemaster/bzm8x_live-i5ang56kd2.smil/playlist.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
   },
   {
     "id": "TuUniversoTV.co",

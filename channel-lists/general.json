@@ -330,6 +330,15 @@
     "country": "NL"
   },
   {
+    "id": "AbazaTV.ru",
+    "name": "Abaza TV",
+    "stream_urls": [
+      "https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
     "id": "ABCTVACT.au",
     "name": "ABC TV ACT",
     "stream_urls": [
@@ -2067,17 +2076,6 @@
     "isGeoBlocked": true
   },
   {
-    "id": "BBCOne.uk",
-    "name": "BBC One",
-    "stream_urls": [
-      "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/iptv_hd_abr_v1.mpd",
-      "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8"
-    ],
-    "language": "eng",
-    "country": "UK",
-    "isGeoBlocked": true
-  },
-  {
     "id": "BBCOneChannelIslands.uk",
     "name": "BBC One Channel Islands",
     "stream_urls": [
@@ -2810,6 +2808,15 @@
     "country": "CR"
   },
   {
+    "id": "Canal11.ni",
+    "name": "Canal 11",
+    "stream_urls": [
+      "https://cootv.cootel.com.ni:8095/Canal11_CooTel/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "NI"
+  },
+  {
     "id": "Canal11Aysen.cl",
     "name": "Canal 11 Aysen",
     "stream_urls": [
@@ -2979,6 +2986,16 @@
     ],
     "language": "spa",
     "country": "CR"
+  },
+  {
+    "id": "Canal2.ni",
+    "name": "Canal 2",
+    "stream_urls": [
+      "https://cootv.cootel.com.ni:8095/Canal02_CooTel/playlist.m3u8",
+      "https://ythls.armelin.one/channel/UCX2i6sAexuDAbHMztLnfnKg.m3u8"
+    ],
+    "language": "spa",
+    "country": "NI"
   },
   {
     "id": "Canal20.gt",
@@ -3423,6 +3440,42 @@
     "country": "ES"
   },
   {
+    "id": "Canale21Extra.it",
+    "name": "Canale 21 Extra",
+    "stream_urls": [
+      "https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "Canale2Altamura.it",
+    "name": "Canale 2 Altamura",
+    "stream_urls": [
+      "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "CanaleEuropaTV.it",
+    "name": "Canale Europa TV",
+    "stream_urls": [
+      "https://canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "id": "CanaleItalia.it",
+    "name": "Canale Italia",
+    "stream_urls": [
+      "https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net/ac115_live/canale1.smil/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
     "id": "CanalExtremadura.es",
     "name": "Canal Extremadura",
     "stream_urls": [
@@ -3477,6 +3530,25 @@
     "country": "MO"
   },
   {
+    "id": "CanalMalagaRTV.es",
+    "name": "Canal Malaga RTV",
+    "stream_urls": [
+      "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "CanalMasTelevision.co",
+    "name": "Canal Mas Television",
+    "stream_urls": [
+      "https://movil.ejeserver.com/live/teledoradahd.m3u8",
+      "https://video.ejeserver.com/live/teledoradahd.m3u8"
+    ],
+    "language": "spa",
+    "country": "CO"
+  },
+  {
     "id": "CanalMundoVision.co",
     "name": "Canal Mundo Vision",
     "stream_urls": [
@@ -3505,6 +3577,15 @@
     "country": "MX"
   },
   {
+    "id": "CanalProvincial.ar",
+    "name": "Canal Provincial",
+    "stream_urls": [
+      "https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
     "id": "CanalRegionalFTV.co",
     "name": "Canal Regional FTV",
     "stream_urls": [
@@ -3523,6 +3604,15 @@
     "country": "BR"
   },
   {
+    "id": "CanalSanRoque.es",
+    "name": "Canal San Roque",
+    "stream_urls": [
+      "https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
     "id": "CanalSantaMartaTV.co",
     "name": "Canal Santa Marta TV",
     "stream_urls": [
@@ -3532,10 +3622,47 @@
     "country": "CO"
   },
   {
+    "id": "CanalSCN.cl",
+    "name": "Canal SCN",
+    "stream_urls": [
+      "https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "CanalSierradeCadiz.es",
+    "name": "Canal Sierra de Cadiz",
+    "stream_urls": [
+      "https://s.emisoras.tv:8081/sierradecadiz/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "CanalSiete.ar",
+    "name": "Canal Siete",
+    "stream_urls": [
+      "https://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
     "id": "CanalSur2.es",
     "name": "Canal Sur 2",
     "stream_urls": [
       "https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "CanalSurAndalucia.es",
+    "name": "Canal Sur Andalucia",
+    "stream_urls": [
+      "https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8",
+      "https://ythls.armelin.one/channel/UChtLgH7ZJLqLGWJpBnzy9Lg.m3u8"
     ],
     "language": "spa",
     "country": "ES"
@@ -3559,6 +3686,34 @@
     "country": "SV"
   },
   {
+    "id": "CanalTVRio.br",
+    "name": "Canal TV Rio",
+    "stream_urls": [
+      "https://video01.logicahost.com.br/canaltvrio/canaltvrio/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "CanalU.ar",
+    "name": "Canal U",
+    "stream_urls": [
+      "https://stream.arcast.live/canalu/canalu/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "CanalVisionDorada.co",
+    "name": "Canal Vision Dorada",
+    "stream_urls": [
+      "https://movil.ejeserver.com/live/visiondorada.m3u8",
+      "https://video.ejeserver.com/live/visiondorada.m3u8"
+    ],
+    "language": "spa",
+    "country": "CO"
+  },
+  {
     "id": "CanalVisof.gt",
     "name": "Canal Visof",
     "stream_urls": [
@@ -3566,6 +3721,16 @@
     ],
     "language": "spa",
     "country": "GT"
+  },
+  {
+    "id": "CanalZoom.be",
+    "name": "Canal Zoom",
+    "stream_urls": [
+      "https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8"
+    ],
+    "language": "fra",
+    "country": "BE",
+    "isGeoBlocked": true
   },
   {
     "id": "CanaTVDigital.do",
@@ -3584,6 +3749,15 @@
     ],
     "language": "ben",
     "country": "CA"
+  },
+  {
+    "id": "CapeTownTV.za",
+    "name": "Cape Town TV",
+    "stream_urls": [
+      "https://capetowntv.net/lvod/6107c8d77d6b693df801ae2e/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "ZA"
   },
   {
     "id": "CapitalTVHD.np",
@@ -3611,6 +3785,34 @@
     ],
     "language": "eng",
     "country": "US"
+  },
+  {
+    "id": "CAPSChannel6.us",
+    "name": "CAPS Channel 6",
+    "stream_urls": [
+      "https://reflect-stream6-capsmedia.cablecast.tv/live/live.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CaracolaTV.cl",
+    "name": "Caracola TV",
+    "stream_urls": [
+      "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "CaracolTV.co",
+    "name": "Caracol TV",
+    "stream_urls": [
+      "https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8"
+    ],
+    "language": "spa",
+    "country": "CO",
+    "isGeoBlocked": true
   },
   {
     "id": "CarareTV.co",
@@ -3667,6 +3869,15 @@
     "country": "CR"
   },
   {
+    "id": "CascaraTV.do",
+    "name": "Cascara TV",
+    "stream_urls": [
+      "https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "DO"
+  },
+  {
     "id": "CatatumboTV.ve",
     "name": "Catatumbo TV",
     "stream_urls": [
@@ -3712,6 +3923,26 @@
     "country": "BR"
   },
   {
+    "id": "CBAFTDT.ca",
+    "name": "CBAFT-DT",
+    "stream_urls": [
+      "https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8"
+    ],
+    "language": "fra",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CBATDT.ca",
+    "name": "CBAT-DT",
+    "stream_urls": [
+      "https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
     "id": "CBC.eg",
     "name": "CBC",
     "stream_urls": [
@@ -3721,12 +3952,102 @@
     "country": "EG"
   },
   {
+    "id": "CBCTDT.ca",
+    "name": "CBCT-DT",
+    "stream_urls": [
+      "https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CBETDT.ca",
+    "name": "CBET-DT",
+    "stream_urls": [
+      "https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
     "id": "CBFTDT.ca",
     "name": "CBFT-DT",
     "stream_urls": [
       "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8"
     ],
     "language": "fra",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CBHTDT.ca",
+    "name": "CBHT-DT",
+    "stream_urls": [
+      "https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CBKFTDT.ca",
+    "name": "CBKFT-DT",
+    "stream_urls": [
+      "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8"
+    ],
+    "language": "fra",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CBKTDT.ca",
+    "name": "CBKT-DT",
+    "stream_urls": [
+      "https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CBLFTDT.ca",
+    "name": "CBLFT-DT",
+    "stream_urls": [
+      "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8"
+    ],
+    "language": "fra",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CBLTDT.ca",
+    "name": "CBLT-DT",
+    "stream_urls": [
+      "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CBMTDT.ca",
+    "name": "CBMT-DT",
+    "stream_urls": [
+      "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CBNTDT.ca",
+    "name": "CBNT-DT",
+    "stream_urls": [
+      "https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8"
+    ],
+    "language": "eng",
     "country": "CA",
     "isGeoBlocked": true
   },
@@ -3740,13 +4061,104 @@
     "country": "VG"
   },
   {
-    "id": "CBTVInternacional.br",
-    "name": "CBTV Internacional",
+    "id": "CBOFTDT.ca",
+    "name": "CBOFT-DT",
     "stream_urls": [
-      "https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8"
+      "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8"
     ],
-    "language": "por",
-    "country": "BR"
+    "language": "fra",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CBOTDT.ca",
+    "name": "CBOT-DT",
+    "stream_urls": [
+      "https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CBRTDT.ca",
+    "name": "CBRT-DT",
+    "stream_urls": [
+      "https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CBUFTDT.ca",
+    "name": "CBUFT-DT",
+    "stream_urls": [
+      "https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8"
+    ],
+    "language": "fra",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CBUTDT.ca",
+    "name": "CBUT-DT",
+    "stream_urls": [
+      "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CBVTDT.ca",
+    "name": "CBVT-DT",
+    "stream_urls": [
+      "https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8"
+    ],
+    "language": "fra",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CBWFTDT.ca",
+    "name": "CBWFT-DT",
+    "stream_urls": [
+      "https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8"
+    ],
+    "language": "fra",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CBWTDT.ca",
+    "name": "CBWT-DT",
+    "stream_urls": [
+      "https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CBXFTDT.ca",
+    "name": "CBXFT-DT",
+    "stream_urls": [
+      "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CBXTDT.ca",
+    "name": "CBXT-DT",
+    "stream_urls": [
+      "https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA",
+    "isGeoBlocked": true
   },
   {
     "id": "CCTV1.cn",
@@ -3785,6 +4197,34 @@
     "country": "US"
   },
   {
+    "id": "CDN.do",
+    "name": "CDN",
+    "stream_urls": [
+      "https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "DO"
+  },
+  {
+    "id": "CekmekoyTV.tr",
+    "name": "Cekmekoy TV",
+    "stream_urls": [
+      "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8",
+      "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "id": "CelebesTV.id",
+    "name": "Celebes TV",
+    "stream_urls": [
+      "https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8"
+    ],
+    "language": "ind",
+    "country": "ID"
+  },
+  {
     "id": "CENTelevision.cm",
     "name": "CEN Television",
     "stream_urls": [
@@ -3803,6 +4243,24 @@
     "country": "GR"
   },
   {
+    "id": "CentralTV.br",
+    "name": "Central TV",
+    "stream_urls": [
+      "https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "CentralTV.mn",
+    "name": "Central TV",
+    "stream_urls": [
+      "https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8"
+    ],
+    "language": "mon",
+    "country": "MN"
+  },
+  {
     "id": "CerritosTV3.us",
     "name": "Cerritos TV3",
     "stream_urls": [
@@ -3810,6 +4268,15 @@
     ],
     "language": "eng",
     "country": "US"
+  },
+  {
+    "id": "CFHDDT.ca",
+    "name": "CFHD-DT",
+    "stream_urls": [
+      "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA"
   },
   {
     "id": "CFTMDT.ca",
@@ -3822,14 +4289,33 @@
     "isGeoBlocked": true
   },
   {
-    "id": "CGTNSpanish.cn",
-    "name": "CGTN Spanish",
+    "id": "CFYKDT.ca",
+    "name": "CFYK-DT",
     "stream_urls": [
-      "https://livees.cgtn.com/1000e/prog_index.m3u8",
-      "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8"
+      "https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8"
     ],
-    "language": "spa",
-    "country": "CN"
+    "language": "eng",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "ChadaTV.ma",
+    "name": "Chada TV",
+    "stream_urls": [
+      "https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8"
+    ],
+    "language": "ara",
+    "country": "MA"
+  },
+  {
+    "id": "Channel12.ru",
+    "name": "Channel 12",
+    "stream_urls": [
+      "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8",
+      "https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
   },
   {
     "id": "Channel13.il",
@@ -3842,13 +4328,92 @@
     "country": "IL"
   },
   {
-    "id": "Channel5.ru",
+    "id": "Channel13.mv",
+    "name": "Channel 13",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCevtg3pYdyr0EaWSAQMwUgA.m3u8",
+      "https://stream.theyraonline.com/live/channel13@live/index.m3u8"
+    ],
+    "language": "div",
+    "country": "MV"
+  },
+  {
+    "id": "Channel44.au",
+    "name": "Channel 44",
+    "stream_urls": [
+      "https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "AU"
+  },
+  {
+    "id": "Channel5.sg",
     "name": "Channel 5",
     "stream_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/8.m3u8"
+      "https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8",
+      "https://dlau142f16b92.cloudfront.net/hls/clr4ctv_ch5/master.m3u8"
     ],
-    "language": "rus",
-    "country": "RU"
+    "language": "eng",
+    "country": "SG",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "Channel5.th",
+    "name": "Channel 5",
+    "stream_urls": [
+      "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8"
+    ],
+    "language": "tha",
+    "country": "TH"
+  },
+  {
+    "id": "Channel7Sydney.au",
+    "name": "Channel 7 Sydney",
+    "stream_urls": [
+      "https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "AU",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "Channel8.sg",
+    "name": "Channel 8",
+    "stream_urls": [
+      "https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8"
+    ],
+    "language": "zho",
+    "country": "SG",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "Channel9.bd",
+    "name": "Channel 9",
+    "stream_urls": [
+      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/playlist.m3u8"
+    ],
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "id": "Channel9Melbourne.au",
+    "name": "Channel 9 Melbourne",
+    "stream_urls": [
+      "https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "AU",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "Channel9Sydney.au",
+    "name": "Channel 9 Sydney",
+    "stream_urls": [
+      "https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "AU",
+    "isGeoBlocked": true
   },
   {
     "id": "ChannelI.bd",
@@ -3864,7 +4429,7 @@
     "name": "Channel One",
     "stream_urls": [
       "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd",
-      "https://streaming.televizor-24-tochka.ru/live/4.m3u8"
+      "https://streaming.televizor-24-tochka.ru/live/210.m3u8"
     ],
     "language": "rus",
     "country": "RU"
@@ -3877,6 +4442,25 @@
     ],
     "language": "kaz",
     "country": "KZ"
+  },
+  {
+    "id": "CHCOTV.ca",
+    "name": "CHCO-TV",
+    "stream_urls": [
+      "https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "Cherie25.fr",
+    "name": "Cherie 25",
+    "stream_urls": [
+      "https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
   },
   {
     "id": "ChivacoaTVInternacional.ve",
@@ -3952,6 +4536,15 @@
     "country": "HU"
   },
   {
+    "id": "CitytvBogota.co",
+    "name": "Citytv Bogota",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8"
+    ],
+    "language": "spa",
+    "country": "CO"
+  },
+  {
     "id": "CityTVCarlsbad.us",
     "name": "City TV Carlsbad",
     "stream_urls": [
@@ -3979,6 +4572,16 @@
     "country": "CO"
   },
   {
+    "id": "CiudadMagazine.ar",
+    "name": "Ciudad Magazine",
+    "stream_urls": [
+      "https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR",
+    "isGeoBlocked": true
+  },
+  {
     "id": "CiudadRealTV.es",
     "name": "Ciudad Real TV",
     "stream_urls": [
@@ -3988,13 +4591,62 @@
     "country": "ES"
   },
   {
-    "id": "CIVMDT.ca",
-    "name": "CIVM-DT",
+    "id": "CJBRDT.ca",
+    "name": "CJBR-DT",
     "stream_urls": [
-      "https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8"
+      "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8"
     ],
     "language": "fra",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CJONDT.ca",
+    "name": "CJON-DT",
+    "stream_urls": [
+      "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8"
+    ],
+    "language": "eng",
     "country": "CA"
+  },
+  {
+    "id": "CKSHDT.ca",
+    "name": "CKSH-DT",
+    "stream_urls": [
+      "https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8"
+    ],
+    "language": "fra",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CKTMDT.ca",
+    "name": "CKTM-DT",
+    "stream_urls": [
+      "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8"
+    ],
+    "language": "fra",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "CKTVDT.ca",
+    "name": "CKTV-DT",
+    "stream_urls": [
+      "https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8"
+    ],
+    "language": "fra",
+    "country": "CA",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "Clarity4K.us",
+    "name": "Clarity 4K",
+    "stream_urls": [
+      "https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
   },
   {
     "id": "ClaroTelevisionDominicana.do",
@@ -4006,6 +4658,15 @@
     "country": "DO"
   },
   {
+    "id": "CLTV36.ph",
+    "name": "CLTV 36",
+    "stream_urls": [
+      "https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8"
+    ],
+    "language": "tgl",
+    "country": "PH"
+  },
+  {
     "id": "CMAC1.us",
     "name": "CMAC 1",
     "stream_urls": [
@@ -4013,15 +4674,6 @@
     ],
     "language": "eng",
     "country": "US"
-  },
-  {
-    "id": "CMalayalamTV.ca",
-    "name": "C Malayalam TV",
-    "stream_urls": [
-      "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
-    ],
-    "language": "mal",
-    "country": "CA"
   },
   {
     "id": "CMAPChannel18.us",
@@ -4037,6 +4689,24 @@
     "name": "CMAP Channel 20",
     "stream_urls": [
       "https://livestream.telvue.com/cmap5/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CMMTV.es",
+    "name": "CMM TV",
+    "stream_urls": [
+      "https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "CMTV.us",
+    "name": "CMTV",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -4061,11 +4731,39 @@
     "isGeoBlocked": true
   },
   {
+    "id": "CNCMonteria.co",
+    "name": "CNC Monteria",
+    "stream_urls": [
+      "https://stmv4.voxtvhd.com.br/cncmonteria/cncmonteria/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CO"
+  },
+  {
+    "id": "CNCPasto.co",
+    "name": "CNC Pasto",
+    "stream_urls": [
+      "https://hvtraficonew.ddns.net/pastocnc9/cnc9/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CO",
+    "isGeoBlocked": true
+  },
+  {
     "id": "CNCSantanderdeQuilichao.co",
     "name": "CNC Santander de Quilichao",
     "stream_urls": [
       "https://movil.ejeserver.com/live/cncsantander.m3u8",
       "https://video.ejeserver.com/live/cncsantander.m3u8"
+    ],
+    "language": "spa",
+    "country": "CO"
+  },
+  {
+    "id": "CNCTulua.co",
+    "name": "CNC Tulua",
+    "stream_urls": [
+      "https://servers.amelbasoluciones.co:19360/cnctulualive/cnctulualive.m3u8"
     ],
     "language": "spa",
     "country": "CO"
@@ -4096,6 +4794,15 @@
     ],
     "language": "spa",
     "country": "MX"
+  },
+  {
+    "id": "ColorsRishteyAsia.in",
+    "name": "Colors Rishtey Asia",
+    "stream_urls": [
+      "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
   },
   {
     "id": "COMBrasil.br",
@@ -4180,6 +4887,15 @@
     "country": "BO"
   },
   {
+    "id": "CorrientesTV.ar",
+    "name": "Corrientes TV",
+    "stream_urls": [
+      "https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
     "id": "Cositel.pe",
     "name": "Cositel",
     "stream_urls": [
@@ -4193,6 +4909,15 @@
     "name": "Costa del Sol TV",
     "stream_urls": [
       "https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "CostaNoroesteTV.es",
+    "name": "Costa Noroeste TV",
+    "stream_urls": [
+      "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8"
     ],
     "language": "spa",
     "country": "ES"
@@ -4261,6 +4986,15 @@
     "country": "PE"
   },
   {
+    "id": "CromTV.do",
+    "name": "CromTV",
+    "stream_urls": [
+      "https://cnn.essastream.com:3333/live/cromtvlive.m3u8"
+    ],
+    "language": "spa",
+    "country": "DO"
+  },
+  {
     "id": "CRTelevision.pe",
     "name": "CR Television",
     "stream_urls": [
@@ -4277,6 +5011,15 @@
     ],
     "language": "spa",
     "country": "HN"
+  },
+  {
+    "id": "CRTV.cm",
+    "name": "CRTV",
+    "stream_urls": [
+      "https://edge.vedge.infomaniak.com/livecast/ik:fluxvideo-crtv/manifest.m3u8"
+    ],
+    "language": "fra",
+    "country": "CM"
   },
   {
     "id": "CSRTV.sk",
@@ -4306,6 +5049,15 @@
     "country": "CA"
   },
   {
+    "id": "CTC.pe",
+    "name": "CTC",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCJqwSXVmnG6hZrIoqdpjRYQ.m3u8"
+    ],
+    "language": "spa",
+    "country": "PE"
+  },
+  {
     "id": "CTVAfrique.cm",
     "name": "CTV Afrique",
     "stream_urls": [
@@ -4324,6 +5076,24 @@
     "country": "DO"
   },
   {
+    "id": "CTVInternacional.hn",
+    "name": "CTV Internacional",
+    "stream_urls": [
+      "https://mediacp.us:8081/ctvhn/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "HN"
+  },
+  {
+    "id": "Cuatro.es",
+    "name": "Cuatro",
+    "stream_urls": [
+      "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
     "id": "CuriquingueTV.ec",
     "name": "Curiquingue TV",
     "stream_urls": [
@@ -4331,6 +5101,15 @@
     ],
     "language": "spa",
     "country": "EC"
+  },
+  {
+    "id": "CusanoItaliaTV.it",
+    "name": "Cusano Italia TV",
+    "stream_urls": [
+      "https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
   },
   {
     "id": "CUTERVOTV.pe",
@@ -4367,6 +5146,16 @@
     ],
     "language": "por",
     "country": "BR"
+  },
+  {
+    "id": "D5tv.fr",
+    "name": "D5tv",
+    "stream_urls": [
+      "https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8",
+      "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/D5TV.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
   },
   {
     "id": "DaAi1.tw",
@@ -6375,8 +7164,7 @@
     "id": "Lugansk24.ua",
     "name": "Lugansk 24",
     "stream_urls": [
-      "https://tv.gtrklnr.ru/hls/Lugansk24.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/29.m3u8"
+      "https://tv.gtrklnr.ru/hls/Lugansk24.m3u8"
     ],
     "language": "rus",
     "country": "UA"
@@ -6780,8 +7568,7 @@
     "id": "Mir.ru",
     "name": "Mir",
     "stream_urls": [
-      "https://strm.yandex.ru/kal/mir24/mir0.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/22.m3u8"
+      "https://strm.yandex.ru/kal/mir24/mir0.m3u8"
     ],
     "language": "rus",
     "country": "RU",
@@ -7344,8 +8131,7 @@
     "id": "NTV.ru",
     "name": "NTV",
     "stream_urls": [
-      "https://cdn.ntv.ru/ntv0/playlist.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/7.m3u8"
+      "https://cdn.ntv.ru/ntv0/playlist.m3u8"
     ],
     "language": "rus",
     "country": "RU"
@@ -7750,7 +8536,7 @@
     "id": "PancTV.ar",
     "name": "Panc TV",
     "stream_urls": [
-      "https://stream.trixserver.com:3088/live/uv096live.m3u8"
+      "https://tv.streamcasthd.com:3000/live/panctvlive.m3u8"
     ],
     "language": "spa",
     "country": "AR"
@@ -8672,15 +9458,6 @@
     "country": "NL"
   },
   {
-    "id": "RENTV.ru",
-    "name": "REN TV",
-    "stream_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/14.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU"
-  },
-  {
     "id": "RepublicaTV.py",
     "name": "Republica TV",
     "stream_urls": [
@@ -9047,8 +9824,7 @@
     "id": "Russia1.ru",
     "name": "Russia-1",
     "stream_urls": [
-      "https://player.smotrim.ru/iframe/stream/live_id/2961",
-      "https://streaming.televizor-24-tochka.ru/live/5.m3u8"
+      "https://player.smotrim.ru/iframe/stream/live_id/2961"
     ],
     "language": "rus",
     "country": "RU"
@@ -9297,7 +10073,6 @@
       "https://shoutfactory-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-shoutfactorytv/CDN/playlist.m3u8",
       "https://shoutfactory-redbox.amagi.tv/playlist.m3u8",
       "https://shoutfactory-xumo.amagi.tv/playlist.m3u8",
-      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=55a6a3275616b6240c26f393&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=542&terminate=false&userId=",
       "https://d1e3a0zkn06gu7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkf1jz7l0hork/playlist.m3u8",
       "https://amg00163-shoutfactory-shoutfactory-dmr-maeqc.amagi.tv/playlist/amg00163-shoutfactory-shoutfactory-dmr/playlist.m3u8"
     ],
@@ -12980,15 +13755,6 @@
     "country": "SK"
   },
   {
-    "id": "ZaTV.ru",
-    "name": "Za! TV",
-    "stream_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/25.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU"
-  },
-  {
     "id": "ZIZTV.kn",
     "name": "ZIZ TV",
     "stream_urls": [
@@ -13030,7 +13796,7 @@
     "stream_urls": [
       "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
       "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/21.m3u8"
+      "https://streaming.televizor-24-tochka.ru/live/748.m3u8"
     ],
     "language": "rus",
     "country": "RU"

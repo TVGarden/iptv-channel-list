@@ -147,6 +147,15 @@
     "country": "BR"
   },
   {
+    "id": "CanalSaude.br",
+    "name": "Canal Saude",
+    "stream_urls": [
+      "https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
     "id": "CCPSEducationChannel.us",
     "name": "CCPS Education Channel",
     "stream_urls": [
@@ -163,6 +172,69 @@
     ],
     "language": "zho",
     "country": "CN"
+  },
+  {
+    "id": "CCTV7.cn",
+    "name": "CCTV-7",
+    "stream_urls": [
+      "https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8"
+    ],
+    "language": "zho",
+    "country": "CN"
+  },
+  {
+    "id": "CFTUDT.ca",
+    "name": "CFTU-DT",
+    "stream_urls": [
+      "https://hls.savoir.media/live/stream.m3u8"
+    ],
+    "language": "fra",
+    "country": "CA"
+  },
+  {
+    "id": "CharruaTelevision.uy",
+    "name": "Charrua Television",
+    "stream_urls": [
+      "https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "UY"
+  },
+  {
+    "id": "CiftciTV.tr",
+    "name": "Ciftci TV",
+    "stream_urls": [
+      "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "id": "CityofTracyChannel26.us",
+    "name": "City of Tracy Channel 26",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/tracy-ca/G0950_002/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CIVMDT.ca",
+    "name": "CIVM-DT",
+    "stream_urls": [
+      "https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "CA"
+  },
+  {
+    "id": "ClassicArtsShowcase.us",
+    "name": "Classic Arts Showcase",
+    "stream_urls": [
+      "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
   },
   {
     "id": "CloudflareTV.us",
@@ -199,6 +271,15 @@
     ],
     "language": "eng",
     "country": "US"
+  },
+  {
+    "id": "DabangaTV.sd",
+    "name": "Dabanga TV",
+    "stream_urls": [
+      "https://cdn-cf.dabangasudan.org/hls/stream.m3u8"
+    ],
+    "language": "ara",
+    "country": "SD"
   },
   {
     "id": "DerryTV23.us",

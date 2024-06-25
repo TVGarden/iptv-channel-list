@@ -204,6 +204,69 @@
     "country": "VE"
   },
   {
+    "id": "Capital21.mx",
+    "name": "Capital 21",
+    "stream_urls": [
+      "https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8"
+    ],
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "id": "CatamarcaTV.ar",
+    "name": "Catamarca TV",
+    "stream_urls": [
+      "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "CCTV8.cn",
+    "name": "CCTV-8",
+    "stream_urls": [
+      "https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8"
+    ],
+    "language": "zho",
+    "country": "CN"
+  },
+  {
+    "id": "CEACTV.cl",
+    "name": "CEAC TV",
+    "stream_urls": [
+      "https://live.chileservidores.com:8081/ceactv/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "ChannelOne.us",
+    "name": "Channel One",
+    "stream_urls": [
+      "https://ch1hls.wns.live/hls/stream.m3u8"
+    ],
+    "language": "fas",
+    "country": "US"
+  },
+  {
+    "id": "ChannelS.bd",
+    "name": "Channel S",
+    "stream_urls": [
+      "https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8"
+    ],
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "id": "ChannelS.uk",
+    "name": "Channel S",
+    "stream_urls": [
+      "https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8"
+    ],
+    "language": "ben",
+    "country": "UK"
+  },
+  {
     "id": "ChiloeRed25.cl",
     "name": "Chiloe Red 25",
     "stream_urls": [
@@ -213,6 +276,15 @@
     "country": "CL"
   },
   {
+    "id": "CiftciTV.tr",
+    "name": "Ciftci TV",
+    "stream_urls": [
+      "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "id": "CiracuTV.ec",
     "name": "Ciracu TV",
     "stream_urls": [
@@ -220,6 +292,33 @@
     ],
     "language": "spa",
     "country": "EC"
+  },
+  {
+    "id": "ClassicArtsShowcase.us",
+    "name": "Classic Arts Showcase",
+    "stream_urls": [
+      "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "CMalayalamTV.ca",
+    "name": "C Malayalam TV",
+    "stream_urls": [
+      "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
+    ],
+    "language": "mal",
+    "country": "CA"
+  },
+  {
+    "id": "Condavision.es",
+    "name": "Condavision",
+    "stream_urls": [
+      "https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
   },
   {
     "id": "CostaRicaChannel.cr",
@@ -256,6 +355,15 @@
     ],
     "language": "spa",
     "country": "PE"
+  },
+  {
+    "id": "DakarTVInternational.sn",
+    "name": "Dakar TV International",
+    "stream_urls": [
+      "https://live3.acangroup.org:1929/acanabr/dtv.stream_all/acanabr/dtv.stream_HD/chunks.m3u8"
+    ],
+    "language": "fra",
+    "country": "SN"
   },
   {
     "id": "DiasporaTV.pe",
@@ -608,8 +716,7 @@
     "id": "RussiaK.ru",
     "name": "Russia-K",
     "stream_urls": [
-      "https://player.smotrim.ru/iframe/stream/live_id/19201",
-      "https://streaming.televizor-24-tochka.ru/live/9.m3u8"
+      "https://player.smotrim.ru/iframe/stream/live_id/19201"
     ],
     "language": "rus",
     "country": "RU"

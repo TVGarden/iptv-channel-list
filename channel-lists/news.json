@@ -1586,17 +1586,7 @@
       "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
       "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxblacknewschannel/CDN/playlist.m3u8",
       "https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8",
-      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1efad04320070007dbb60b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
       "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8"
-    ],
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "id": "BlazeLive.us",
-    "name": "Blaze Live",
-    "stream_urls": [
-      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e46fba0c43b0d00096e5ac1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=238&terminate=false&userId="
     ],
     "language": "eng",
     "country": "US"
@@ -1747,6 +1737,15 @@
     "country": "BR"
   },
   {
+    "id": "CanalPyC.co",
+    "name": "Canal PyC",
+    "stream_urls": [
+      "https://rpn3.bozztv.com/ssh101/ssh101/pyctelevision/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CO"
+  },
+  {
     "id": "CanalRed.es",
     "name": "Canal Red",
     "stream_urls": [
@@ -1754,6 +1753,15 @@
     ],
     "language": "spa",
     "country": "ES"
+  },
+  {
+    "id": "CanalTDC.ar",
+    "name": "Canal TDC",
+    "stream_urls": [
+      "https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
   },
   {
     "id": "CanalTRV.sv",
@@ -1765,6 +1773,15 @@
     "country": "SV"
   },
   {
+    "id": "CapitalTV.pk",
+    "name": "Capital TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UC-an6pHQfTVZXgrLP0p1EGA.m3u8"
+    ],
+    "language": "eng",
+    "country": "PK"
+  },
+  {
     "id": "CaptainNews.in",
     "name": "Captain News",
     "stream_urls": [
@@ -1772,6 +1789,24 @@
     ],
     "language": "tam",
     "country": "IN"
+  },
+  {
+    "id": "Carivision.do",
+    "name": "Carivision",
+    "stream_urls": [
+      "https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "DO"
+  },
+  {
+    "id": "CatamarcaTV.ar",
+    "name": "Catamarca TV",
+    "stream_urls": [
+      "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
+    ],
+    "language": "spa",
+    "country": "AR"
   },
   {
     "id": "Cauquenesnet.cl",
@@ -1813,8 +1848,7 @@
     "id": "CBSNews.us",
     "name": "CBS News",
     "stream_urls": [
-      "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
-      "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8"
+      "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -1824,8 +1858,7 @@
     "name": "CBS News Baltimore",
     "stream_urls": [
       "https://cbsnews.akamaized.net/hls/live/2099390/cbsnbal_11/master.m3u8",
-      "https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8",
-      "https://dai.google.com/linear/hls/event/TMUt418sQMeu1QtneYJ9ag/master.m3u8"
+      "https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -1835,7 +1868,6 @@
     "name": "CBS News Bay Area",
     "stream_urls": [
       "https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8",
-      "https://dai.google.com/linear/hls/event/laLJwH1nS2KQAUQTF8z1Cg/master.m3u8",
       "https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8"
     ],
     "language": "eng",
@@ -1857,7 +1889,6 @@
     "name": "CBS News Chicago",
     "stream_urls": [
       "https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8",
-      "https://dai.google.com/linear/hls/event/_xQBtL7ZSEClkNebaXzn8w/master.m3u8",
       "https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8"
     ],
     "language": "eng",
@@ -1868,7 +1899,6 @@
     "name": "CBS News Colorado",
     "stream_urls": [
       "https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8",
-      "https://dai.google.com/linear/hls/event/E9CkyheTSKeGiOiICU_JBQ/master.m3u8",
       "https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8"
     ],
     "language": "eng",
@@ -1878,8 +1908,7 @@
     "id": "CBSNewsDetroit.us",
     "name": "CBS News Detroit",
     "stream_urls": [
-      "https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8",
-      "https://dai.google.com/linear/hls/event/xnyAMOsfSV2J1b-A3nROFQ/master.m3u8"
+      "https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -1888,7 +1917,6 @@
     "id": "CBSNewsDFW.us",
     "name": "CBS News DFW",
     "stream_urls": [
-      "https://dai.google.com/linear/hls/event/ogzLhRCkRbG3lFHHJwqaNw/master.m3u8",
       "https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8"
     ],
     "language": "eng",
@@ -1899,7 +1927,6 @@
     "name": "CBS News Los Angeles",
     "stream_urls": [
       "https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
-      "https://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8",
       "https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8"
     ],
     "language": "eng",
@@ -1910,8 +1937,7 @@
     "name": "CBS News Miami",
     "stream_urls": [
       "https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8",
-      "https://lineup.cbsivideo.com/playout/8796731e-7ce7-4bcf-bb04-41ef5a969c62/master.m3u8",
-      "https://dai.google.com/linear/hls/event/_yODrBHESGSzPe3dqW4gGg/master.m3u8"
+      "https://lineup.cbsivideo.com/playout/8796731e-7ce7-4bcf-bb04-41ef5a969c62/master.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -1921,7 +1947,6 @@
     "name": "CBS News Minnesota",
     "stream_urls": [
       "https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8",
-      "https://dai.google.com/linear/hls/event/c0XucO32RNKG8oeQ351a4Q/master.m3u8",
       "https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8"
     ],
     "language": "eng",
@@ -1931,8 +1956,7 @@
     "id": "CBSNewsNewYork.us",
     "name": "CBS News New York",
     "stream_urls": [
-      "https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8",
-      "https://dai.google.com/linear/hls/event/jeTDC610T-OSPdiWhcl0Pg/master.m3u8"
+      "https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -1942,7 +1966,6 @@
     "name": "CBS News Philly",
     "stream_urls": [
       "https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8",
-      "https://dai.google.com/linear/hls/event/R2Kw0uvnQIW7fUmOseurzA/master.m3u8",
       "https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8"
     ],
     "language": "eng",
@@ -1953,7 +1976,6 @@
     "name": "CBS News Pittsburgh",
     "stream_urls": [
       "https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8",
-      "https://dai.google.com/linear/hls/event/mir-uZYjTu6-8JLMHBTKhQ/master.m3u8",
       "https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8"
     ],
     "language": "eng",
@@ -1963,8 +1985,7 @@
     "id": "CBSNewsSacramento.us",
     "name": "CBS News Sacramento",
     "stream_urls": [
-      "https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8",
-      "https://dai.google.com/linear/hls/event/e7mp4YVGS7O_e7rqRNjKow/master.m3u8"
+      "https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -2061,6 +2082,16 @@
     "country": "CN"
   },
   {
+    "id": "CGTNSpanish.cn",
+    "name": "CGTN Spanish",
+    "stream_urls": [
+      "https://livees.cgtn.com/1000e/prog_index.m3u8",
+      "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8"
+    ],
+    "language": "spa",
+    "country": "CN"
+  },
+  {
     "id": "Channel24.bd",
     "name": "Channel 24",
     "stream_urls": [
@@ -2079,6 +2110,15 @@
     "country": "UA"
   },
   {
+    "id": "Channel24Saudi.sa",
+    "name": "Channel 24 Saudi",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCQeyQKc5p0d4B89K-DCzX5Q.m3u8"
+    ],
+    "language": "ara",
+    "country": "SA"
+  },
+  {
     "id": "Channel5.ua",
     "name": "Channel 5",
     "stream_urls": [
@@ -2086,6 +2126,15 @@
     ],
     "language": "ukr",
     "country": "UA"
+  },
+  {
+    "id": "Channel7.bz",
+    "name": "Channel 7",
+    "stream_urls": [
+      "https://kalends.anl.bz/localchannels/channel7.stream/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "BZ"
   },
   {
     "id": "Channel8.iq",
@@ -2106,12 +2155,29 @@
     "country": "IN"
   },
   {
+    "id": "ChannelOne.us",
+    "name": "Channel One",
+    "stream_urls": [
+      "https://ch1hls.wns.live/hls/stream.m3u8"
+    ],
+    "language": "fas",
+    "country": "US"
+  },
+  {
+    "id": "ChannelsTV.ng",
+    "name": "Channels TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8"
+    ],
+    "language": "eng",
+    "country": "NG"
+  },
+  {
     "id": "CheddarNews.us",
     "name": "Cheddar News",
     "stream_urls": [
       "https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8",
       "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8",
-      "https://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?appVersion=5.2.7&deviceDNT=web&deviceId=web24163643069&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=1&serverSideAds=false&sid=web24157571521",
       "https://cheddar.roku.wurl.com/manifest/playlist.m3u8",
       "https://lnc-cheddar.tubi.video/index.m3u8"
     ],
@@ -2135,6 +2201,42 @@
     ],
     "language": "spa",
     "country": "CL"
+  },
+  {
+    "id": "CincoTV.ar",
+    "name": "Cinco TV",
+    "stream_urls": [
+      "https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "CitricoTV.do",
+    "name": "Citrico TV",
+    "stream_urls": [
+      "https://rdn.essastream.com:3996/live/citricotvlive.m3u8"
+    ],
+    "language": "spa",
+    "country": "DO"
+  },
+  {
+    "id": "City41.pk",
+    "name": "City 41",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UC6UW8OOQQBGdwmnaYLh-qdw.m3u8"
+    ],
+    "language": "urd",
+    "country": "PK"
+  },
+  {
+    "id": "City42.pk",
+    "name": "City 42",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCdTup4kK7Ze08KYp7ReiuMw.m3u8"
+    ],
+    "language": "urd",
+    "country": "PK"
   },
   {
     "id": "CityNewsHD.pk",
@@ -2212,6 +2314,15 @@
     "country": "IN"
   },
   {
+    "id": "Conecta2TV.pe",
+    "name": "Conecta2TV",
+    "stream_urls": [
+      "https://servilive.com:3114/live/liveulive.m3u8"
+    ],
+    "language": "spa",
+    "country": "PE"
+  },
+  {
     "id": "CongoLiveTV.cd",
     "name": "Congo Live TV",
     "stream_urls": [
@@ -2221,13 +2332,40 @@
     "country": "CD"
   },
   {
-    "id": "Crimea24.ru",
-    "name": "Crimea 24",
+    "id": "Contivision.cl",
+    "name": "Contivision",
     "stream_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/28.m3u8"
+      "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8"
     ],
-    "language": "rus",
-    "country": "RU"
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "CordobaTV.es",
+    "name": "Cordoba TV",
+    "stream_urls": [
+      "https://cloudvideo.servers10.com:8081/8020/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "CorfuTV.gr",
+    "name": "Corfu TV",
+    "stream_urls": [
+      "https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8"
+    ],
+    "language": "ell",
+    "country": "GR"
+  },
+  {
+    "id": "CronicaTV.ar",
+    "name": "Cronica TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
   },
   {
     "id": "CTiNews.tw",
@@ -2238,6 +2376,15 @@
     ],
     "language": "zho",
     "country": "TW"
+  },
+  {
+    "id": "CTVNAKDPlus.in",
+    "name": "CTVN AKD Plus",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UC1UOne4B9wIrMe0KMwe-7_g.m3u8"
+    ],
+    "language": "ben",
+    "country": "IN"
   },
   {
     "id": "CTVNewsChannel.ca",
@@ -2256,6 +2403,15 @@
     ],
     "language": "tel",
     "country": "IN"
+  },
+  {
+    "id": "DabangaTV.sd",
+    "name": "Dabanga TV",
+    "stream_urls": [
+      "https://cdn-cf.dabangasudan.org/hls/stream.m3u8"
+    ],
+    "language": "ara",
+    "country": "SD"
   },
   {
     "id": "DakarActuTV.sn",
@@ -5090,15 +5246,6 @@
     "country": "PA"
   },
   {
-    "id": "PlutoTVNews.us",
-    "name": "Pluto TV News",
-    "stream_urls": [
-      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5268abcd0ce20a8472000114&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=202&terminate=false&userId="
-    ],
-    "language": "eng",
-    "country": "US"
-  },
-  {
     "id": "PNNNews.pk",
     "name": "PNN News",
     "stream_urls": [
@@ -5674,7 +5821,7 @@
     "stream_urls": [
       "https://uiptv.do.am/1ufc/000000006/playlist.m3u8",
       "https://player.smotrim.ru/iframe/stream/live_id/21",
-      "https://streaming.televizor-24-tochka.ru/live/10.m3u8"
+      "https://streaming.televizor-24-tochka.ru/live/30.m3u8"
     ],
     "language": "rus",
     "country": "RU"
@@ -6171,7 +6318,6 @@
     "name": "The First TV",
     "stream_urls": [
       "https://thefirst-distroscale.amagi.tv/index.m3u8",
-      "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486acc34ceb37d3c458a64/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d486acc34ceb37d3c458a64&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=244&terminate=false&userId=",
       "https://thefirst-vizio.amagi.tv/playlist.m3u8"
     ],
     "language": "eng",
@@ -6694,15 +6840,6 @@
     ],
     "language": "mal",
     "country": "IN"
-  },
-  {
-    "id": "TYTNetwork.us",
-    "name": "TYT Network",
-    "stream_urls": [
-      "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5331d5fb753499095a00045a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
-    ],
-    "language": "eng",
-    "country": "US"
   },
   {
     "id": "UGFTV.ci",
