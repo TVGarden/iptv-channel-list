@@ -6916,15 +6916,6 @@
     "country": "UY"
   },
   {
-    "id": "LasEstrellas.mx",
-    "name": "Las Estrellas",
-    "stream_urls": [
-      "https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8"
-    ],
-    "language": "spa",
-    "country": "MX"
-  },
-  {
     "id": "LasEstrellasLatinAmerica.mx",
     "name": "Las Estrellas Latin America",
     "stream_urls": [
