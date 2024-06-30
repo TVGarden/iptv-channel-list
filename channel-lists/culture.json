@@ -72,15 +72,6 @@
     "country": "PE"
   },
   {
-    "id": "Athaqafia.ma",
-    "name": "Athaqafia",
-    "stream_urls": [
-      "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa.m3u8"
-    ],
-    "language": "ara",
-    "country": "MA"
-  },
-  {
     "id": "Aunar.ar",
     "name": "Aunar",
     "stream_urls": [

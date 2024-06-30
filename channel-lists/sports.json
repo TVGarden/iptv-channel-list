@@ -102,15 +102,6 @@
     "country": "RO"
   },
   {
-    "id": "Arryadia.ma",
-    "name": "Arryadia",
-    "stream_urls": [
-      "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8"
-    ],
-    "language": "ara",
-    "country": "MA"
-  },
-  {
     "id": "ASpor.tr",
     "name": "A Spor",
     "stream_urls": [
@@ -1318,15 +1309,6 @@
     "language": "tur",
     "country": "TR",
     "isGeoBlocked": true
-  },
-  {
-    "id": "SportyStuffTV.uk",
-    "name": "SportyStuff TV",
-    "stream_urls": [
-      "https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8"
-    ],
-    "language": "eng",
-    "country": "UK"
   },
   {
     "id": "SSC1HD.sa",

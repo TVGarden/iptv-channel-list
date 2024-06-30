@@ -936,7 +936,7 @@
     "id": "AlMamlakaTV.jo",
     "name": "Al Mamlaka TV",
     "stream_urls": [
-      "https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8"
+      "https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8"
     ],
     "language": "ara",
     "country": "JO"
@@ -6499,7 +6499,7 @@
     "id": "TRTArabi.tr",
     "name": "TRT Arabi",
     "stream_urls": [
-      "https://tv-trtarabi.live.trt.com.tr/master.m3u8",
+      "https://tv-trtarabi.medya.trt.com.tr/master.m3u8",
       "https://ythls.armelin.one/channel/UC5GvVahlgulCyo4cshSmbcg.m3u8"
     ],
     "language": "ara",

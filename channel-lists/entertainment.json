@@ -321,7 +321,7 @@
     "id": "AnjanTV.in",
     "name": "Anjan TV",
     "stream_urls": [
-      "https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8"
+      "https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8"
     ],
     "language": "hin",
     "country": "IN"
@@ -3177,15 +3177,6 @@
     "name": "W14DK-D3",
     "stream_urls": [
       "https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8"
-    ],
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "id": "W14DKD7.us",
-    "name": "W14DK-D7",
-    "stream_urls": [
-      "https://2-fss-2.streamhoster.com/pl_118/amlst:204972-3078008/playlist.m3u8"
     ],
     "language": "eng",
     "country": "US"

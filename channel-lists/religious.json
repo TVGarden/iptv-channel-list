@@ -807,15 +807,6 @@
     "country": "IN"
   },
   {
-    "id": "Assadissa.ma",
-    "name": "Assadissa",
-    "stream_urls": [
-      "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa.m3u8"
-    ],
-    "language": "ara",
-    "country": "MA"
-  },
-  {
     "id": "ATNIslamicTV.bd",
     "name": "ATN Islamic TV",
     "stream_urls": [
@@ -3393,7 +3384,7 @@
     "id": "MunaraTV.kz",
     "name": "Munara TV",
     "stream_urls": [
-      "https://ythls.onrender.com/channel/UC4tTvzqFKK2Dpfp-qP47b1w.m3u8"
+      "https://ythls.armelin.one/channel/UC4tTvzqFKK2Dpfp-qP47b1w.m3u8"
     ],
     "language": "kaz",
     "country": "KZ"
@@ -3636,7 +3627,7 @@
     "id": "ParoleParleeTV.ci",
     "name": "Parole Parlee TV",
     "stream_urls": [
-      "https://ythls.onrender.com/channel/UCTWC45fM79-R8wFQPosO1xg.m3u8"
+      "https://ythls.armelin.one/channel/UCTWC45fM79-R8wFQPosO1xg.m3u8"
     ],
     "language": "fra",
     "country": "CI"

@@ -729,24 +729,6 @@
     "country": "TR"
   },
   {
-    "id": "AlAoulaEurope.ma",
-    "name": "Al Aoula Europe",
-    "stream_urls": [
-      "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8"
-    ],
-    "language": "ara",
-    "country": "MA"
-  },
-  {
-    "id": "AlAoulaLaayoune.ma",
-    "name": "Al Aoula Laayoune",
-    "stream_urls": [
-      "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8"
-    ],
-    "language": "ara",
-    "country": "MA"
-  },
-  {
     "id": "AlAqsaTV.ps",
     "name": "Al-Aqsa TV",
     "stream_urls": [
@@ -827,15 +809,6 @@
     ],
     "language": "deu",
     "country": "DE"
-  },
-  {
-    "id": "AlMaghribia.ma",
-    "name": "Al Maghribia",
-    "stream_urls": [
-      "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8"
-    ],
-    "language": "ara",
-    "country": "MA"
   },
   {
     "id": "Almaznyykray.ru",
@@ -6522,6 +6495,15 @@
     "country": "DE"
   },
   {
+    "id": "Kanal5.mk",
+    "name": "Kanal 5",
+    "stream_urls": [
+      "https://s2.teve.mk/tvstanici/2/playlist.m3u8"
+    ],
+    "language": "mkd",
+    "country": "MK"
+  },
+  {
     "id": "KANAL58.tr",
     "name": "KANAL58",
     "stream_urls": [
@@ -6914,15 +6896,6 @@
     ],
     "language": "spa",
     "country": "UY"
-  },
-  {
-    "id": "LasEstrellasLatinAmerica.mx",
-    "name": "Las Estrellas Latin America",
-    "stream_urls": [
-      "https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8"
-    ],
-    "language": "spa",
-    "country": "MX"
   },
   {
     "id": "LasEstrellasPlus1.mx",
@@ -7367,8 +7340,7 @@
     "id": "MBCBollywood.ae",
     "name": "MBC Bollywood",
     "stream_urls": [
-      "https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8",
-      "https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8"
+      "https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8"
     ],
     "language": "ara",
     "country": "AE",
@@ -9551,7 +9523,7 @@
     "id": "RoyaTV.jo",
     "name": "Roya TV",
     "stream_urls": [
-      "https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index.m3u8",
+      "https://roya-live.ercdn.net/roya/roya.m3u8",
       "https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8",
       "https://royatv-live.daioncdn.net/royatv/royatv.m3u8"
     ],
@@ -9819,6 +9791,24 @@
     ],
     "language": "rus",
     "country": "RU"
+  },
+  {
+    "id": "RUV.is",
+    "name": "RUV",
+    "stream_urls": [
+      "https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8"
+    ],
+    "language": "isl",
+    "country": "IS"
+  },
+  {
+    "id": "RUV2.is",
+    "name": "RUV 2",
+    "stream_urls": [
+      "https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8"
+    ],
+    "language": "isl",
+    "country": "IS"
   },
   {
     "id": "SaabTV.so",
@@ -10481,15 +10471,6 @@
     "country": "IT"
   },
   {
-    "id": "TamazightTV.ma",
-    "name": "Tamazight TV",
-    "stream_urls": [
-      "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8"
-    ],
-    "language": "ara",
-    "country": "MA"
-  },
-  {
     "id": "TamesisTeVe.co",
     "name": "Tamesis TeVe",
     "stream_urls": [
@@ -10583,7 +10564,7 @@
     "id": "TCSPlus.sv",
     "name": "TCS+",
     "stream_urls": [
-      "https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/playlist.m3u8"
+      "https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8"
     ],
     "language": "spa",
     "country": "SV"
