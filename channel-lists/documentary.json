@@ -142,6 +142,15 @@
     "country": "US"
   },
   {
+    "id": "DDPuducherry.in",
+    "name": "DD Puducherry",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UC01EXbytWkjUdgwA5xXQZiw.m3u8"
+    ],
+    "language": "tam",
+    "country": "IN"
+  },
+  {
     "id": "Docurama.us",
     "name": "Docurama",
     "stream_urls": [

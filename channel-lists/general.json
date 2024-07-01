@@ -5167,6 +5167,151 @@
     "country": "HU"
   },
   {
+    "id": "DasErste.de",
+    "name": "Das Erste",
+    "stream_urls": [
+      "https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8",
+      "https://mcdn.daserste.de/daserste/de/master.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "DDBangla.in",
+    "name": "DD Bangla",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UClcW8Lfj5zE67tvsQ27lb_g.m3u8"
+    ],
+    "language": "ben",
+    "country": "IN"
+  },
+  {
+    "id": "DDChandana.in",
+    "name": "DD Chandana",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCbdMik2cV8pea1jcWdX_CYA.m3u8"
+    ],
+    "language": "kan",
+    "country": "IN"
+  },
+  {
+    "id": "DDGirnar.in",
+    "name": "DD Girnar",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCneBFse451PgKgXJTDqikYA.m3u8"
+    ],
+    "language": "guj",
+    "country": "IN"
+  },
+  {
+    "id": "DDIndia.in",
+    "name": "DD India",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "id": "DDKashir.in",
+    "name": "DD Kashir",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCOqU-HfQxoyImaCW2tCDxJA.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "id": "DDManipur.in",
+    "name": "DD Manipur",
+    "stream_urls": [
+      "https://ddmanipur.org/hls/stream1.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "id": "DDPodhigai.in",
+    "name": "DD Podhigai",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UC5-_zkjKabYd7tsLucKsriw.m3u8"
+    ],
+    "language": "tam",
+    "country": "IN"
+  },
+  {
+    "id": "DDSahyadri.in",
+    "name": "DD Sahyadri",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UC-bdz-5EeUPT7lp7oSg4D5w.m3u8"
+    ],
+    "language": "mar",
+    "country": "IN"
+  },
+  {
+    "id": "DDTripura.in",
+    "name": "DD Tripura",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCtmSIB1S2LsT5OXC6H6x_rA.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "id": "DDUrdu.in",
+    "name": "DD Urdu",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCu9Fj9QRAg26ZY9DhF8HSrQ.m3u8"
+    ],
+    "language": "urd",
+    "country": "IN"
+  },
+  {
+    "id": "DDUttarakhand.in",
+    "name": "DD Uttarakhand",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCx55tefMzKkaA0uDmj9g2XA.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "id": "DDUttarPradesh.in",
+    "name": "DD Uttar Pradesh",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCxtPipsf2nUZ9xM33TPe93Q.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "id": "DDYadagiri.in",
+    "name": "DD Yadagiri",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UC6V4nVa0CQkoLZUlg9drmZA.m3u8"
+    ],
+    "language": "tel",
+    "country": "IN"
+  },
+  {
+    "id": "DecimaTV.cl",
+    "name": "Decima TV",
+    "stream_urls": [
+      "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "id": "DeejayTV.it",
+    "name": "Deejay TV",
+    "stream_urls": [
+      "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8"
+    ],
+    "language": "ita",
+    "country": "IT"
+  },
+  {
     "id": "DeenTV.uk",
     "name": "Deen TV",
     "stream_urls": [
@@ -5174,6 +5319,15 @@
     ],
     "language": "ben",
     "country": "UK"
+  },
+  {
+    "id": "DelfiTV.lt",
+    "name": "Delfi TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCQGN5-eIjRRy6MGcHKDE_6g.m3u8"
+    ],
+    "language": "est",
+    "country": "LT"
   },
   {
     "id": "DeltaTV.bo",
@@ -5192,6 +5346,15 @@
     ],
     "language": "por",
     "country": "BR"
+  },
+  {
+    "id": "DenizPostasiTV.tr",
+    "name": "Deniz Postasi TV",
+    "stream_urls": [
+      "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
   },
   {
     "id": "DerryTV23.us",
@@ -5221,6 +5384,15 @@
     "country": "MX"
   },
   {
+    "id": "DhohoTV.id",
+    "name": "Dhoho TV",
+    "stream_urls": [
+      "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8"
+    ],
+    "language": "ind",
+    "country": "ID"
+  },
+  {
     "id": "DiamaTV.sn",
     "name": "Diama TV",
     "stream_urls": [
@@ -5239,6 +5411,15 @@
     "country": "BR"
   },
   {
+    "id": "DienBienTV.vn",
+    "name": "Dien Bien TV",
+    "stream_urls": [
+      "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId="
+    ],
+    "language": "vie",
+    "country": "VN"
+  },
+  {
     "id": "DiezTVEncarnacion.mx",
     "name": "DiezTV Encarnacion",
     "stream_urls": [
@@ -5255,6 +5436,24 @@
     ],
     "language": "spa",
     "country": "ES"
+  },
+  {
+    "id": "DiezTVUbeda.es",
+    "name": "Diez TV Ubeda",
+    "stream_urls": [
+      "https://streaming.cloud.innovasur.es/mmj/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "id": "Digital809TV.do",
+    "name": "Digital809 TV",
+    "stream_urls": [
+      "https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "DO"
   },
   {
     "id": "DigitalCongoTV.cd",
@@ -5300,6 +5499,15 @@
     ],
     "language": "tir",
     "country": "ET"
+  },
+  {
+    "id": "DipsoTV.gr",
+    "name": "Dipso TV",
+    "stream_urls": [
+      "https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8"
+    ],
+    "language": "ell",
+    "country": "GR"
   },
   {
     "id": "DitisHelmond.nl",

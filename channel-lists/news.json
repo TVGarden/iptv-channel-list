@@ -2451,6 +2451,43 @@
     "country": "IN"
   },
   {
+    "id": "DehaTV.tr",
+    "name": "Deha TV",
+    "stream_urls": [
+      "https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR",
+    "isGeoBlocked": true
+  },
+  {
+    "id": "DemosRadioVisual.ar",
+    "name": "Demos Radio Visual",
+    "stream_urls": [
+      "https://panel.dattalive.com/8066/8066/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "id": "DHA.tr",
+    "name": "DHA",
+    "stream_urls": [
+      "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "id": "DidgahTV.us",
+    "name": "Didgah TV",
+    "stream_urls": [
+      "https://api.new.livestream.com/accounts/27146356/events/8209491/live.m3u8"
+    ],
+    "language": "fas",
+    "country": "US"
+  },
+  {
     "id": "DighvijayNews24x7.in",
     "name": "Dighvijay News 24x7",
     "stream_urls": [
@@ -2476,6 +2513,16 @@
     ],
     "language": "ara",
     "country": "IQ"
+  },
+  {
+    "id": "DimTV.tr",
+    "name": "Dim TV",
+    "stream_urls": [
+      "https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR",
+    "isGeoBlocked": true
   },
   {
     "id": "DiTV.se",

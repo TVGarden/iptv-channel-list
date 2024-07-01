@@ -282,6 +282,25 @@
     "country": "SD"
   },
   {
+    "id": "DDKisan.in",
+    "name": "DD Kisan",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCnDfmcUyhgJp6xC1LmBLfUg.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "id": "DepEdTV.ph",
+    "name": "DepEd TV",
+    "stream_urls": [
+      "https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8"
+    ],
+    "language": "tgl",
+    "country": "PH",
+    "isGeoBlocked": true
+  },
+  {
     "id": "DerryTV23.us",
     "name": "DerryTV 23",
     "stream_urls": [

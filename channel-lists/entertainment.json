@@ -931,15 +931,6 @@
     "country": "CZ"
   },
   {
-    "id": "DDBangla.in",
-    "name": "DD Bangla",
-    "stream_urls": [
-      "https://ythls.armelin.one/channel/UClcW8Lfj5zE67tvsQ27lb_g.m3u8"
-    ],
-    "language": "ben",
-    "country": "IN"
-  },
-  {
     "id": "DDMalayalam.in",
     "name": "DD Malayalam",
     "stream_urls": [

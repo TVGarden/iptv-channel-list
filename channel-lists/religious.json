@@ -1520,6 +1520,33 @@
     "country": "KE"
   },
   {
+    "id": "DhammasaphaTV.vn",
+    "name": "Dhammasapha TV",
+    "stream_urls": [
+      "https://livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/playlist.m3u8"
+    ],
+    "language": "vie",
+    "country": "VN"
+  },
+  {
+    "id": "DhammaTV.id",
+    "name": "Dhamma TV",
+    "stream_urls": [
+      "https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8"
+    ],
+    "language": "ind",
+    "country": "ID"
+  },
+  {
+    "id": "DheeranTV.in",
+    "name": "Dheeran TV",
+    "stream_urls": [
+      "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
+  },
+  {
     "id": "DieNeueZeitTV.ch",
     "name": "Die Neue Zeit TV",
     "stream_urls": [

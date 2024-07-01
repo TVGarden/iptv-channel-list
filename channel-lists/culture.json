@@ -357,6 +357,24 @@
     "country": "SN"
   },
   {
+    "id": "DDBharati.in",
+    "name": "DD Bharati",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCIAnlTV3O9NYWMI-DwYZaWg.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "id": "DDPunjabi.in",
+    "name": "DD Punjabi",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UC8GYp35wJTN2ituJr0y-7AQ.m3u8"
+    ],
+    "language": "pan",
+    "country": "IN"
+  },
+  {
     "id": "DiasporaTV.pe",
     "name": "Diaspora TV",
     "stream_urls": [

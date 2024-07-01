@@ -91,6 +91,15 @@
     "isGeoBlocked": true
   },
   {
+    "id": "DiscoverPakistan.pk",
+    "name": "Discover Pakistan",
+    "stream_urls": [
+      "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8"
+    ],
+    "language": "urd",
+    "country": "PK"
+  },
+  {
     "id": "DunasTV.br",
     "name": "Dunas TV",
     "stream_urls": [

@@ -155,6 +155,15 @@
     "country": "AR"
   },
   {
+    "id": "DDKisan.in",
+    "name": "DD Kisan",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCnDfmcUyhgJp6xC1LmBLfUg.m3u8"
+    ],
+    "language": "hin",
+    "country": "IN"
+  },
+  {
     "id": "Dialogiorybalke.ru",
     "name": "Dialogi o rybalke",
     "stream_urls": [
