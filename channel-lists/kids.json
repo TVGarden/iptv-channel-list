@@ -388,15 +388,6 @@
     "country": "FR"
   },
   {
-    "id": "HalaLondonTVCartoon.uk",
-    "name": "Hala London TV Cartoon",
-    "stream_urls": [
-      "https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Cartoon/playlist.m3u8"
-    ],
-    "language": "ara",
-    "country": "UK"
-  },
-  {
     "id": "HappyKids.us",
     "name": "HappyKids",
     "stream_urls": [

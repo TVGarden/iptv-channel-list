@@ -275,15 +275,6 @@
     "country": "TR"
   },
   {
-    "id": "HalaLondonTVSeries.uk",
-    "name": "Hala London TV Series",
-    "stream_urls": [
-      "https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Series/playlist.m3u8"
-    ],
-    "language": "ara",
-    "country": "UK"
-  },
-  {
     "id": "HauntTV.us",
     "name": "Haunt TV",
     "stream_urls": [
