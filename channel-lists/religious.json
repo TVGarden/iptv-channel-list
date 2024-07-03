@@ -210,7 +210,7 @@
     "id": "ACTV.tg",
     "name": "AC TV",
     "stream_urls": [
-      "https://rpn3.bozztv.com/ssh101/ssh101/actvstream/playlist.m3u8"
+      "https://ssh101.bozztv.com/ssh101/actvstream/playlist.m3u8"
     ],
     "language": "fra",
     "country": "TG"
@@ -332,6 +332,15 @@
     ],
     "language": "fra",
     "country": "SN"
+  },
+  {
+    "id": "AlHakikaTV.jo",
+    "name": "Al Hakika TV",
+    "stream_urls": [
+      "https://jmc-live.ercdn.net/alhaqiqa/alhaqiqa.m3u8"
+    ],
+    "language": "ara",
+    "country": "JO"
   },
   {
     "id": "AlHorreyaTV.us",
@@ -761,6 +770,15 @@
     "country": "HU"
   },
   {
+    "id": "APTIMTV.ng",
+    "name": "APTIM TV",
+    "stream_urls": [
+      "https://stream.commec.tv/6447b2559d8b0711e2fa75cc/live_222c2dc0b69f11ee8c3c99218c8c67c4/index.fmp4.m3u8"
+    ],
+    "language": "eng",
+    "country": "NG"
+  },
+  {
     "id": "AradanaTV.in",
     "name": "Aradana TV",
     "stream_urls": [
@@ -990,7 +1008,7 @@
     "id": "Canal29TVA.bo",
     "name": "Canal 29 TVA",
     "stream_urls": [
-      "https://vdo.grupolimalive.com:3089/live/tvelive.m3u8"
+      "https://vdo.grupolimalive.com:3967/live/tvelive.m3u8"
     ],
     "language": "spa",
     "country": "BO"
@@ -1520,6 +1538,15 @@
     "country": "KE"
   },
   {
+    "id": "DhaarisTV.mv",
+    "name": "Dhaaris TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCmTIhD3NGdWo04RlF91L4uw.m3u8"
+    ],
+    "language": "div",
+    "country": "MV"
+  },
+  {
     "id": "DhammasaphaTV.vn",
     "name": "Dhammasapha TV",
     "stream_urls": [
@@ -1606,7 +1633,7 @@
     "id": "DynamicGospelTV.tg",
     "name": "Dynamic Gospel TV",
     "stream_urls": [
-      "https://rpn3.bozztv.com/ssh101/ssh101/tvdynamicstream/playlist.m3u8"
+      "https://ssh101.bozztv.com/ssh101/tvdynamicstream/playlist.m3u8"
     ],
     "language": "fra",
     "country": "TG"
@@ -1754,6 +1781,15 @@
     ],
     "language": "pus",
     "country": "AF"
+  },
+  {
+    "id": "EsperanceTV.ci",
+    "name": "Esperance TV",
+    "stream_urls": [
+      "https://ik084235.ikoula.com/hls/Diff@mobile1.m3u8"
+    ],
+    "language": "fra",
+    "country": "CI"
   },
   {
     "id": "EspirituSantoYFuegoTV.gt",
@@ -2956,6 +2992,15 @@
     "country": "US"
   },
   {
+    "id": "LNTV.tg",
+    "name": "LNTV",
+    "stream_urls": [
+      "https://helga.iptv2022.com/sh/LNTV/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "TG"
+  },
+  {
     "id": "LogosTV.us",
     "name": "Logos TV",
     "stream_urls": [
@@ -2991,6 +3036,51 @@
       "https://webstreaming.viewmedia.tv/web_044/Stream/playlist.m3u8"
     ],
     "language": "ara",
+    "country": "NG"
+  },
+  {
+    "id": "LoveWorldAsia.ng",
+    "name": "LoveWorld Asia",
+    "stream_urls": [
+      "https://cdnstack.internetmultimediaonline.org/auxano/Hindilanx/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "NG"
+  },
+  {
+    "id": "LoveWorldCASA.ng",
+    "name": "LoveWorld CASA",
+    "stream_urls": [
+      "https://j78dp6reyq5r-hls-live.5centscdn.com/kview/5c6d78cffa59e129f040fcec2d788532.sdp/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "NG"
+  },
+  {
+    "id": "LoveWorldEuro.ng",
+    "name": "LoveWorld Euro",
+    "stream_urls": [
+      "https://cdnstack.internetmultimediaonline.org/auxano/Cespain/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "NG"
+  },
+  {
+    "id": "LoveWorldItalia.ng",
+    "name": "LoveWorld Italia",
+    "stream_urls": [
+      "https://cdnstack.internetmultimediaonline.org/auxano/italianlanx/index.m3u8"
+    ],
+    "language": "ita",
+    "country": "NG"
+  },
+  {
+    "id": "LoveWorldPacifics.ng",
+    "name": "LoveWorld Pacifics",
+    "stream_urls": [
+      "https://live-hls-5rxy.livepush.io/live_cdn/em_LJ5aZjqp0LdiQ/index.m3u8"
+    ],
+    "language": "eng",
     "country": "NG"
   },
   {
@@ -4675,6 +4765,15 @@
     "country": "UG"
   },
   {
+    "id": "TruthChannel.ph",
+    "name": "Truth Channel",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCa3hzYljDByZxkjIMah_2nw.m3u8"
+    ],
+    "language": "tgl",
+    "country": "PH"
+  },
+  {
     "id": "TsargradTV.ru",
     "name": "Tsargrad TV",
     "stream_urls": [
@@ -5055,6 +5154,15 @@
     ],
     "language": "fas",
     "country": "US"
+  },
+  {
+    "id": "Veritas846.ph",
+    "name": "Veritas 846",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCAzUdEY3ZqtcC_s4ZdDKm7Q.m3u8"
+    ],
+    "language": "fil",
+    "country": "PH"
   },
   {
     "id": "VidaNuevaTV.co",

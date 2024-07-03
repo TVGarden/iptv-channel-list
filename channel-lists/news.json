@@ -828,8 +828,7 @@
     "id": "AlhaqeqaAldawlia.jo",
     "name": "Alhaqeqa Aldawlia",
     "stream_urls": [
-      "https://ghaasiflu.online/alhqeqa/index.m3u8",
-      "https://jmc-live.ercdn.net/alhaqiqa/alhaqiqa.m3u8"
+      "https://ghaasiflu.online/alhqeqa/index.m3u8"
     ],
     "language": "ara",
     "country": "JO"
@@ -974,8 +973,7 @@
     "id": "AlMasirah.ye",
     "name": "Al Masirah",
     "stream_urls": [
-      "https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8",
-      "https://svs.itworkscdn.net/almasiralive/almasira/playlist.m3u8"
+      "https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8"
     ],
     "language": "ara",
     "country": "YE"
@@ -1311,7 +1309,7 @@
     "id": "ATN.ng",
     "name": "ATN",
     "stream_urls": [
-      "https://tv.ifastekpanel.com:3013/live/atntvlive.m3u8"
+      "https://tv2.ifastekpanel.com:3013/live/atntvlive.m3u8"
     ],
     "language": "eng",
     "country": "NG"
@@ -1489,9 +1487,7 @@
       "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd",
       "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live.mpd",
       "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live_http.mpd",
-      "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8",
-      "https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8",
-      "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8"
+      "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8"
     ],
     "language": "fas",
     "country": "UK"
@@ -3095,6 +3091,15 @@
     "country": "UA"
   },
   {
+    "id": "FreshNews.kh",
+    "name": "Fresh News",
+    "stream_urls": [
+      "https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8"
+    ],
+    "language": "khm",
+    "country": "KH"
+  },
+  {
     "id": "FTVNews.tw",
     "name": "FTV News",
     "stream_urls": [
@@ -4133,7 +4138,7 @@
     "id": "LN247.ng",
     "name": "LN247",
     "stream_urls": [
-      "https://oj7lnn58lg82-hls-live.5centscdn.com/LN247/e54a58cc63ad1a32f28ef53006be2937.sdp/playlist.m3u8"
+      "https://go5lmb6oyawb-hls-live.5centscdn.com/station/3dfd3752af3d7aec5c53992c2da3a316.sdp/playlist.m3u8"
     ],
     "language": "eng",
     "country": "NG"
@@ -5117,6 +5122,15 @@
     "country": "RO"
   },
   {
+    "id": "OceanTVNetwork.mv",
+    "name": "Ocean TV Network",
+    "stream_urls": [
+      "https://egress-stkplz7mbu4ftbof3zr94.live.streamer.wpstream.net/ev_wps_52076_oceant53da84_221_1717304220/hls/5yjq1wbd06ffe4t4.m3u8"
+    ],
+    "language": "div",
+    "country": "MV"
+  },
+  {
     "id": "OmanTVMubashir.om",
     "name": "Oman TV Mubashir",
     "stream_urls": [
@@ -5751,6 +5765,15 @@
     ],
     "language": "spa",
     "country": "DO"
+  },
+  {
+    "id": "RoyaNews.jo",
+    "name": "Roya News",
+    "stream_urls": [
+      "https://roya-live.ercdn.net/royanews/royanews.m3u8"
+    ],
+    "language": "ara",
+    "country": "JO"
   },
   {
     "id": "RozeNews.pk",
@@ -6772,6 +6795,15 @@
     "country": "HR"
   },
   {
+    "id": "TVMN.pl",
+    "name": "TVMN",
+    "stream_urls": [
+      "https://r.e.blueonline.tv/nb/videokadrabr/live1/playlist.m3u8"
+    ],
+    "language": "pol",
+    "country": "PL"
+  },
+  {
     "id": "TVN.pa",
     "name": "TVN",
     "stream_urls": [
@@ -6865,7 +6897,7 @@
     "id": "TVWielkopolska.pl",
     "name": "TV Wielkopolska",
     "stream_urls": [
-      "https://stream6.nadaje.com:35308/live/stream-1/playlist.m3u8"
+      "https://ythls.armelin.one/channel/UCVItG8Ke6xMGhQAi8HP5WCg.m3u8"
     ],
     "language": "pol",
     "country": "PL"

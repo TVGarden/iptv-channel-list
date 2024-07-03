@@ -9,6 +9,15 @@
     "country": "KZ"
   },
   {
+    "id": "AfrocultureTV.ci",
+    "name": "Afroculture TV",
+    "stream_urls": [
+      "https://helga.iptv2022.com/sh/Afroculture/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "CI"
+  },
+  {
     "id": "AlKhadimiyyahTV.sn",
     "name": "Al Khadimiyyah TV",
     "stream_urls": [
@@ -608,6 +617,15 @@
     ],
     "language": "fra",
     "country": "FR"
+  },
+  {
+    "id": "NEK4Culture.bj",
+    "name": "NEK4 Culture",
+    "stream_urls": [
+      "https://helga.iptv2022.com/sh/NEK4/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "BJ"
   },
   {
     "id": "NHKWorldEspanol.jp",

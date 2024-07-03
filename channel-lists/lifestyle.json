@@ -192,6 +192,15 @@
     "country": "US"
   },
   {
+    "id": "DhaarisTV.mv",
+    "name": "Dhaaris TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCmTIhD3NGdWo04RlF91L4uw.m3u8"
+    ],
+    "language": "div",
+    "country": "MV"
+  },
+  {
     "id": "Diva.za",
     "name": "Diva",
     "stream_urls": [

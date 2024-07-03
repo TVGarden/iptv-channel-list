@@ -1397,6 +1397,16 @@
     "country": "KR"
   },
   {
+    "id": "ArkadagTV.tm",
+    "name": "Arkadag TV",
+    "stream_urls": [
+      "https://alpha.tv.online.tm/hls/ch000.m3u8",
+      "https://alpha.tv.online.tm/legacyhls/ch000.m3u8"
+    ],
+    "language": "tuk",
+    "country": "TM"
+  },
+  {
     "id": "Armenia1.am",
     "name": "Armenia 1",
     "stream_urls": [
@@ -1445,8 +1455,8 @@
     "id": "Asgabat.tm",
     "name": "Asgabat",
     "stream_urls": [
-      "https://alpha.tv.online.tm/legacyhls/ch006.m3u8",
-      "https://alpha.tv.online.tm/hls/ch006.m3u8"
+      "https://alpha.tv.online.tm/hls/ch006.m3u8",
+      "https://alpha.tv.online.tm/legacyhls/ch006.m3u8"
     ],
     "language": "tuk",
     "country": "TM"
@@ -1509,7 +1519,7 @@
     "id": "Atesur.bo",
     "name": "Atesur",
     "stream_urls": [
-      "https://video2.getstreamhosting.com:19360/8032/8032.m3u8"
+      "https://video2.getstreamhosting.com:19360/8038/8038.m3u8"
     ],
     "language": "spa",
     "country": "BO"
@@ -1754,6 +1764,15 @@
     "language": "eng",
     "country": "US",
     "isGeoBlocked": true
+  },
+  {
+    "id": "AYNITV.bo",
+    "name": "AYNI TV",
+    "stream_urls": [
+      "https://stmvideo3.livecastv.com/aynitv/aynitv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "BO"
   },
   {
     "id": "AysenTV.cl",
@@ -2521,7 +2540,7 @@
     "id": "Bolivision.bo",
     "name": "Bolivision",
     "stream_urls": [
-      "https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/playlist.m3u8"
+      "https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8"
     ],
     "language": "spa",
     "country": "BO"
@@ -5510,6 +5529,15 @@
     "country": "GR"
   },
   {
+    "id": "Direct7TV.tg",
+    "name": "Direct 7 TV",
+    "stream_urls": [
+      "https://helga.iptv2022.com/DIRECT__7/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "TG"
+  },
+  {
     "id": "DitisHelmond.nl",
     "name": "Dit is Helmond",
     "stream_urls": [
@@ -5894,7 +5922,7 @@
     "id": "F10HD.bo",
     "name": "F10 HD",
     "stream_urls": [
-      "https://video.live.com.bo:3253/live/f10hdlive.m3u8"
+      "https://video.live.com.bo:3099/live/f10hdlive.m3u8"
     ],
     "language": "spa",
     "country": "BO"
@@ -6012,7 +6040,7 @@
     "id": "FortalezaTVCueto.bo",
     "name": "Fortaleza TV Cueto",
     "stream_urls": [
-      "https://rpn3.bozztv.com/ssh101/ssh101/fortalezacueto/playlist.m3u8"
+      "https://glb.bozztv.com/glb/ssh101/fortalezacueto/index.m3u8"
     ],
     "language": "spa",
     "country": "BO"
@@ -6163,6 +6191,15 @@
     ],
     "language": "eus",
     "country": "ES"
+  },
+  {
+    "id": "GoldenSweetTV.ci",
+    "name": "Golden Sweet TV",
+    "stream_urls": [
+      "https://helga.iptv2022.com/sh/GOLDEN_SWEET_TV/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "CI"
   },
   {
     "id": "Gorodskoytelekanal.ru",
@@ -6478,7 +6515,7 @@
     "id": "INTV.bo",
     "name": "IN TV",
     "stream_urls": [
-      "https://solo.disfrutaenlared.com:1936/intv/intv/playlist.m3u8"
+      "https://stmvideo3.livecastv.com/intv/intv/playlist.m3u8"
     ],
     "language": "spa",
     "country": "BO"
@@ -6778,7 +6815,7 @@
     "id": "KassouaTV.bj",
     "name": "KassouaTV",
     "stream_urls": [
-      "https://tgn.bozztv.com/ssh101/ssh101/kassouatvstream/playlist.m3u8"
+      "https://glb.bozztv.com/glb/ssh101/kassouatvstream/playlist.m3u8"
     ],
     "language": "fra",
     "country": "BJ"
@@ -8185,7 +8222,7 @@
     "id": "NordBeninTV.bj",
     "name": "Nord Benin TV",
     "stream_urls": [
-      "https://ssh101.bozztv.com/ssh101/nordbenintv/playlist.m3u8"
+      "https://glb.bozztv.com/glb/ssh101/nordbenintv/playlist.m3u8"
     ],
     "language": "fra",
     "country": "BJ"
@@ -9732,7 +9769,7 @@
     "name": "Roya TV",
     "stream_urls": [
       "https://roya-live.ercdn.net/roya/roya.m3u8",
-      "https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8",
+      "https://roya-live.ercdn.net/roya/roya.m3u8",
       "https://royatv-live.daioncdn.net/royatv/royatv.m3u8"
     ],
     "language": "ara",
@@ -10204,7 +10241,7 @@
     "id": "SEOTV1FHD.bo",
     "name": "SEO TV 1 FHD",
     "stream_urls": [
-      "https://seo.tv.bo/tv/ATV_1FHD.m3u8"
+      "https://seo.tv.bo/tv/SEOTV_1FHD.m3u8"
     ],
     "language": "spa",
     "country": "BO"
@@ -10300,7 +10337,7 @@
     "id": "SigloXXITV.bo",
     "name": "Siglo XXI TV",
     "stream_urls": [
-      "https://solo.disfrutaenlared.com:1936/sigloxxi/sigloxxi/playlist.m3u8"
+      "https://stmvideo3.livecastv.com/sigloxxi/sigloxxi/playlist.m3u8"
     ],
     "language": "spa",
     "country": "BO"
@@ -10436,7 +10473,7 @@
     "id": "SoleilLevantTV.bj",
     "name": "Soleil Levant TV",
     "stream_urls": [
-      "https://rpn3.bozztv.com/ssh101/ssh101/jdpoefgrhappy/playlist.m3u8"
+      "https://helga.iptv2022.com/sh/SOLEIL_LEVANT_TV/index.m3u8"
     ],
     "language": "fra",
     "country": "BJ"
@@ -10808,7 +10845,7 @@
     "id": "TDTMultimedia.bo",
     "name": "TDT Multimedia",
     "stream_urls": [
-      "https://video01.kshost.com.br/juan6318/juan6318/playlist.m3u8"
+      "https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8"
     ],
     "language": "spa",
     "country": "BO"
@@ -11306,7 +11343,7 @@
     "id": "TelevisionCristal.bo",
     "name": "Television Cristal",
     "stream_urls": [
-      "https://master.tucableip.com/cristaltv/index.m3u8"
+      "https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8"
     ],
     "language": "spa",
     "country": "BO"
@@ -11366,6 +11403,15 @@
     "country": "SK"
   },
   {
+    "id": "TelevizijaM.ba",
+    "name": "Televizija M",
+    "stream_urls": [
+      "https://live.tv-m.net/hls/stream.m3u8"
+    ],
+    "language": "bos",
+    "country": "BA"
+  },
+  {
     "id": "TelewizjaGorzow.pl",
     "name": "Telewizja Gorzow",
     "stream_urls": [
@@ -11387,7 +11433,7 @@
     "id": "TelewizjaJaslo.pl",
     "name": "Telewizja Jaslo",
     "stream_urls": [
-      "https://cdn.aztv.pl/hls/live_tvjaslo.stream.m3u8"
+      "https://cdn02.sesja.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8"
     ],
     "language": "pol",
     "country": "PL"
@@ -11813,8 +11859,8 @@
     "id": "Turkmenistan.tm",
     "name": "Turkmenistan",
     "stream_urls": [
-      "https://alpha.tv.online.tm/legacyhls/ch007.m3u8",
-      "https://alpha.tv.online.tm/hls/ch007.m3u8"
+      "https://alpha.tv.online.tm/hls/ch007.m3u8",
+      "https://alpha.tv.online.tm/legacyhls/ch007.m3u8"
     ],
     "language": "tuk",
     "country": "TM"
@@ -12037,6 +12083,15 @@
     ],
     "language": "sqi",
     "country": "XK"
+  },
+  {
+    "id": "TVASTA.pl",
+    "name": "TV ASTA",
+    "stream_urls": [
+      "https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8"
+    ],
+    "language": "pol",
+    "country": "PL"
   },
   {
     "id": "TVAustro.ec",
@@ -13285,7 +13340,7 @@
     "id": "UNTV.ph",
     "name": "UNTV",
     "stream_urls": [
-      "https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/untvweb.m3u8"
+      "https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8"
     ],
     "language": "tgl",
     "country": "PH"
@@ -13294,7 +13349,7 @@
     "id": "UPPTV.bo",
     "name": "UPP TV",
     "stream_urls": [
-      "https://d3mghbm9e5zfap.cloudfront.net/UppTVBO/27b541ec946453e75f25a7d489c86168.sdp/playlist.m3u8"
+      "https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8"
     ],
     "language": "spa",
     "country": "BO"
@@ -13403,7 +13458,8 @@
     "id": "VBMediaTV.mx",
     "name": "VB Media TV",
     "stream_urls": [
-      "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8"
+      "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8",
+      "https://stream8.mexiserver.com:19360/vbmediatv-1/vbmediatv-1.m3u8"
     ],
     "language": "spa",
     "country": "MX"
@@ -13606,6 +13662,15 @@
     ],
     "language": "por",
     "country": "BR"
+  },
+  {
+    "id": "WaffiTV.ng",
+    "name": "Waffi TV",
+    "stream_urls": [
+      "https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "NG"
   },
   {
     "id": "WaldivisionInternacional.hn",
@@ -13879,6 +13944,15 @@
     ],
     "language": "tuk",
     "country": "TM"
+  },
+  {
+    "id": "YemeniaTV.ye",
+    "name": "Yemenia TV",
+    "stream_urls": [
+      "https://ffs3.gulfsat.com/YEMENIA/video.m3u8"
+    ],
+    "language": "ara",
+    "country": "YE"
   },
   {
     "id": "YOLTV.de",

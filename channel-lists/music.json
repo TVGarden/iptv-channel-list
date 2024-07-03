@@ -37,16 +37,6 @@
     "country": "FR"
   },
   {
-    "id": "4Music.uk",
-    "name": "4Music",
-    "stream_urls": [
-      "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/"
-    ],
-    "language": "eng",
-    "country": "UK",
-    "isGeoBlocked": true
-  },
-  {
     "id": "51RadioTV.it",
     "name": "51 Radio TV",
     "stream_urls": [
@@ -64,6 +54,15 @@
     ],
     "language": "ita",
     "country": "IT"
+  },
+  {
+    "id": "963EasyRock.ph",
+    "name": "96.3 Easy Rock",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCZTlGPEnQ66TFG0m6Wa3KFQ.m3u8"
+    ],
+    "language": "eng",
+    "country": "PH"
   },
   {
     "id": "981PearlFM.sx",
@@ -475,16 +474,6 @@
     "country": "ZA"
   },
   {
-    "id": "BoxHits.uk",
-    "name": "Box Hits",
-    "stream_urls": [
-      "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits",
-      "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/boxhits"
-    ],
-    "language": "eng",
-    "country": "UK"
-  },
-  {
     "id": "BRIDGE.ru",
     "name": "BRIDGE",
     "stream_urls": [
@@ -649,7 +638,7 @@
     "id": "Ceacom.bo",
     "name": "Ceacom",
     "stream_urls": [
-      "https://eu1.servers10.com:8081/ceacom/index.m3u8\""
+      "https://eu1.servers10.com:8081/ceacom/index.m3u8"
     ],
     "language": "spa",
     "country": "BO"
@@ -926,6 +915,15 @@
     ],
     "language": "spa",
     "country": "PY"
+  },
+  {
+    "id": "DreamstarTV.ph",
+    "name": "Dreamstar TV",
+    "stream_urls": [
+      "https://ssh101-fl.bozztv.com/ssh101/dreamstartvnew/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "PH"
   },
   {
     "id": "EBSMusika.us",
@@ -2698,7 +2696,7 @@
     "stream_urls": [
       "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8",
       "https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8",
-      "https://i.mjh.nz/SamsungTVPlus/USBD3500024YB.m3u8"
+      "https://jmp2.uk/SamsungTVPlus/USBD3500024YB.m3u8"
     ],
     "language": "eng",
     "country": "CA"
@@ -3507,7 +3505,7 @@
     "name": "Stingray Classica",
     "stream_urls": [
       "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8",
-      "https://i.mjh.nz/SamsungTVPlus/USBD350002623.m3u8"
+      "https://jmp2.uk/SamsungTVPlus/USBD350002623.m3u8"
     ],
     "language": "eng",
     "country": "CA"
@@ -3519,7 +3517,7 @@
       "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
       "https://xumo-redbox.ott-channels.stingray.com/101/master.m3u8",
       "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8",
-      "https://i.mjh.nz/SamsungTVPlus/USBD35000180U.m3u8"
+      "https://jmp2.uk/SamsungTVPlus/USBD35000180U.m3u8"
     ],
     "language": "eng",
     "country": "CA"
@@ -3529,7 +3527,7 @@
     "name": "Stingray CMusic",
     "stream_urls": [
       "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8",
-      "https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62fbf197c67d52bddf74cc87.m3u8"
+      "https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62fbf197c67d52bddf74cc87.m3u8"
     ],
     "language": "eng",
     "country": "CA"
@@ -3539,7 +3537,7 @@
     "name": "Stingray DJAZZ",
     "stream_urls": [
       "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8",
-      "https://i.mjh.nz/SamsungTVPlus/USBD3500025GS.m3u8"
+      "https://jmp2.uk/SamsungTVPlus/USBD3500025GS.m3u8"
     ],
     "language": "eng",
     "country": "CA"
@@ -3549,7 +3547,7 @@
     "name": "Stingray Easy Listening",
     "stream_urls": [
       "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8",
-      "https://i.mjh.nz/SamsungTVPlus/USBD3500011J3.m3u8"
+      "https://jmp2.uk/SamsungTVPlus/USBD3500011J3.m3u8"
     ],
     "language": "eng",
     "country": "CA"
@@ -3568,7 +3566,7 @@
     "name": "Stingray Flashback 70's",
     "stream_urls": [
       "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8",
-      "https://i.mjh.nz/SamsungTVPlus/USBD3500008IJ.m3u8"
+      "https://jmp2.uk/SamsungTVPlus/USBD3500008IJ.m3u8"
     ],
     "language": "eng",
     "country": "CA"
@@ -3579,7 +3577,7 @@
     "stream_urls": [
       "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8",
       "https://xumo-redbox.ott-channels.stingray.com/155/master.m3u8",
-      "https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8"
+      "https://jmp2.uk/SamsungTVPlus/USBD3500022DN.m3u8"
     ],
     "language": "eng",
     "country": "CA"
@@ -3588,7 +3586,7 @@
     "id": "StingrayHipHop.ca",
     "name": "Stingray Hip Hop",
     "stream_urls": [
-      "https://i.mjh.nz/SamsungTVPlus/USBD3500010MT.m3u8"
+      "https://jmp2.uk/SamsungTVPlus/USBD3500010MT.m3u8"
     ],
     "language": "eng",
     "country": "CA"
@@ -3620,7 +3618,7 @@
       "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
       "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8",
       "https://xumo-redbox.ott-channels.stingray.com/108/master.m3u8",
-      "https://i.mjh.nz/SamsungTVPlus/USBD3300021KV.m3u8"
+      "https://jmp2.uk/SamsungTVPlus/USBD3300021KV.m3u8"
     ],
     "language": "eng",
     "country": "CA"
@@ -3640,7 +3638,7 @@
     "stream_urls": [
       "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8",
       "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8",
-      "https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60d324f59adce5002c41dbc5.m3u8"
+      "https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-60d324f59adce5002c41dbc5.m3u8"
     ],
     "language": "eng",
     "country": "CA"
@@ -3650,7 +3648,7 @@
     "name": "Stingray Nothin' But 90s",
     "stream_urls": [
       "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8",
-      "https://i.mjh.nz/SamsungTVPlus/USBD35000149S.m3u8"
+      "https://jmp2.uk/SamsungTVPlus/USBD35000149S.m3u8"
     ],
     "language": "eng",
     "country": "CA"
@@ -3668,7 +3666,7 @@
     "id": "StingrayRememberthe80s.ca",
     "name": "Stingray Remember the 80s",
     "stream_urls": [
-      "https://i.mjh.nz/SamsungTVPlus/USBD3300022QK.m3u8"
+      "https://jmp2.uk/SamsungTVPlus/USBD3300022QK.m3u8"
     ],
     "language": "eng",
     "country": "CA"
@@ -3687,7 +3685,7 @@
     "name": "Stingray Romance Latino",
     "stream_urls": [
       "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8",
-      "https://i.mjh.nz/SamsungTVPlus/USBD3500017CE.m3u8"
+      "https://jmp2.uk/SamsungTVPlus/USBD3500017CE.m3u8"
     ],
     "language": "eng",
     "country": "CA"
@@ -3697,7 +3695,7 @@
     "name": "Stingray Smooth Jazz",
     "stream_urls": [
       "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8",
-      "https://i.mjh.nz/SamsungTVPlus/USBD35000128A.m3u8"
+      "https://jmp2.uk/SamsungTVPlus/USBD35000128A.m3u8"
     ],
     "language": "eng",
     "country": "CA"
@@ -3709,7 +3707,7 @@
       "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8",
       "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8",
       "https://xumo-redbox.ott-channels.stingray.com/134/master.m3u8",
-      "https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801.m3u8"
+      "https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801.m3u8"
     ],
     "language": "eng",
     "country": "CA"
@@ -3728,7 +3726,7 @@
     "name": "Stingray Today's K-Pop",
     "stream_urls": [
       "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8",
-      "https://i.mjh.nz/SamsungTVPlus/USBD3500016NH.m3u8"
+      "https://jmp2.uk/SamsungTVPlus/USBD3500016NH.m3u8"
     ],
     "language": "eng",
     "country": "CA"
@@ -3738,7 +3736,7 @@
     "name": "Stingray Today's Latin Pop",
     "stream_urls": [
       "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8",
-      "https://i.mjh.nz/SamsungTVPlus/USBD3500009Y3.m3u8"
+      "https://jmp2.uk/SamsungTVPlus/USBD3500009Y3.m3u8"
     ],
     "language": "eng",
     "country": "CA"
@@ -3896,17 +3894,6 @@
     ],
     "language": "eng",
     "country": "GH"
-  },
-  {
-    "id": "TheBox.uk",
-    "name": "The Box",
-    "stream_urls": [
-      "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/thebox",
-      "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox"
-    ],
-    "language": "eng",
-    "country": "UK",
-    "isGeoBlocked": true
   },
   {
     "id": "TheCountryNetwork.us",
@@ -4129,7 +4116,7 @@
     "id": "TvCarigso.bo",
     "name": "Tv Carigso",
     "stream_urls": [
-      "https://vdo.panelchs.com:3558/live/carigsotvlive.m3u8"
+      "https://paneltv.tecnohost.ec:3646/live/carigsotvlive.m3u8"
     ],
     "language": "spa",
     "country": "BO"
@@ -4156,7 +4143,7 @@
     "id": "TVHDTropical.bo",
     "name": "TV HD Tropical",
     "stream_urls": [
-      "https://cloud3.streaminglivehd.com:1936/8068/8068/playlist.m3u8"
+      "https://cloud2.streaminglivehd.com:19360/8060/8060.m3u8"
     ],
     "language": "spa",
     "country": "BO"

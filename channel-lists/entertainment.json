@@ -2303,6 +2303,15 @@
     "country": "AR"
   },
   {
+    "id": "RadyoBandidoTV.ph",
+    "name": "Radyo Bandido TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UC1f5yN0Hdibzm3JqqUswKvA.m3u8"
+    ],
+    "language": "fil",
+    "country": "PH"
+  },
+  {
     "id": "RanTVIsrael.il",
     "name": "Ran TV Israel",
     "stream_urls": [
@@ -2492,6 +2501,15 @@
     ],
     "language": "hin",
     "country": "IN"
+  },
+  {
+    "id": "ShowPlusTV.az",
+    "name": "Show Plus TV",
+    "stream_urls": [
+      "https://glb.bozztv.com/glb/ssh101/showplus/index.m3u8"
+    ],
+    "language": "aze",
+    "country": "AZ"
   },
   {
     "id": "ShowtimeattheApollo.us",
