@@ -1602,6 +1602,24 @@
     "country": "HN"
   },
   {
+    "id": "DivinAmourTV.ci",
+    "name": "Divin Amour TV",
+    "stream_urls": [
+      "https://voozmedia.fun/divinamourtv/livestream/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "CI"
+  },
+  {
+    "id": "DiyanetTV.tr",
+    "name": "Diyanet TV",
+    "stream_urls": [
+      "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "id": "DiyarTV.tr",
     "name": "Diyar TV",
     "stream_urls": [

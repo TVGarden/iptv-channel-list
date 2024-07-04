@@ -830,60 +830,6 @@
     "country": "DO"
   },
   {
-    "id": "Colors.in",
-    "name": "Colors",
-    "stream_urls": [
-      "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8"
-    ],
-    "language": "hin",
-    "country": "IN"
-  },
-  {
-    "id": "ColorsInfinity.in",
-    "name": "Colors Infinity",
-    "stream_urls": [
-      "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8"
-    ],
-    "language": "eng",
-    "country": "IN"
-  },
-  {
-    "id": "ColorsKannada.in",
-    "name": "Colors Kannada",
-    "stream_urls": [
-      "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_HD_voot_MOB/Fallback/index.m3u8"
-    ],
-    "language": "kan",
-    "country": "IN"
-  },
-  {
-    "id": "ColorsMarathi.in",
-    "name": "Colors Marathi",
-    "stream_urls": [
-      "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Marathi_HD_voot_MOB/Fallback/index.m3u8"
-    ],
-    "language": "mar",
-    "country": "IN"
-  },
-  {
-    "id": "ColorsSuper.in",
-    "name": "Colors Super",
-    "stream_urls": [
-      "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Super_voot_MOB/Fallback/index.m3u8"
-    ],
-    "language": "kan",
-    "country": "IN"
-  },
-  {
-    "id": "ColorsTamil.in",
-    "name": "Colors Tamil",
-    "stream_urls": [
-      "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/index.m3u8"
-    ],
-    "language": "tam",
-    "country": "IN"
-  },
-  {
     "id": "ColosalTV.cr",
     "name": "Colosal TV",
     "stream_urls": [
@@ -1356,10 +1302,11 @@
     "id": "Historia.es",
     "name": "Historia",
     "stream_urls": [
-      "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:90_HD.smil/manifest.m3u8"
+      "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:90_HD.smil/manifest.m3u8"
     ],
     "language": "spa",
-    "country": "ES"
+    "country": "ES",
+    "isGeoBlocked": true
   },
   {
     "id": "HiYAH.us",
@@ -1788,6 +1735,15 @@
     "country": "VE"
   },
   {
+    "id": "MegaTV.bo",
+    "name": "MegaTV",
+    "stream_urls": [
+      "https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "BO"
+  },
+  {
     "id": "MeritStreet.us",
     "name": "Merit Street",
     "stream_urls": [
@@ -1879,15 +1835,6 @@
     "language": "eng",
     "country": "DE",
     "isGeoBlocked": true
-  },
-  {
-    "id": "MTV.in",
-    "name": "MTV",
-    "stream_urls": [
-      "https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8"
-    ],
-    "language": "hin",
-    "country": "IN"
   },
   {
     "id": "MTV2East.us",
@@ -3073,15 +3020,6 @@
     "country": "US"
   },
   {
-    "id": "VAMTV.cw",
-    "name": "VAM TV",
-    "stream_urls": [
-      "https://cur.watch/api/get_stream/vam/streann/playlist.m3u8"
-    ],
-    "language": "eng",
-    "country": "CW"
-  },
-  {
     "id": "VariedTV.ar",
     "name": "VariedTV",
     "stream_urls": [
@@ -3098,6 +3036,16 @@
     ],
     "language": "lao",
     "country": "LA"
+  },
+  {
+    "id": "VBMediaTV.mx",
+    "name": "VB Media TV",
+    "stream_urls": [
+      "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8",
+      "https://stream8.mexiserver.com:19360/vbmediatv-1/vbmediatv-1.m3u8"
+    ],
+    "language": "spa",
+    "country": "MX"
   },
   {
     "id": "Velicham.in",

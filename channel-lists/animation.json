@@ -355,6 +355,15 @@
     "isGeoBlocked": true
   },
   {
+    "id": "XilamTV.fr",
+    "name": "XilamTV",
+    "stream_urls": [
+      "https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
     "id": "XtremaAnime.ar",
     "name": "Xtrema Anime",
     "stream_urls": [

@@ -138,10 +138,11 @@
     "id": "Atreseries.es",
     "name": "Atreseries",
     "stream_urls": [
-      "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8"
+      "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:10_HD.smil/manifest.m3u8"
     ],
     "language": "spa",
-    "country": "ES"
+    "country": "ES",
+    "isGeoBlocked": true
   },
   {
     "id": "AVASeries.ir",

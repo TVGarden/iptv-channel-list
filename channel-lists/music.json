@@ -908,6 +908,24 @@
     "country": "IN"
   },
   {
+    "id": "DismarRadioTV.py",
+    "name": "Dismar Radio TV",
+    "stream_urls": [
+      "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "PY"
+  },
+  {
+    "id": "DJLonchoTV.cl",
+    "name": "DJ Loncho TV",
+    "stream_urls": [
+      "https://srv5.zcast.com.br/djlonchtv/djlonchtv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "CL"
+  },
+  {
     "id": "DMpy.py",
     "name": "DMpy",
     "stream_urls": [
@@ -2055,15 +2073,6 @@
     ],
     "language": "fra",
     "country": "FR"
-  },
-  {
-    "id": "MTVBeats.in",
-    "name": "MTV Beats",
-    "stream_urls": [
-      "https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8"
-    ],
-    "language": "eng",
-    "country": "IN"
   },
   {
     "id": "MTVClassicEast.us",
@@ -4229,6 +4238,15 @@
     ],
     "language": "spa",
     "country": "US"
+  },
+  {
+    "id": "VAMTV.cw",
+    "name": "VAM TV",
+    "stream_urls": [
+      "https://cur.watch/api/get_stream/vam/streann/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "CW"
   },
   {
     "id": "VClassicTV.cl",

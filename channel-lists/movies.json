@@ -67,10 +67,11 @@
     "id": "AMC.es",
     "name": "AMC",
     "stream_urls": [
-      "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8"
+      "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8"
     ],
     "language": "spa",
-    "country": "ES"
+    "country": "ES",
+    "isGeoBlocked": true
   },
   {
     "id": "AmericanClassics.us",
@@ -312,24 +313,6 @@
     ],
     "language": "por",
     "country": "BR"
-  },
-  {
-    "id": "ColorsCineplexSuperhits.in",
-    "name": "Colors Cineplex Superhits",
-    "stream_urls": [
-      "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8"
-    ],
-    "language": "hin",
-    "country": "IN"
-  },
-  {
-    "id": "ColorsKannadaCinema.in",
-    "name": "Colors Kannada Cinema",
-    "stream_urls": [
-      "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_Cinema_voot_MOB/Fallback/index.m3u8"
-    ],
-    "language": "kan",
-    "country": "IN"
   },
   {
     "id": "Crackle.us",
@@ -1599,10 +1582,11 @@
     "id": "SundanceTV.es",
     "name": "Sundance TV",
     "stream_urls": [
-      "https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:88_HD.smil/manifest.m3u8"
+      "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:88_HD.smil/manifest.m3u8"
     ],
     "language": "spa",
-    "country": "ES"
+    "country": "ES",
+    "isGeoBlocked": true
   },
   {
     "id": "SundanceTVEast.us",

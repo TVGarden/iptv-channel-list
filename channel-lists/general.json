@@ -2794,10 +2794,11 @@
     "id": "Canal11.cr",
     "name": "Canal 11",
     "stream_urls": [
-      "https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8"
+      "https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8"
     ],
     "language": "spa",
-    "country": "CR"
+    "country": "CR",
+    "isGeoBlocked": true
   },
   {
     "id": "Canal11.ni",
@@ -2974,10 +2975,11 @@
     "id": "Canal2.cr",
     "name": "Canal 2",
     "stream_urls": [
-      "https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/playlist.m3u8"
+      "https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8"
     ],
     "language": "spa",
-    "country": "CR"
+    "country": "CR",
+    "isGeoBlocked": true
   },
   {
     "id": "Canal2.ni",
@@ -3155,10 +3157,11 @@
     "id": "Canal4.cr",
     "name": "Canal 4",
     "stream_urls": [
-      "https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8"
+      "https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8"
     ],
     "language": "spa",
-    "country": "CR"
+    "country": "CR",
+    "isGeoBlocked": true
   },
   {
     "id": "Canal47TV.mx",
@@ -3245,10 +3248,11 @@
     "id": "Canal6.cr",
     "name": "Canal 6",
     "stream_urls": [
-      "https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8"
+      "https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8"
     ],
     "language": "spa",
-    "country": "CR"
+    "country": "CR",
+    "isGeoBlocked": true
   },
   {
     "id": "Canal6deTamazula.mx",
@@ -4788,15 +4792,6 @@
     "country": "MX"
   },
   {
-    "id": "ColorsRishteyAsia.in",
-    "name": "Colors Rishtey Asia",
-    "stream_urls": [
-      "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8"
-    ],
-    "language": "hin",
-    "country": "IN"
-  },
-  {
     "id": "COMBrasil.br",
     "name": "COM Brasil",
     "stream_urls": [
@@ -5538,6 +5533,15 @@
     "country": "TG"
   },
   {
+    "id": "DistritoTV.es",
+    "name": "Distrito TV",
+    "stream_urls": [
+      "https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
     "id": "DitisHelmond.nl",
     "name": "Dit is Helmond",
     "stream_urls": [
@@ -5556,10 +5560,28 @@
     "country": "IT"
   },
   {
+    "id": "DjomaTV.gn",
+    "name": "Djoma TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UC2vtjGPB2VndmlME61XaRUw.m3u8"
+    ],
+    "language": "fra",
+    "country": "GN"
+  },
+  {
     "id": "DMJ.pe",
     "name": "DMJ",
     "stream_urls": [
       "https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "PE"
+  },
+  {
+    "id": "DobleAA.pe",
+    "name": "Doble AA",
+    "stream_urls": [
+      "https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8"
     ],
     "language": "spa",
     "country": "PE"
@@ -13453,16 +13475,6 @@
     ],
     "language": "hun",
     "country": "HU"
-  },
-  {
-    "id": "VBMediaTV.mx",
-    "name": "VB Media TV",
-    "stream_urls": [
-      "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8",
-      "https://stream8.mexiserver.com:19360/vbmediatv-1/vbmediatv-1.m3u8"
-    ],
-    "language": "spa",
-    "country": "MX"
   },
   {
     "id": "VCAT.us",

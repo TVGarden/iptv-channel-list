@@ -210,6 +210,15 @@
     "country": "ZA"
   },
   {
+    "id": "Divinity.es",
+    "name": "Divinity",
+    "stream_urls": [
+      "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "ES"
+  },
+  {
     "id": "DoctorLive.in",
     "name": "Doctor Live",
     "stream_urls": [
