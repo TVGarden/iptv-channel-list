@@ -116,6 +116,15 @@
     "country": "US"
   },
   {
+    "id": "KulinarHD.ru",
+    "name": "Kulinar HD",
+    "stream_urls": [
+      "https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/14.m3u8"
+    ],
+    "language": "rus",
+    "country": "RU"
+  },
+  {
     "id": "PlutoTVCocina.es",
     "name": "Pluto TV Cocina",
     "stream_urls": [
