@@ -962,7 +962,7 @@
     "id": "AltasTV.tr",
     "name": "Altas TV",
     "stream_urls": [
-      "https://broadcasttr.com:446/altastv/bant1/index.m3u8"
+      "https://edge1.socialsmart.tv/altastv/bant1/index.m3u8"
     ],
     "language": "tur",
     "country": "TR"
@@ -4462,7 +4462,7 @@
     "id": "ChivacoaTVInternacional.ve",
     "name": "Chivacoa TV Internacional",
     "stream_urls": [
-      "https://vdo1.panelstreaming.live:3875/live/guarotvlive.m3u8"
+      "https://glb.bozztv.com/glb/ssh101/1234chivacoa/index.m3u8"
     ],
     "language": "spa",
     "country": "VE"
@@ -6105,6 +6105,15 @@
     "country": "DO"
   },
   {
+    "id": "FriesischerRundfunkFriedeburg.de",
+    "name": "Friesischer Rundfunk Friedeburg",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCVwFnSaCfUD_UbkmWuZZ7FA.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
     "id": "FuerteventuraTV.es",
     "name": "Fuerteventura TV",
     "stream_urls": [
@@ -7383,6 +7392,15 @@
     "country": "SN"
   },
   {
+    "id": "LTV.de",
+    "name": "L TV",
+    "stream_urls": [
+      "https://live2.telvi.de/hls/l-tv_s1.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
     "id": "LubovnianskaTV.sk",
     "name": "Lubovnianska TV",
     "stream_urls": [
@@ -7557,7 +7575,7 @@
     "id": "MBC.mw",
     "name": "MBC",
     "stream_urls": [
-      "https://rpn3.bozztv.com/ssh101/ssh101/mbcmalawi/playlist.m3u8"
+      "https://glb.bozztv.com/glb/ssh101/mbcmalawi/playlist.m3u8"
     ],
     "language": "eng",
     "country": "MW"
@@ -9198,6 +9216,15 @@
     "country": "PE"
   },
   {
+    "id": "QTVGambia.gm",
+    "name": "QTV Gambia",
+    "stream_urls": [
+      "https://player.qtv.gm/hls/live.stream.m3u8"
+    ],
+    "language": "eng",
+    "country": "GM"
+  },
+  {
     "id": "QuartoCanaleFlegreo.it",
     "name": "Quarto Canale Flegreo",
     "stream_urls": [
@@ -9333,6 +9360,15 @@
     ],
     "language": "fra",
     "country": "HT"
+  },
+  {
+    "id": "RadiotelevizijaRozaje.me",
+    "name": "Radio televizija Rozaje",
+    "stream_urls": [
+      "https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8"
+    ],
+    "language": "srp",
+    "country": "ME"
   },
   {
     "id": "RadioTelevizuneaDiasporei.ro",
@@ -9724,6 +9760,27 @@
     "country": "SN"
   },
   {
+    "id": "RFO.de",
+    "name": "RFO",
+    "stream_urls": [
+      "https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
+    "id": "RheinMainTV.de",
+    "name": "RheinMain TV",
+    "stream_urls": [
+      "https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8",
+      "https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/chunklist.m3u8",
+      "https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8",
+      "https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
     "id": "RiberaTV.es",
     "name": "Ribera TV",
     "stream_urls": [
@@ -9895,6 +9952,16 @@
     ],
     "language": "ita",
     "country": "IT"
+  },
+  {
+    "id": "RTNC.cd",
+    "name": "RTNC",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCip2DNtZUPC82a_xLLTFcgA.m3u8",
+      "https://tv2.isi-broadcast.tech/ISI-BROADCAST/RTNC-1/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "CD"
   },
   {
     "id": "RTRPlanetaAsia.ru",
@@ -10909,6 +10976,15 @@
     "country": "MX"
   },
   {
+    "id": "Tele50.cd",
+    "name": "Tele 50",
+    "stream_urls": [
+      "https://tv2.isi-broadcast.tech/ISI-BROADCAST/TELE-50/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "CD"
+  },
+  {
     "id": "Tele7ABCHD.ro",
     "name": "Tele7ABC HD",
     "stream_urls": [
@@ -11673,7 +11749,7 @@
     "name": "TNTV",
     "stream_urls": [
       "https://tntv-samsung-fr.amagi.tv/playlist.m3u8",
-      "https://bcovlive-a.akamaihd.net/304fe71ee59a4d9692c5fa03548aa91a/us-west-2/5816339219001/playlist.m3u8"
+      "https://bcovlive-a.akamaihd.net/34b9e8a6345d4ee8acb351730d1dbe89/us-west-2/5816339219001/playlist.m3u8"
     ],
     "language": "fra",
     "country": "PF"
@@ -12789,6 +12865,15 @@
     "language": "eng",
     "country": "NZ",
     "isGeoBlocked": true
+  },
+  {
+    "id": "TVOberfranken.de",
+    "name": "TV Oberfranken",
+    "stream_urls": [
+      "https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
   },
   {
     "id": "TVOstfold.no",

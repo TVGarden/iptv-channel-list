@@ -284,6 +284,15 @@
     "country": "US"
   },
   {
+    "id": "Juwelo.de",
+    "name": "Juwelo",
+    "stream_urls": [
+      "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
+  },
+  {
     "id": "Juwelo.it",
     "name": "Juwelo",
     "stream_urls": [
@@ -446,6 +455,15 @@
     ],
     "language": "kor",
     "country": "KR"
+  },
+  {
+    "id": "PearlTV.de",
+    "name": "Pearl TV",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCp0urejlDaYz4G8xpTxdIvw.m3u8"
+    ],
+    "language": "deu",
+    "country": "DE"
   },
   {
     "id": "QVC.de",

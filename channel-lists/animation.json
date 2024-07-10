@@ -82,6 +82,15 @@
     "country": "US"
   },
   {
+    "id": "ANIMESTATION.ar",
+    "name": "ANIMESTATION",
+    "stream_urls": [
+      "https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8"
+    ],
+    "language": "spa",
+    "country": "AR"
+  },
+  {
     "id": "AnimeTV.br",
     "name": "Anime TV",
     "stream_urls": [
