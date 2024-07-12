@@ -3093,15 +3093,6 @@
     "country": "NG"
   },
   {
-    "id": "LoveWorldPacifics.ng",
-    "name": "LoveWorld Pacifics",
-    "stream_urls": [
-      "https://live-hls-5rxy.livepush.io/live_cdn/em_LJ5aZjqp0LdiQ/index.m3u8"
-    ],
-    "language": "eng",
-    "country": "NG"
-  },
-  {
     "id": "LoveWorldUK.uk",
     "name": "LoveWorld UK",
     "stream_urls": [
@@ -3966,6 +3957,15 @@
     ],
     "language": "fra",
     "country": "HT"
+  },
+  {
+    "id": "RadioTeleEvangileSansLimite.ca",
+    "name": "Radio Tele Evangile Sans Limite",
+    "stream_urls": [
+      "https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8"
+    ],
+    "language": "fra",
+    "country": "CA"
   },
   {
     "id": "RadioTelePititManmanMari.ht",

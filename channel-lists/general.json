@@ -611,6 +611,15 @@
     "country": "GR"
   },
   {
+    "id": "AfghanNobelTV.ca",
+    "name": "Afghan Nobel TV",
+    "stream_urls": [
+      "https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8"
+    ],
+    "language": "prs",
+    "country": "CA"
+  },
+  {
     "id": "AgamvaniChannel.in",
     "name": "Agamvani Channel",
     "stream_urls": [
@@ -1156,15 +1165,6 @@
     ],
     "language": "glg",
     "country": "ES"
-  },
-  {
-    "id": "Antena1.ro",
-    "name": "Antena 1",
-    "stream_urls": [
-      "https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8"
-    ],
-    "language": "ron",
-    "country": "RO"
   },
   {
     "id": "Antena7.do",
@@ -6177,6 +6177,15 @@
     "country": "US"
   },
   {
+    "id": "GHCanadaTV.ca",
+    "name": "GH Canada TV",
+    "stream_urls": [
+      "https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA"
+  },
+  {
     "id": "GipsyTvWien.at",
     "name": "GipsyTv Wien",
     "stream_urls": [
@@ -7282,6 +7291,15 @@
     ],
     "language": "ara",
     "country": "LY"
+  },
+  {
+    "id": "LifeTVAsia.ph",
+    "name": "Life TV Asia",
+    "stream_urls": [
+      "https://ythls.armelin.one/channel/UCisr6Z2C8R2QF-Qh6NOH9cg.m3u8"
+    ],
+    "language": "tgl",
+    "country": "PH"
   },
   {
     "id": "LineaDirectaRadio.ar",
@@ -9848,7 +9866,6 @@
     "name": "Roya TV",
     "stream_urls": [
       "https://roya-live.ercdn.net/roya/roya.m3u8",
-      "https://roya-live.ercdn.net/roya/roya.m3u8",
       "https://royatv-live.daioncdn.net/royatv/royatv.m3u8"
     ],
     "language": "ara",
@@ -10911,6 +10928,24 @@
     ],
     "language": "spa",
     "country": "CO"
+  },
+  {
+    "id": "TDMMacauSatellite.mo",
+    "name": "TDM-Macau Satellite",
+    "stream_urls": [
+      "https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8"
+    ],
+    "language": "zho",
+    "country": "MO"
+  },
+  {
+    "id": "TDMOuMun.mo",
+    "name": "TDM Ou Mun",
+    "stream_urls": [
+      "https://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8"
+    ],
+    "language": "zho",
+    "country": "MO"
   },
   {
     "id": "TDNTV.dm",

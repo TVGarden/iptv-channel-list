@@ -2185,6 +2185,15 @@
     "country": "KZ"
   },
   {
+    "id": "MyxPhilippines.ph",
+    "name": "Myx Philippines",
+    "stream_urls": [
+      "https://myxnola-abscbn-ono.amagi.tv/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "PH"
+  },
+  {
     "id": "NagoTV.us",
     "name": "Nago TV",
     "stream_urls": [

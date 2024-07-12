@@ -1254,6 +1254,15 @@
     "country": "ES"
   },
   {
+    "id": "TVOKids.ca",
+    "name": "TVOKids",
+    "stream_urls": [
+      "https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA"
+  },
+  {
     "id": "TVSHiTops.us",
     "name": "TVS Hi Tops",
     "stream_urls": [

@@ -2789,7 +2789,6 @@
       "https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8",
       "https://rakuten-euronews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8",
@@ -2799,8 +2798,6 @@
       "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/euronews_720p/playlist.m3u8",
       "https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8",
       "https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8",
-      "https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8",
-      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2571",
       "https://rakuten-euronews-10-lu.samsung.wurl.tv/playlist.m3u8",
       "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8"
     ],
@@ -2812,9 +2809,7 @@
     "name": "Euronews French",
     "stream_urls": [
       "https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8",
-      "https://rakuten-euronews-2-fr.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8",
-      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2572"
+      "https://rakuten-euronews-2-fr.samsung.wurl.tv/manifest/playlist.m3u8"
     ],
     "language": "fra",
     "country": "FR"
@@ -2823,8 +2818,7 @@
     "id": "EuronewsGerman.fr",
     "name": "Euronews German",
     "stream_urls": [
-      "https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2573"
+      "https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8"
     ],
     "language": "deu",
     "country": "FR"
@@ -2851,8 +2845,7 @@
     "id": "EuronewsItalian.fr",
     "name": "Euronews Italian",
     "stream_urls": [
-      "https://rakuten-euronews-3-it.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2574"
+      "https://rakuten-euronews-3-it.samsung.wurl.tv/manifest/playlist.m3u8"
     ],
     "language": "ita",
     "country": "FR"
@@ -2861,8 +2854,7 @@
     "id": "EuronewsPortuguese.fr",
     "name": "Euronews Portuguese",
     "stream_urls": [
-      "https://rakuten-euronews-8-pt.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575"
+      "https://rakuten-euronews-8-pt.samsung.wurl.tv/manifest/playlist.m3u8"
     ],
     "language": "por",
     "country": "FR"
@@ -2898,8 +2890,7 @@
     "id": "EuronewsSpanish.fr",
     "name": "Euronews Spanish",
     "stream_urls": [
-      "https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8",
-      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2577"
+      "https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8"
     ],
     "language": "spa",
     "country": "FR"
@@ -6253,6 +6244,24 @@
     ],
     "language": "jpn",
     "country": "JP"
+  },
+  {
+    "id": "TCM10HD.br",
+    "name": "TCM 10 HD",
+    "stream_urls": [
+      "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
+    ],
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "id": "TDMInformation.mo",
+    "name": "TDM Information",
+    "stream_urls": [
+      "https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8"
+    ],
+    "language": "zho",
+    "country": "MO"
   },
   {
     "id": "TeleCauquenes.cl",

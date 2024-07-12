@@ -788,6 +788,24 @@
     "country": "US"
   },
   {
+    "id": "LegislativeAssemblyofBritishColumbia.ca",
+    "name": "Legislative Assembly of British Columbia",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA"
+  },
+  {
+    "id": "LegislativeAssemblyofBritishColumbiaCommitteeA.ca",
+    "name": "Legislative Assembly of British Columbia Committee A",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA"
+  },
+  {
     "id": "LegislativeAssemblyofElSalvador.sv",
     "name": "Legislative Assembly of El Salvador",
     "stream_urls": [
@@ -795,6 +813,15 @@
     ],
     "language": "spa",
     "country": "SV"
+  },
+  {
+    "id": "LegislativeAssemblyofOntario.ca",
+    "name": "Legislative Assembly of Ontario",
+    "stream_urls": [
+      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA"
   },
   {
     "id": "MarinTVGovernmentChannel.us",
