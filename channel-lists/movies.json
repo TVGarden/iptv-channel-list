@@ -748,15 +748,6 @@
     "country": "MX"
   },
   {
-    "id": "MovieBangla.bd",
-    "name": "Movie Bangla",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
-  },
-  {
     "id": "MovieBox.mn",
     "name": "MovieBox",
     "stream_urls": [

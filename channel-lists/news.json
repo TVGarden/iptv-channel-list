@@ -1324,15 +1324,6 @@
     "country": "AF"
   },
   {
-    "id": "ATNNews.bd",
-    "name": "ATN News",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
-  },
-  {
     "id": "ATurk.tr",
     "name": "A Turk",
     "stream_urls": [
@@ -1548,6 +1539,24 @@
     "country": "BJ"
   },
   {
+    "id": "BFMGrandLille.fr",
+    "name": "BFM Grand Lille",
+    "stream_urls": [
+      "https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "id": "BFMGrandLittoral.fr",
+    "name": "BFM Grand Littoral",
+    "stream_urls": [
+      "https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
+  },
+  {
     "id": "Bharat24.in",
     "name": "Bharat24",
     "stream_urls": [
@@ -1564,15 +1573,6 @@
     ],
     "language": "hin",
     "country": "IN"
-  },
-  {
-    "id": "BijoyTV.bd",
-    "name": "Bijoy TV",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
   },
   {
     "id": "BlackNewsChannel.us",
@@ -1595,6 +1595,15 @@
     ],
     "language": "urd",
     "country": "PK"
+  },
+  {
+    "id": "BrianTV.la",
+    "name": "Brian TV",
+    "stream_urls": [
+      "https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8"
+    ],
+    "language": "vie",
+    "country": "LA"
   },
   {
     "id": "BTV.id",
@@ -2088,15 +2097,6 @@
     "country": "CN"
   },
   {
-    "id": "Channel24.bd",
-    "name": "Channel 24",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
-  },
-  {
     "id": "Channel24.ua",
     "name": "Channel 24",
     "stream_urls": [
@@ -2426,15 +2426,6 @@
     ],
     "language": "urd",
     "country": "PK"
-  },
-  {
-    "id": "DBCNews.bd",
-    "name": "DBC News",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
   },
   {
     "id": "DDNews.in",
@@ -3459,15 +3450,6 @@
     "country": "PE"
   },
   {
-    "id": "IndependentTV.bd",
-    "name": "Independent TV",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
-  },
-  {
     "id": "IndiaNews.in",
     "name": "India News",
     "stream_urls": [
@@ -3689,15 +3671,6 @@
     ],
     "language": "ara",
     "country": "LY"
-  },
-  {
-    "id": "JamunaTV.bd",
-    "name": "Jamuna TV",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
   },
   {
     "id": "JanamTV.in",
@@ -4133,15 +4106,6 @@
     ],
     "language": "eng",
     "country": "NG"
-  },
-  {
-    "id": "LN24SA.za",
-    "name": "LN24SA",
-    "stream_urls": [
-      "https://cdnstack.internetmultimediaonline.org/lwsat/lwsatnewsStreamx/playlist.m3u8"
-    ],
-    "language": "eng",
-    "country": "ZA"
   },
   {
     "id": "LokshahiNews.in",
@@ -4705,15 +4669,6 @@
     ],
     "language": "sqi",
     "country": "AL"
-  },
-  {
-    "id": "News24.bd",
-    "name": "News 24",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
   },
   {
     "id": "News24.in",
@@ -6069,15 +6024,6 @@
     ],
     "language": "fas",
     "country": "IR"
-  },
-  {
-    "id": "SomoyNewsTV.bd",
-    "name": "Somoy News TV",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
   },
   {
     "id": "SportsNewsHighlights.us",

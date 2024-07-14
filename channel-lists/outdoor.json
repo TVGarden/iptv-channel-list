@@ -173,16 +173,6 @@
     "country": "IN"
   },
   {
-    "id": "Dialogiorybalke.ru",
-    "name": "Dialogi o rybalke",
-    "stream_urls": [
-      "https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU",
-    "isGeoBlocked": true
-  },
-  {
     "id": "earthTV.de",
     "name": "earthTV",
     "stream_urls": [

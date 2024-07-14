@@ -482,6 +482,15 @@
     "country": "EC"
   },
   {
+    "id": "PassionNovelas.ci",
+    "name": "Passion Novelas",
+    "stream_urls": [
+      "https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "CI"
+  },
+  {
     "id": "PlanetaTV90s.cl",
     "name": "PlanetaTV 90s",
     "stream_urls": [

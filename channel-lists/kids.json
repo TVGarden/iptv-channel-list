@@ -549,16 +549,6 @@
     "country": "US"
   },
   {
-    "id": "Leva.ru",
-    "name": "Leva",
-    "stream_urls": [
-      "https://strm.yandex.ru/kal/leva/leva0.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU",
-    "isGeoBlocked": true
-  },
-  {
     "id": "LogosTVKids.es",
     "name": "Logos TV Kids",
     "stream_urls": [
@@ -630,16 +620,6 @@
     ],
     "language": "eng",
     "country": "UK"
-  },
-  {
-    "id": "Multilandia.ru",
-    "name": "Multilandia",
-    "stream_urls": [
-      "https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU",
-    "isGeoBlocked": true
   },
   {
     "id": "Multimania.lv",
@@ -732,16 +712,6 @@
     ],
     "language": "eng",
     "country": "IN"
-  },
-  {
-    "id": "NickJr.ru",
-    "name": "Nick Jr.",
-    "stream_urls": [
-      "https://bkm.beetv.kz/btv/live/hls/000000449.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU",
-    "isGeoBlocked": true
   },
   {
     "id": "NickJrClub.br",
@@ -1279,16 +1249,6 @@
     ],
     "language": "eng",
     "country": "US"
-  },
-  {
-    "id": "Vgostyakhuskazki.ru",
-    "name": "V gostyakh u skazki",
-    "stream_urls": [
-      "https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU",
-    "isGeoBlocked": true
   },
   {
     "id": "XtremaCartoons.ar",

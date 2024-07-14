@@ -438,15 +438,6 @@
     "country": "AG"
   },
   {
-    "id": "ABTV.bd",
-    "name": "AB TV",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtvusa.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
-  },
-  {
     "id": "AbuDhabiAloula.ae",
     "name": "Abu Dhabi Aloula",
     "stream_urls": [
@@ -1543,25 +1534,6 @@
     "country": "PE"
   },
   {
-    "id": "ATNBangla.bd",
-    "name": "ATN Bangla",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD",
-    "isGeoBlocked": true
-  },
-  {
-    "id": "ATNBanglaUK.uk",
-    "name": "ATN Bangla UK",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "UK"
-  },
-  {
     "id": "ATNInternational.af",
     "name": "ATN International",
     "stream_urls": [
@@ -1886,15 +1858,6 @@
     "country": "MX"
   },
   {
-    "id": "B24C.bd",
-    "name": "B24C",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/b24c.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
-  },
-  {
     "id": "Badakhshon.tj",
     "name": "Badakhshon",
     "stream_urls": [
@@ -1974,34 +1937,6 @@
     ],
     "language": "ron",
     "country": "RO"
-  },
-  {
-    "id": "Bangla21TV.bd",
-    "name": "Bangla21 TV",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
-  },
-  {
-    "id": "BanglaTV.bd",
-    "name": "Bangla TV",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
-  },
-  {
-    "id": "BanglaVision.bd",
-    "name": "Bangla Vision",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD",
-    "isGeoBlocked": true
   },
   {
     "id": "BarbeTV.gt",
@@ -2518,15 +2453,6 @@
     "country": "PE"
   },
   {
-    "id": "BoishakhiTV.bd",
-    "name": "Boishakhi TV",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
-  },
-  {
     "id": "BoliviaTV72.bo",
     "name": "Bolivia TV 7.2",
     "stream_urls": [
@@ -2616,15 +2542,6 @@
     ],
     "language": "spa",
     "country": "PA"
-  },
-  {
-    "id": "BTVWorld.bd",
-    "name": "BTV World",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
   },
   {
     "id": "BudapestEuropaTelevizio.hu",
@@ -3750,7 +3667,7 @@
     "id": "CapeTownTV.za",
     "name": "Cape Town TV",
     "stream_urls": [
-      "https://capetowntv.net/lvod/6107c8d77d6b693df801ae2e/playlist.m3u8"
+      "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/chunklist.m3u8"
     ],
     "language": "eng",
     "country": "ZA"
@@ -4383,15 +4300,6 @@
     "isGeoBlocked": true
   },
   {
-    "id": "Channel9.bd",
-    "name": "Channel 9",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
-  },
-  {
     "id": "Channel9Melbourne.au",
     "name": "Channel 9 Melbourne",
     "stream_urls": [
@@ -4410,15 +4318,6 @@
     "language": "eng",
     "country": "AU",
     "isGeoBlocked": true
-  },
-  {
-    "id": "ChannelI.bd",
-    "name": "Channel I",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
   },
   {
     "id": "ChannelOne.ru",
@@ -6449,6 +6348,24 @@
     "country": "KR"
   },
   {
+    "id": "HmongStarTV.la",
+    "name": "Hmong Star TV",
+    "stream_urls": [
+      "https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8"
+    ],
+    "language": "vie",
+    "country": "LA"
+  },
+  {
+    "id": "HmongUSATV.la",
+    "name": "HmongUSA TV",
+    "stream_urls": [
+      "https://livefta.malimarcdn.com/ftaedge00/hmongusatv.sdp/playlist.m3u8"
+    ],
+    "language": "vie",
+    "country": "LA"
+  },
+  {
     "id": "HOYTV.hk",
     "name": "HOY TV",
     "stream_urls": [
@@ -7822,15 +7739,6 @@
     "country": "PE"
   },
   {
-    "id": "MillenniumTVUSA.us",
-    "name": "Millennium TV USA",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8"
-    ],
-    "language": "eng",
-    "country": "US"
-  },
-  {
     "id": "Mir.ru",
     "name": "Mir",
     "stream_urls": [
@@ -8095,15 +8003,6 @@
     "country": "CA"
   },
   {
-    "id": "NANTV.bd",
-    "name": "NAN TV",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
-  },
-  {
     "id": "NapaValleyChannel28.us",
     "name": "Napa Valley Channel 28",
     "stream_urls": [
@@ -8230,15 +8129,6 @@
     ],
     "language": "spa",
     "country": "AR"
-  },
-  {
-    "id": "NexusTV.bd",
-    "name": "Nexus TV",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
   },
   {
     "id": "NiceTVKenya.ke",
@@ -8401,15 +8291,6 @@
     ],
     "language": "rus",
     "country": "RU"
-  },
-  {
-    "id": "NTVEurope.bd",
-    "name": "NTV Europe",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
   },
   {
     "id": "NTVKenya.ke",
@@ -10018,15 +9899,6 @@
     "country": "US"
   },
   {
-    "id": "RTV.bd",
-    "name": "RTV",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
-  },
-  {
     "id": "RTV.ec",
     "name": "RTV",
     "stream_urls": [
@@ -10217,15 +10089,6 @@
     "country": "DO"
   },
   {
-    "id": "SATV.bd",
-    "name": "SA TV",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
-  },
-  {
     "id": "SBC.sa",
     "name": "SBC",
     "stream_urls": [
@@ -10410,15 +10273,6 @@
     ],
     "language": "eng",
     "country": "US"
-  },
-  {
-    "id": "ShreeBangla.in",
-    "name": "Shree Bangla",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/shreebangla.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "IN"
   },
   {
     "id": "SIC.pt",
@@ -11645,6 +11499,16 @@
     "country": "GP"
   },
   {
+    "id": "TGRTBelgesel.tr",
+    "name": "TGRT Belgesel",
+    "stream_urls": [
+      "https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8",
+      "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "id": "ThaiNguyenTV.vn",
     "name": "Thai Nguyen TV",
     "stream_urls": [
@@ -11661,15 +11525,6 @@
     ],
     "language": "eng",
     "country": "US"
-  },
-  {
-    "id": "TheChannelTV.ca",
-    "name": "The Channel TV",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "CA"
   },
   {
     "id": "TheMontereyChannel.us",
@@ -11706,15 +11561,6 @@
     ],
     "language": "spa",
     "country": "CR"
-  },
-  {
-    "id": "TimeTelevision.us",
-    "name": "Time Television",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "US"
   },
   {
     "id": "TIVER.cv",
@@ -13579,15 +13425,6 @@
     "country": "PE"
   },
   {
-    "id": "VarendraTV.bd",
-    "name": "Varendra TV",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
-  },
-  {
     "id": "VasarhelyiTelevizio.hu",
     "name": "Vasarhelyi Televizio",
     "stream_urls": [
@@ -13650,6 +13487,15 @@
     ],
     "language": "spa",
     "country": "PE"
+  },
+  {
+    "id": "ViaOccitanie.fr",
+    "name": "ViaOccitanie",
+    "stream_urls": [
+      "https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR"
   },
   {
     "id": "viaTelePaese.fr",

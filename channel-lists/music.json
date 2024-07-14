@@ -255,15 +255,6 @@
     "country": "IN"
   },
   {
-    "id": "ATNMusic.bd",
-    "name": "ATN Music",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
-  },
-  {
     "id": "AtomicAcademyTV.ro",
     "name": "Atomic Academy TV",
     "stream_urls": [
@@ -1152,15 +1143,6 @@
     ],
     "language": "fra",
     "country": "BE"
-  },
-  {
-    "id": "GaanBangla.bd",
-    "name": "Gaan Bangla",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
   },
   {
     "id": "GalacticaTV.pe",
@@ -2221,24 +2203,6 @@
     "country": "IN"
   },
   {
-    "id": "NevoMusic.uz",
-    "name": "NevoMusic",
-    "stream_urls": [
-      "https://ythls.armelin.one/channel/UCkaUg9b9LplVoJdx1JwwyOg.m3u8"
-    ],
-    "language": "uzb",
-    "country": "UZ"
-  },
-  {
-    "id": "NevoMusicTj.uz",
-    "name": "NevoMusicTj",
-    "stream_urls": [
-      "https://ythls.armelin.one/channel/UCXvGJ608Y8TgJ8lKLv-2WOg.m3u8"
-    ],
-    "language": "tgk",
-    "country": "UZ"
-  },
-  {
     "id": "NextHD.py",
     "name": "Next HD",
     "stream_urls": [
@@ -3214,8 +3178,7 @@
     "id": "RTVMusic.bd",
     "name": "RTV Music",
     "stream_urls": [
-      "https://ythls.armelin.one/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8",
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/playlist.m3u8"
+      "https://ythls.armelin.one/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8"
     ],
     "language": "ben",
     "country": "BD"

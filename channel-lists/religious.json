@@ -825,15 +825,6 @@
     "country": "IN"
   },
   {
-    "id": "ATNIslamicTV.bd",
-    "name": "ATN Islamic TV",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
-  },
-  {
     "id": "ATVSat.us",
     "name": "ATVSat",
     "stream_urls": [
@@ -3156,15 +3147,6 @@
     "country": "US"
   },
   {
-    "id": "MakkahLive.bd",
-    "name": "Makkah Live",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkah.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
-  },
-  {
     "id": "MakkahTV.sa",
     "name": "Makkah TV",
     "stream_urls": [
@@ -3316,15 +3298,6 @@
     ],
     "language": "fra",
     "country": "BJ"
-  },
-  {
-    "id": "MedinaLive.bd",
-    "name": "Medina Live",
-    "stream_urls": [
-      "https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madina.stream/playlist.m3u8"
-    ],
-    "language": "ben",
-    "country": "BD"
   },
   {
     "id": "MedjugorjeItaliaTV.it",
@@ -4279,7 +4252,7 @@
     "id": "SeraphimTV.za",
     "name": "Seraphim TV",
     "stream_urls": [
-      "https://tv.prayertime.co.za:3638/stream/play.m3u8"
+      "https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8"
     ],
     "language": "eng",
     "country": "ZA"
@@ -4792,15 +4765,6 @@
     "country": "PH"
   },
   {
-    "id": "TsargradTV.ru",
-    "name": "Tsargrad TV",
-    "stream_urls": [
-      "https://evtccc0y6kd.a.trbcdn.net/livemaster/bzm8x_live-i5ang56kd2.smil/playlist.m3u8"
-    ],
-    "language": "rus",
-    "country": "RU"
-  },
-  {
     "id": "TuUniversoTV.co",
     "name": "Tu Universo TV",
     "stream_urls": [
@@ -5082,15 +5046,6 @@
     ],
     "language": "por",
     "country": "BR"
-  },
-  {
-    "id": "UBN.za",
-    "name": "UBN",
-    "stream_urls": [
-      "https://mn-nl.mncdn.com/commectv_live/UBNTV/index.m3u8"
-    ],
-    "language": "eng",
-    "country": "ZA"
   },
   {
     "id": "UnifeTV.pe",
