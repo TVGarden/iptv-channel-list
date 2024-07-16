@@ -513,15 +513,6 @@
     "country": "TN"
   },
   {
-    "id": "TVBFinanceSportsInformationChannel.hk",
-    "name": "TVB Finance Sports & Information Channel",
-    "stream_urls": [
-      "https://tvp22.sky4k.top/index2.php"
-    ],
-    "language": "zho",
-    "country": "HK"
-  },
-  {
     "id": "TVFinance.fr",
     "name": "TV Finance",
     "stream_urls": [

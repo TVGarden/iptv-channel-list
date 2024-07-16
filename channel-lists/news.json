@@ -2997,6 +2997,16 @@
     "country": "GR"
   },
   {
+    "id": "Formula.ge",
+    "name": "Formula",
+    "stream_urls": [
+      "https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8",
+      "https://tv.cdn.xsg.ge/c4635/TVFormula/playlist.m3u8"
+    ],
+    "language": "kat",
+    "country": "GE"
+  },
+  {
     "id": "Foro.mx",
     "name": "Foro",
     "stream_urls": [
@@ -3426,10 +3436,11 @@
     "id": "iCABLENewsChannel.hk",
     "name": "i-CABLE News Channel",
     "stream_urls": [
-      "https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8"
+      "https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8"
     ],
     "language": "yue",
-    "country": "HK"
+    "country": "HK",
+    "isGeoBlocked": true
   },
   {
     "id": "IciRDI.ca",
@@ -5211,7 +5222,7 @@
     "id": "PhoenixInfoNewsChannel.hk",
     "name": "Phoenix InfoNews Channel",
     "stream_urls": [
-      "https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8"
+      "https://ythls.armelin.one/channel/UCd9dPMYgV9-IQaZG491TaRw.m3u8"
     ],
     "language": "zho",
     "country": "HK"
@@ -6676,15 +6687,6 @@
     ],
     "language": "sqi",
     "country": "XK"
-  },
-  {
-    "id": "TVBNewsChannel.hk",
-    "name": "TVB News Channel",
-    "stream_urls": [
-      "https://tvp22.sky4k.top/index1.php"
-    ],
-    "language": "yue",
-    "country": "HK"
   },
   {
     "id": "TVBrusque.br",
