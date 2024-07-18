@@ -11580,6 +11580,16 @@
     "country": "IT"
   },
   {
+    "id": "TMC.fr",
+    "name": "TMC",
+    "stream_urls": [
+      "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR",
+    "isGeoBlocked": true
+  },
+  {
     "id": "TMNTV.cl",
     "name": "TMN TV",
     "stream_urls": [

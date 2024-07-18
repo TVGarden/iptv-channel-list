@@ -5494,6 +5494,15 @@
     "country": "IN"
   },
   {
+    "id": "RaajjeTV.mv",
+    "name": "Raajje TV",
+    "stream_urls": [
+      "https://stream.raajje.mv/live/rtv_live/index.m3u8"
+    ],
+    "language": "div",
+    "country": "MV"
+  },
+  {
     "id": "RadioAlkulTV.sy",
     "name": "Radio Alkul TV",
     "stream_urls": [
