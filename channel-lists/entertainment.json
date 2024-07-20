@@ -27,6 +27,15 @@
     "country": "CL"
   },
   {
+    "id": "1KZNTV.za",
+    "name": "1KZN TV",
+    "stream_urls": [
+      "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/chunklist.m3u8"
+    ],
+    "language": "eng",
+    "country": "ZA"
+  },
+  {
     "id": "20.it",
     "name": "20",
     "stream_urls": [
@@ -2456,6 +2465,15 @@
     "country": "CA"
   },
   {
+    "id": "SowetoTV.za",
+    "name": "Soweto TV",
+    "stream_urls": [
+      "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/chunklist.m3u8"
+    ],
+    "language": "eng",
+    "country": "ZA"
+  },
+  {
     "id": "STEuropeChannel.it",
     "name": "ST Europe Channel",
     "stream_urls": [
@@ -2687,6 +2705,15 @@
     ],
     "language": "eng",
     "country": "NG"
+  },
+  {
+    "id": "TshwaneTV.za",
+    "name": "Tshwane TV",
+    "stream_urls": [
+      "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/chunklist.m3u8"
+    ],
+    "language": "eng",
+    "country": "ZA"
   },
   {
     "id": "TV84.us",

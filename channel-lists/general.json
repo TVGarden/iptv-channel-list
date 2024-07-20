@@ -118,6 +118,15 @@
     "country": "NL"
   },
   {
+    "id": "1KZNTV.za",
+    "name": "1KZN TV",
+    "stream_urls": [
+      "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/chunklist.m3u8"
+    ],
+    "language": "eng",
+    "country": "ZA"
+  },
+  {
     "id": "1Plus1.ua",
     "name": "1+1",
     "stream_urls": [
@@ -8607,15 +8616,6 @@
     "country": "US"
   },
   {
-    "id": "OrientalTV.do",
-    "name": "Oriental TV",
-    "stream_urls": [
-      "https://paz.sytes.net:5443/live/streams/orientaltv.m3u8"
-    ],
-    "language": "spa",
-    "country": "DO"
-  },
-  {
     "id": "OroszlanyiVarosiTelevizio.hu",
     "name": "Oroszlanyi Varosi Televizio",
     "stream_urls": [
@@ -11817,6 +11817,15 @@
     "country": "RU"
   },
   {
+    "id": "TshwaneTV.za",
+    "name": "Tshwane TV",
+    "stream_urls": [
+      "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/chunklist.m3u8"
+    ],
+    "language": "eng",
+    "country": "ZA"
+  },
+  {
     "id": "TTTeletutto.it",
     "name": "TT Teletutto",
     "stream_urls": [
@@ -12108,6 +12117,15 @@
     ],
     "language": "por",
     "country": "BR"
+  },
+  {
+    "id": "TVBRICSAfrica.za",
+    "name": "TV BRICS Africa",
+    "stream_urls": [
+      "https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/chunklist.m3u8"
+    ],
+    "language": "eng",
+    "country": "ZA"
   },
   {
     "id": "TVBRICSChinese.cn",

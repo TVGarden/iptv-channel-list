@@ -1251,6 +1251,15 @@
     "country": "US"
   },
   {
+    "id": "WAAYDT8.us",
+    "name": "WAAY-DT8",
+    "stream_urls": [
+      "https://d3m10mlzdolmch.cloudfront.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/metv_toon_nr/0d1dbf29e64e47bc991796cc24fbeb97/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "id": "XtremaCartoons.ar",
     "name": "Xtrema Cartoons",
     "stream_urls": [
