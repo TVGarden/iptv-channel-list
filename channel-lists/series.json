@@ -267,15 +267,6 @@
     "country": "US"
   },
   {
-    "id": "Fox.tr",
-    "name": "Fox",
-    "stream_urls": [
-      "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8"
-    ],
-    "language": "tur",
-    "country": "TR"
-  },
-  {
     "id": "HauntTV.us",
     "name": "Haunt TV",
     "stream_urls": [

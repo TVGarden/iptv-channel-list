@@ -805,15 +805,6 @@
     "country": "LV"
   },
   {
-    "id": "PlanetaJuniorTV.es",
-    "name": "Planeta Junior TV",
-    "stream_urls": [
-      "https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8"
-    ],
-    "language": "spa",
-    "country": "ES"
-  },
-  {
     "id": "PlanetaTVKids.cl",
     "name": "PlanetaTV Kids",
     "stream_urls": [

@@ -9,15 +9,6 @@
     "country": "DO"
   },
   {
-    "id": "101tvAntequera.es",
-    "name": "101tv Antequera",
-    "stream_urls": [
-      "https://streaming101tv.es/hls/webantequera.m3u8"
-    ],
-    "language": "spa",
-    "country": "ES"
-  },
-  {
     "id": "101tvAxarquia.es",
     "name": "101tv Axarquia",
     "stream_urls": [
@@ -6118,6 +6109,15 @@
     "stream_urls": [
       "https://ythls.armelin.one/channel/UCfJtBtmhnIyfUB6RqXeImMw.m3u8",
       "https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8"
+    ],
+    "language": "spa",
+    "country": "VE"
+  },
+  {
+    "id": "GlowTV.ve",
+    "name": "Glow TV",
+    "stream_urls": [
+      "https://vcp7.myplaytv.com/glowtv/glowtv/playlist.m3u8"
     ],
     "language": "spa",
     "country": "VE"
