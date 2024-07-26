@@ -605,15 +605,6 @@
     "country": "US"
   },
   {
-    "id": "TopSanteTV.fr",
-    "name": "Top Sante TV",
-    "stream_urls": [
-      "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/TopSante.m3u8"
-    ],
-    "language": "fra",
-    "country": "FR"
-  },
-  {
     "id": "TV5MondeStyle.fr",
     "name": "TV5Monde Style",
     "stream_urls": [

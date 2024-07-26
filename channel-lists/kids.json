@@ -380,15 +380,6 @@
     "country": "FR"
   },
   {
-    "id": "GulliBilArabi.fr",
-    "name": "Gulli Bil Arabi",
-    "stream_urls": [
-      "https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8"
-    ],
-    "language": "ara",
-    "country": "FR"
-  },
-  {
     "id": "HappyKids.us",
     "name": "HappyKids",
     "stream_urls": [
@@ -1111,16 +1102,6 @@
     ],
     "language": "eng",
     "country": "UK"
-  },
-  {
-    "id": "TiJi.fr",
-    "name": "TiJi",
-    "stream_urls": [
-      "https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8",
-      "https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8"
-    ],
-    "language": "fra",
-    "country": "FR"
   },
   {
     "id": "TNTKidsTV.ba",

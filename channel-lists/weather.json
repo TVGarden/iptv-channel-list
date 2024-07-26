@@ -67,6 +67,15 @@
     "country": "JP"
   },
   {
+    "id": "TheWeatherNetwork.ca",
+    "name": "The Weather Network",
+    "stream_urls": [
+      "https://lnc-the-weather-network-canada.tubi.video/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "CA"
+  },
+  {
     "id": "WeatherNation.us",
     "name": "WeatherNation",
     "stream_urls": [

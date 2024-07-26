@@ -2408,6 +2408,7 @@
       "https://bloomberg-quicktake-1-pt.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://bloomberg.com/media-manifest/streams/qt.m3u8",
       "https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8",
+      "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Originals.m3u8",
       "https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8",
       "https://bloomberg-quicktake-1-nl.samsung.wurl.tv/playlist.m3u8",
       "https://bloomberg-quicktake-4-nz.samsung.wurl.tv/playlist.m3u8",
@@ -5037,8 +5038,7 @@
     "id": "D5tv.fr",
     "name": "D5tv",
     "stream_urls": [
-      "https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8",
-      "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/D5TV.m3u8"
+      "https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8"
     ],
     "language": "fra",
     "country": "FR"
@@ -5976,20 +5976,10 @@
     "country": "US"
   },
   {
-    "id": "FranceBleuElsass.fr",
-    "name": "France Bleu Elsass",
-    "stream_urls": [
-      "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/FranceBleuElsass.m3u8"
-    ],
-    "language": "gsw",
-    "country": "FR"
-  },
-  {
     "id": "FranceInter.fr",
     "name": "France Inter",
     "stream_urls": [
-      "https://ythls.armelin.one/channel/UCJldRgT_D7Am-ErRHQZ90uw.m3u8",
-      "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/FranceInter.m3u8"
+      "https://ythls.armelin.one/channel/UCJldRgT_D7Am-ErRHQZ90uw.m3u8"
     ],
     "language": "fra",
     "country": "FR"
@@ -11560,15 +11550,6 @@
     ],
     "language": "tur",
     "country": "TR"
-  },
-  {
-    "id": "TL7.fr",
-    "name": "TL7",
-    "stream_urls": [
-      "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/TL7Loire.m3u8"
-    ],
-    "language": "fra",
-    "country": "FR"
   },
   {
     "id": "TLTMolise.it",

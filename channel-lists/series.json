@@ -127,7 +127,7 @@
     "id": "AreWeThereYet.us",
     "name": "Are We There Yet?",
     "stream_urls": [
-      "https://lnc-are-we-there-yet.tubi.video/playlist.m3u8",
+      "https://lnc-are-we-there-yet2.tubi.video/playlist.m3u8",
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8",
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetse-samsungse/playlist.m3u8"
     ],
@@ -221,6 +221,15 @@
     "country": "US"
   },
   {
+    "id": "ColdCaseFiles.us",
+    "name": "Cold Case Files",
+    "stream_urls": [
+      "https://lnc-cold-case-files.tubi.video/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "id": "ConsulenzeIllegali.it",
     "name": "Consulenze Illegali",
     "stream_urls": [
@@ -267,6 +276,15 @@
     "country": "US"
   },
   {
+    "id": "DogtheBountyHunter.us",
+    "name": "Dog the Bounty Hunter",
+    "stream_urls": [
+      "https://lnc-dog-the-bounty-hunter.tubi.video/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "id": "HauntTV.us",
     "name": "Haunt TV",
     "stream_urls": [
@@ -284,15 +302,6 @@
     ],
     "language": "eng",
     "country": "US"
-  },
-  {
-    "id": "Hunter.uk",
-    "name": "Hunter",
-    "stream_urls": [
-      "https://lnc-hunter-filmrise.tubi.video/index.m3u8"
-    ],
-    "language": "eng",
-    "country": "UK"
   },
   {
     "id": "JuntosTV.us",

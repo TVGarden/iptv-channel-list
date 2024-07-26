@@ -383,7 +383,6 @@
     "id": "DUST.us",
     "name": "DUST",
     "stream_urls": [
-      "https://lnc-dust.tubi.video/playlist.m3u8",
       "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8"
     ],
     "language": "eng",
@@ -504,15 +503,6 @@
     "name": "FilmRise True Crime",
     "stream_urls": [
       "https://lnc-filmrise-true-crime.tubi.video/index.m3u8"
-    ],
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "id": "FilmRiseWestern.us",
-    "name": "FilmRise Western",
-    "stream_urls": [
-      "https://lnc-filmrise-western.tubi.video/playlist.m3u8"
     ],
     "language": "eng",
     "country": "US"

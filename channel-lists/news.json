@@ -1835,6 +1835,7 @@
     "id": "CBCNewsNetwork.ca",
     "name": "CBC News Network",
     "stream_urls": [
+      "https://lnc-cbc2.tubi.video/master.m3u8",
       "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8"
     ],
     "language": "eng",
@@ -2289,15 +2290,6 @@
     ],
     "language": "spa",
     "country": "AR"
-  },
-  {
-    "id": "CNews.fr",
-    "name": "CNews",
-    "stream_urls": [
-      "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/CNEWS.m3u8"
-    ],
-    "language": "fra",
-    "country": "FR"
   },
   {
     "id": "CNNNews18.in",
@@ -2776,7 +2768,7 @@
     "id": "EuronewsEnglish.fr",
     "name": "Euronews English",
     "stream_urls": [
-      "https://lnc-euronews.tubi.video/ewnsabren_eng.m3u8",
+      "https://lnc-euronews2.tubi.video/euronews-en.m3u8",
       "https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
       "https://rakuten-euronews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
@@ -2884,15 +2876,6 @@
       "https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8"
     ],
     "language": "spa",
-    "country": "FR"
-  },
-  {
-    "id": "Europe1.fr",
-    "name": "Europe 1",
-    "stream_urls": [
-      "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/Europe1.m3u8"
-    ],
-    "language": "fra",
     "country": "FR"
   },
   {
@@ -3067,8 +3050,7 @@
     "name": "Franceinfo",
     "stream_urls": [
       "https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/FranceInfo.m3u8",
-      "https://ythls.armelin.one/channel/UCO6K_kkdP-lnSCiO3tPx7WA.m3u8",
-      "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/FranceInfo.m3u8"
+      "https://ythls.armelin.one/channel/UCO6K_kkdP-lnSCiO3tPx7WA.m3u8"
     ],
     "language": "fra",
     "country": "FR"
@@ -4135,15 +4117,6 @@
     ],
     "language": "eng",
     "country": "BZ"
-  },
-  {
-    "id": "LyonCapitaleTV.fr",
-    "name": "Lyon Capitale TV",
-    "stream_urls": [
-      "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/LyonCapitale.m3u8"
-    ],
-    "language": "fra",
-    "country": "FR"
   },
   {
     "id": "M24TV.ma",
@@ -6917,7 +6890,6 @@
     "id": "USATODAY.us",
     "name": "USA TODAY",
     "stream_urls": [
-      "https://lnc-usa-today.tubi.video/playlist.m3u8",
       "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8"
     ],
     "language": "eng",

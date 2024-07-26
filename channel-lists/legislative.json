@@ -1167,15 +1167,6 @@
     "country": "US"
   },
   {
-    "id": "PublicSenat2424.fr",
-    "name": "Public Senat 24/24",
-    "stream_urls": [
-      "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/PublicSenat.m3u8"
-    ],
-    "language": "fra",
-    "country": "FR"
-  },
-  {
     "id": "RadaTV.ua",
     "name": "Rada TV",
     "stream_urls": [

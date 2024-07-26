@@ -759,7 +759,6 @@
       "https://circle-vizio.amagi.tv/playlist.m3u8",
       "https://circle-xumo.amagi.tv/playlist.m3u8",
       "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcircletv/CDN/playlist.m3u8",
-      "https://lnc-circle.tubi.video/playlist.m3u8",
       "https://circle-klowdtv.amagi.tv/playlist.m3u8"
     ],
     "language": "eng",
@@ -876,6 +875,15 @@
     "country": "BR"
   },
   {
+    "id": "DuckDynasty.uk",
+    "name": "Duck Dynasty",
+    "stream_urls": [
+      "https://lnc-duck-dynasty.tubi.video/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "UK"
+  },
+  {
     "id": "E24.in",
     "name": "E 24",
     "stream_urls": [
@@ -985,7 +993,8 @@
       "https://estrellatv-oando.amagi.tv/playlist.m3u8",
       "https://estrellatv-glewed.amagi.tv/playlist.m3u8",
       "https://estrellatv-plex.amagi.tv/playlist.m3u8",
-      "https://estrellatv-roku.amagi.tv/playlist.m3u8"
+      "https://estrellatv-roku.amagi.tv/playlist.m3u8",
+      "https://lnc-estrellatv.tubi.video/playlist.m3u8"
     ],
     "language": "spa",
     "country": "US"
@@ -1795,15 +1804,6 @@
     ],
     "language": "deu",
     "country": "DE"
-  },
-  {
-    "id": "N31.fr",
-    "name": "N31",
-    "stream_urls": [
-      "https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/N31.m3u8"
-    ],
-    "language": "fra",
-    "country": "FR"
   },
   {
     "id": "NagoTV.us",

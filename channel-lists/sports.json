@@ -18,6 +18,15 @@
     "country": "AE"
   },
   {
+    "id": "ACCDigitalNetwork.us",
+    "name": "ACC Digital Network",
+    "stream_urls": [
+      "https://aegis-cloudfront-1.tubi.video/ce6650c2-26ea-4433-9276-8a5ebf3992cc/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "id": "ACISportTV.it",
     "name": "ACI Sport TV",
     "stream_urls": [
@@ -812,7 +821,7 @@
     "id": "MLB.us",
     "name": "MLB",
     "stream_urls": [
-      "https://lnc-mlb2.tubi.video/index.m3u8"
+      "https://lnc-mlb3.tubi.video/playlist.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -885,6 +894,24 @@
     "country": "JP"
   },
   {
+    "id": "NFLChannel.us",
+    "name": "NFL Channel",
+    "stream_urls": [
+      "https://lnc-nfl2.tubi.video/contribution-live/tubi/bDdZdzADyBC3ICW7/nfldigital1_tubi_v2/master.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "id": "NHLNetwork.us",
+    "name": "NHL Network",
+    "stream_urls": [
+      "https://lnc-nhl.tubi.video/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "id": "NHRATV.us",
     "name": "NHRA TV",
     "stream_urls": [
@@ -948,7 +975,7 @@
     "id": "PGATour.us",
     "name": "PGA Tour",
     "stream_urls": [
-      "https://lnc-pga.tubi.video/index.m3u8"
+      "https://lnc-pga3.tubi.video/index.m3u8"
     ],
     "language": "eng",
     "country": "US"
@@ -1333,7 +1360,7 @@
     "id": "Stadium.us",
     "name": "Stadium",
     "stream_urls": [
-      "https://lnc-stadium.tubi.video/master.m3u8",
+      "https://lnc-stadium2.tubi.video/playlist.m3u8",
       "https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8"
     ],
     "language": "eng",
@@ -1584,15 +1611,6 @@
     "name": "Unbeaten",
     "stream_urls": [
       "https://unbeaten-tcl.amagi.tv/playlist.m3u8"
-    ],
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "id": "USATODAYSPORTS.us",
-    "name": "USA TODAY SPORTS",
-    "stream_urls": [
-      "https://lnc-sportswire.tubi.video/playlist.m3u8"
     ],
     "language": "eng",
     "country": "US"
