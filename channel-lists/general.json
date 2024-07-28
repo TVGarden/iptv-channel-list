@@ -8723,15 +8723,6 @@
     "country": "IT"
   },
   {
-    "id": "PasajeTV.ec",
-    "name": "Pasaje TV",
-    "stream_urls": [
-      "https://canal.pasajetv.com/PasajeTV.m3u8"
-    ],
-    "language": "spa",
-    "country": "EC"
-  },
-  {
     "id": "PATLaPaz.bo",
     "name": "PAT La Paz",
     "stream_urls": [
