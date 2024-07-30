@@ -204,6 +204,7 @@
     "id": "CiftciTV.tr",
     "name": "Ciftci TV",
     "stream_urls": [
+      "https://ythls.armelin.one/channel/UCtzcebnk0sLhCBtJy7GJaCg.m3u8",
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
     "language": "tur",
@@ -524,6 +525,15 @@
     ],
     "language": "spa",
     "country": "CO"
+  },
+  {
+    "id": "FacultyTV.gh",
+    "name": "Faculty TV",
+    "stream_urls": [
+      "https://stream-server9-jupiter.muxlive.com/hls/facultytv/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "GH"
   },
   {
     "id": "FairTVEducationChannel.us",

@@ -30,6 +30,7 @@
     "id": "1KZNTV.za",
     "name": "1KZN TV",
     "stream_urls": [
+      "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8",
       "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/chunklist.m3u8"
     ],
     "language": "eng",
@@ -679,6 +680,15 @@
     "country": "CH"
   },
   {
+    "id": "CeeJayTV.gh",
+    "name": "CeeJay TV",
+    "stream_urls": [
+      "https://asiakwa.com/ceejaytv/index.fmp4.m3u8"
+    ],
+    "language": "eng",
+    "country": "GH"
+  },
+  {
     "id": "CentralTV.pe",
     "name": "Central TV",
     "stream_urls": [
@@ -869,7 +879,7 @@
     "id": "DiaTV.br",
     "name": "DiaTV",
     "stream_urls": [
-      "https://ythls-v2.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8"
+      "https://ythls.armelin.one/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8"
     ],
     "language": "por",
     "country": "BR"
@@ -1220,7 +1230,7 @@
     "id": "GuineeTV1.gn",
     "name": "Guinee TV1",
     "stream_urls": [
-      "https://live.kgsols.com/push/5738602793391390dff3dac4991d158c.sdp/playlist.m3u8"
+      "https://helga.iptv2022.com/GTV/index.m3u8"
     ],
     "language": "fra",
     "country": "GN"
@@ -1935,7 +1945,7 @@
     "id": "PancTVPeru.pe",
     "name": "Panc TV Peru",
     "stream_urls": [
-      "https://tv.streamcasthd.com:3260/live/pancperulive.m3u8"
+      "https://panel.host-live.com:19360/80780/80780.m3u8"
     ],
     "language": "spa",
     "country": "PE"
@@ -2329,6 +2339,15 @@
     "country": "EC"
   },
   {
+    "id": "SabTV.gn",
+    "name": "Sab TV",
+    "stream_urls": [
+      "https://guineetvdirect.online:3964/live/sabtvlive.m3u8"
+    ],
+    "language": "fra",
+    "country": "GN"
+  },
+  {
     "id": "Salto1.nl",
     "name": "Salto 1",
     "stream_urls": [
@@ -2468,6 +2487,7 @@
     "id": "SowetoTV.za",
     "name": "Soweto TV",
     "stream_urls": [
+      "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8",
       "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/chunklist.m3u8"
     ],
     "language": "eng",
@@ -2852,6 +2872,15 @@
     "country": "IR"
   },
   {
+    "id": "TVJ.jm",
+    "name": "TVJ",
+    "stream_urls": [
+      "https://rjr-tvj-geo.akamaized.net/hls/live/2041530/TVJ_GEO/1/streamPlaylist.m3u8"
+    ],
+    "language": "eng",
+    "country": "JM"
+  },
+  {
     "id": "TVJSID.br",
     "name": "TV J.SID",
     "stream_urls": [
@@ -2922,6 +2951,15 @@
     ],
     "language": "por",
     "country": "BR"
+  },
+  {
+    "id": "TVVitoria.mz",
+    "name": "TV Vitoria",
+    "stream_urls": [
+      "https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8"
+    ],
+    "language": "por",
+    "country": "MZ"
   },
   {
     "id": "TVZoom.br",

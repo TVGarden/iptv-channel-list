@@ -1143,7 +1143,7 @@
     "id": "CaribbeanGospelTV.jm",
     "name": "Caribbean Gospel TV",
     "stream_urls": [
-      "https://5790d294af2dc.streamlock.net/8048/8048/playlist.m3u8"
+      "https://5a1178b42cc03.streamlock.net:443/CGTV2024/CGTV2024/playlist.m3u8"
     ],
     "language": "eng",
     "country": "JM"
@@ -1502,6 +1502,15 @@
     "country": "TR"
   },
   {
+    "id": "DacwaTV.ke",
+    "name": "Dacwa TV",
+    "stream_urls": [
+      "https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8"
+    ],
+    "language": "som",
+    "country": "KE"
+  },
+  {
     "id": "DareToDreamNetwork.us",
     "name": "Dare To Dream Network",
     "stream_urls": [
@@ -1605,7 +1614,8 @@
     "id": "DiyanetTV.tr",
     "name": "Diyanet TV",
     "stream_urls": [
-      "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8"
+      "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
+      "https://ythls.armelin.one/channel/UC3d1AdmvAP6Jq16-WpD086g.m3u8"
     ],
     "language": "tur",
     "country": "TR"
@@ -1614,6 +1624,7 @@
     "id": "DiyarTV.tr",
     "name": "Diyar TV",
     "stream_urls": [
+      "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8",
       "https://yayin30.haber100.com/live/diyartv/playlist.m3u8"
     ],
     "language": "tur",
@@ -1939,6 +1950,7 @@
     "id": "FaithTV.za",
     "name": "Faith TV",
     "stream_urls": [
+      "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/chunklist.m3u8",
       "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/chunklist.m3u8"
     ],
     "language": "eng",
@@ -3321,7 +3333,7 @@
     "id": "MercyandTruthMinistriesTelevision.jm",
     "name": "Mercy and Truth Ministries Television",
     "stream_urls": [
-      "https://freepbx.btbn.tv:5443/mtmtv/streams/live.m3u8"
+      "https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8"
     ],
     "language": "eng",
     "country": "JM"
@@ -3429,7 +3441,7 @@
     "id": "MOGPATV.gh",
     "name": "MOGPA TV",
     "stream_urls": [
-      "https://media.mogpapublication.com/website/stream/playlist.m3u8"
+      "https://livestream.anojed.com/ablazetv/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
     ],
     "language": "eng",
     "country": "GH"
@@ -4261,6 +4273,7 @@
     "id": "SeraphimTV.za",
     "name": "Seraphim TV",
     "stream_urls": [
+      "https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8",
       "https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8"
     ],
     "language": "eng",
@@ -4283,6 +4296,15 @@
     ],
     "language": "mal",
     "country": "US"
+  },
+  {
+    "id": "ShalomTV.sr",
+    "name": "Shalom TV",
+    "stream_urls": [
+      "https://media.streambrothers.com:1936/8136/8136/playlist.m3u8"
+    ],
+    "language": "nld",
+    "country": "SR"
   },
   {
     "id": "Sharjah2.ae",

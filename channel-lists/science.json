@@ -108,15 +108,6 @@
     "country": "IT"
   },
   {
-    "id": "XtremaAnimal.ar",
-    "name": "Xtrema Animal",
-    "stream_urls": [
-      "https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8"
-    ],
-    "language": "spa",
-    "country": "AR"
-  },
-  {
     "id": "YTNScience.kr",
     "name": "YTN Science",
     "stream_urls": [

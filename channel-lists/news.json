@@ -636,15 +636,6 @@
     "country": "FR"
   },
   {
-    "id": "AfrikInfoTV.gn",
-    "name": "Afrik Info TV",
-    "stream_urls": [
-      "https://cageu.bozztv.com/ssh101/ssh101/my23a2r/playlist.m3u8"
-    ],
-    "language": "fra",
-    "country": "GN"
-  },
-  {
     "id": "AgendaAlDiaTV.co",
     "name": "Agenda Al Dia TV",
     "stream_urls": [
@@ -707,15 +698,6 @@
     ],
     "language": "tur",
     "country": "TR"
-  },
-  {
-    "id": "AlAanTV.ae",
-    "name": "Al Aan TV",
-    "stream_urls": [
-      "https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index.m3u8"
-    ],
-    "language": "ara",
-    "country": "AE"
   },
   {
     "id": "AlAlam.ir",
@@ -1281,11 +1263,11 @@
     "id": "ASTV.tr",
     "name": "AS TV",
     "stream_urls": [
+      "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8",
       "https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8"
     ],
     "language": "tur",
-    "country": "TR",
-    "isGeoBlocked": true
+    "country": "TR"
   },
   {
     "id": "AtacamaNoticias.cl",
@@ -3225,6 +3207,7 @@
     "id": "HaberGlobal.tr",
     "name": "Haber Global",
     "stream_urls": [
+      "https://ythls.armelin.one/channel/UCtc-a9ZUIg0_5HpsPxEO7Qg.m3u8",
       "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8",
       "https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8"
     ],
@@ -4098,6 +4081,15 @@
     ],
     "language": "eng",
     "country": "NG"
+  },
+  {
+    "id": "LN24SA.za",
+    "name": "LN24SA",
+    "stream_urls": [
+      "https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8"
+    ],
+    "language": "eng",
+    "country": "ZA"
   },
   {
     "id": "LokshahiNews.in",
@@ -6315,6 +6307,7 @@
     "id": "TGRTHaber.tr",
     "name": "TGRT Haber",
     "stream_urls": [
+      "https://canli.tgrthaber.com/tgrt.m3u8",
       "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8"
     ],
     "language": "tur",

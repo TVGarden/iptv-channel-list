@@ -112,6 +112,7 @@
     "id": "1KZNTV.za",
     "name": "1KZN TV",
     "stream_urls": [
+      "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8",
       "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/chunklist.m3u8"
     ],
     "language": "eng",
@@ -237,15 +238,6 @@
     ],
     "language": "hun",
     "country": "HU"
-  },
-  {
-    "id": "7TVSenegal.sn",
-    "name": "7TV Senegal",
-    "stream_urls": [
-      "https://live3.acangroup.org:1929/publiclive/septtv.stream/chunks.m3u8"
-    ],
-    "language": "fra",
-    "country": "SN"
   },
   {
     "id": "86.ru",
@@ -1578,6 +1570,15 @@
     ],
     "language": "spa",
     "country": "CO"
+  },
+  {
+    "id": "ATV.gn",
+    "name": "ATV",
+    "stream_urls": [
+      "https://guineetvdirect.online:3320/live/atvguineelive.m3u8"
+    ],
+    "language": "fra",
+    "country": "GN"
   },
   {
     "id": "ATV.hu",
@@ -3668,6 +3669,7 @@
     "id": "CapeTownTV.za",
     "name": "Cape Town TV",
     "stream_urls": [
+      "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8",
       "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/chunklist.m3u8"
     ],
     "language": "eng",
@@ -4340,6 +4342,15 @@
     "country": "KZ"
   },
   {
+    "id": "ChannelOneTV.gh",
+    "name": "ChannelOne TV",
+    "stream_urls": [
+      "https://2ctv.crystaltv.mobi:44095/tv877.167.m3u8"
+    ],
+    "language": "eng",
+    "country": "GH"
+  },
+  {
     "id": "CHCOTV.ca",
     "name": "CHCO-TV",
     "stream_urls": [
@@ -4366,6 +4377,15 @@
     ],
     "language": "spa",
     "country": "VE"
+  },
+  {
+    "id": "Cine1.tr",
+    "name": "Cine 1",
+    "stream_urls": [
+      "https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
   },
   {
     "id": "CinevisionCanal19.do",
@@ -5306,6 +5326,15 @@
     "country": "ID"
   },
   {
+    "id": "DiamagueneTV.sn",
+    "name": "Diamaguene TV",
+    "stream_urls": [
+      "https://helga.iptv2022.com/sh/DIAMAGUENE_TV/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "SN"
+  },
+  {
     "id": "DiamaTV.sn",
     "name": "Diama TV",
     "stream_urls": [
@@ -5318,7 +5347,7 @@
     "id": "DiaTV.br",
     "name": "DiaTV",
     "stream_urls": [
-      "https://ythls-v2.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8"
+      "https://ythls.armelin.one/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8"
     ],
     "language": "por",
     "country": "BR"
@@ -6075,6 +6104,15 @@
     "country": "CA"
   },
   {
+    "id": "GHLifeTV.gh",
+    "name": "GHLife TV",
+    "stream_urls": [
+      "https://stream-server9-jupiter.muxlive.com/hls/ghlifetv/index.m3u8"
+    ],
+    "language": "eng",
+    "country": "GH"
+  },
+  {
     "id": "GipsyTvWien.at",
     "name": "GipsyTv Wien",
     "stream_urls": [
@@ -6677,6 +6715,15 @@
     "country": "KE"
   },
   {
+    "id": "KabackTV.gn",
+    "name": "Kaback TV",
+    "stream_urls": [
+      "https://guineetvdirect.online:3842/live/kabacktvlive.m3u8"
+    ],
+    "language": "fra",
+    "country": "GN"
+  },
+  {
     "id": "KamemeTV.ke",
     "name": "Kameme TV",
     "stream_urls": [
@@ -6707,7 +6754,8 @@
     "id": "KANAL58.tr",
     "name": "KANAL58",
     "stream_urls": [
-      "https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8"
+      "https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8",
+      "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8"
     ],
     "language": "tur",
     "country": "TR"
@@ -7359,15 +7407,6 @@
     ],
     "language": "swa",
     "country": "KE"
-  },
-  {
-    "id": "M9TVRomania.ro",
-    "name": "M9TV Romania",
-    "stream_urls": [
-      "https://testcam.go.ro:8080/hls/m9tv.m3u8"
-    ],
-    "language": "ron",
-    "country": "RO"
   },
   {
     "id": "MadDogandMerrill.us",
@@ -8672,7 +8711,7 @@
     "id": "PancTV.ar",
     "name": "Panc TV",
     "stream_urls": [
-      "https://tv.streamcasthd.com:3000/live/panctvlive.m3u8"
+      "https://panel.host-live.com:19360/81500/81500.m3u8"
     ],
     "language": "spa",
     "country": "AR"
@@ -9696,15 +9735,6 @@
     "country": "NL"
   },
   {
-    "id": "RotanaPlusHD.sa",
-    "name": "Rotana+ HD",
-    "stream_urls": [
-      "https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8"
-    ],
-    "language": "ara",
-    "country": "SA"
-  },
-  {
     "id": "RoyaTV.jo",
     "name": "Roya TV",
     "stream_urls": [
@@ -10151,6 +10181,15 @@
     "country": "CO"
   },
   {
+    "id": "SenewebTV.sn",
+    "name": "Seneweb TV",
+    "stream_urls": [
+      "https://helga.iptv2022.com/sh/Sene_Web_Tv/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "SN"
+  },
+  {
     "id": "SenJeunesTV.sn",
     "name": "SenJeunes TV",
     "stream_urls": [
@@ -10365,8 +10404,8 @@
     "country": "US"
   },
   {
-    "id": "SNTV2.so",
-    "name": "SNTV 2",
+    "id": "SNTVDaljir.so",
+    "name": "SNTV Daljir",
     "stream_urls": [
       "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8"
     ],
@@ -11471,6 +11510,16 @@
     "country": "TR"
   },
   {
+    "id": "TGRTEurope.tr",
+    "name": "TGRT Europe",
+    "stream_urls": [
+      "https://canli.tgrteu.com/tgrteu.m3u8",
+      "https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "id": "ThaiNguyenTV.vn",
     "name": "Thai Nguyen TV",
     "stream_urls": [
@@ -11651,6 +11700,15 @@
     ],
     "language": "spa",
     "country": "VE"
+  },
+  {
+    "id": "TrakyaTurk.tr",
+    "name": "Trakya Turk",
+    "stream_urls": [
+      "https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
   },
   {
     "id": "Trans7.id",
@@ -11935,6 +11993,15 @@
     ],
     "language": "ukr",
     "country": "UA"
+  },
+  {
+    "id": "TVA.tr",
+    "name": "TVA",
+    "stream_urls": [
+      "https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
   },
   {
     "id": "TVAberta.br",

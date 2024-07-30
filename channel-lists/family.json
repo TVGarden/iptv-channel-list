@@ -3,6 +3,7 @@
     "id": "1KZNTV.za",
     "name": "1KZN TV",
     "stream_urls": [
+      "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8",
       "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/chunklist.m3u8"
     ],
     "language": "eng",
@@ -213,6 +214,7 @@
     "id": "SowetoTV.za",
     "name": "Soweto TV",
     "stream_urls": [
+      "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8",
       "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/chunklist.m3u8"
     ],
     "language": "eng",

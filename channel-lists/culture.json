@@ -279,6 +279,7 @@
     "id": "CiftciTV.tr",
     "name": "Ciftci TV",
     "stream_urls": [
+      "https://ythls.armelin.one/channel/UCtzcebnk0sLhCBtJy7GJaCg.m3u8",
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
     "language": "tur",
@@ -355,15 +356,6 @@
     ],
     "language": "spa",
     "country": "PE"
-  },
-  {
-    "id": "DakarTVInternational.sn",
-    "name": "Dakar TV International",
-    "stream_urls": [
-      "https://live3.acangroup.org:1929/acanabr/dtv.stream_all/acanabr/dtv.stream_HD/chunks.m3u8"
-    ],
-    "language": "fra",
-    "country": "SN"
   },
   {
     "id": "DDBharati.in",
