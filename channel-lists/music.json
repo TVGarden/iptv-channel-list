@@ -1499,6 +1499,15 @@
     "country": "KR"
   },
   {
+    "id": "KpopTVPlay.br",
+    "name": "KpopTV Play",
+    "stream_urls": [
+      "https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8"
+    ],
+    "language": "kor",
+    "country": "BR"
+  },
+  {
     "id": "KralPopTV.tr",
     "name": "Kral Pop TV",
     "stream_urls": [

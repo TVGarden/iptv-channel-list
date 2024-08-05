@@ -1123,6 +1123,15 @@
     "country": "US"
   },
   {
+    "id": "AnadoluNetTV.tr",
+    "name": "Anadolu Net TV",
+    "stream_urls": [
+      "https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "id": "AnandTV.uk",
     "name": "Anand TV",
     "stream_urls": [
@@ -5091,6 +5100,15 @@
     "country": "DK"
   },
   {
+    "id": "DaoLaneXangTV.la",
+    "name": "Dao Lane Xang TV",
+    "stream_urls": [
+      "https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8"
+    ],
+    "language": "vie",
+    "country": "LA"
+  },
+  {
     "id": "DaruTV.hu",
     "name": "Daru TV",
     "stream_urls": [
@@ -5815,6 +5833,15 @@
     "country": "HU"
   },
   {
+    "id": "ETVKayseri.tr",
+    "name": "ETV Kayseri",
+    "stream_urls": [
+      "https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8"
+    ],
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "id": "Eurocom.bg",
     "name": "Eurocom",
     "stream_urls": [
@@ -6478,6 +6505,15 @@
     "country": "US"
   },
   {
+    "id": "ImediTV.ge",
+    "name": "Imedi TV",
+    "stream_urls": [
+      "https://tv.cdn.xsg.ge/imedihd/index.m3u8"
+    ],
+    "language": "kat",
+    "country": "GE"
+  },
+  {
     "id": "ImperialTV.bo",
     "name": "Imperial TV",
     "stream_urls": [
@@ -6596,6 +6632,15 @@
     ],
     "language": "por",
     "country": "BR"
+  },
+  {
+    "id": "ISTV.la",
+    "name": "ISTV",
+    "stream_urls": [
+      "https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8"
+    ],
+    "language": "vie",
+    "country": "LA"
   },
   {
     "id": "ITV.ua",
@@ -6900,6 +6945,15 @@
     "isGeoBlocked": true
   },
   {
+    "id": "KhomsanhTV.la",
+    "name": "Khomsanh TV",
+    "stream_urls": [
+      "https://livefta.malimarcdn.com/ftaedge00/lstv2.sdp/playlist.m3u8"
+    ],
+    "language": "vie",
+    "country": "LA"
+  },
+  {
     "id": "KiskorosTV.hu",
     "name": "Kiskoros TV",
     "stream_urls": [
@@ -7119,6 +7173,15 @@
     "country": "NL"
   },
   {
+    "id": "LaoESTV.la",
+    "name": "Lao ESTV",
+    "stream_urls": [
+      "https://ctrl.laotv.la/live/LaoESTV/index.m3u8"
+    ],
+    "language": "lao",
+    "country": "LA"
+  },
+  {
     "id": "LaPipolTv.ec",
     "name": "La Pipol Tv",
     "stream_urls": [
@@ -7317,6 +7380,15 @@
     ],
     "language": "eng",
     "country": "US"
+  },
+  {
+    "id": "LMTVFrench.ci",
+    "name": "LM TV French",
+    "stream_urls": [
+      "https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8"
+    ],
+    "language": "fra",
+    "country": "CI"
   },
   {
     "id": "LokaleOmroepZeewolde.nl",

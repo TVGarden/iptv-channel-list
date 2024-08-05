@@ -347,6 +347,16 @@
     "isGeoBlocked": true
   },
   {
+    "id": "arte.fr",
+    "name": "arte",
+    "stream_urls": [
+      "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8"
+    ],
+    "language": "fra",
+    "country": "FR",
+    "isGeoBlocked": true
+  },
+  {
     "id": "ArubaTVPlus.aw",
     "name": "ArubaTV +",
     "stream_urls": [

@@ -2371,6 +2371,15 @@
     "country": "KE"
   },
   {
+    "id": "HodHodFarsiTV.ir",
+    "name": "HodHod Farsi TV",
+    "stream_urls": [
+      "https://hls.hodhod.live/hls/stream.m3u8"
+    ],
+    "language": "fas",
+    "country": "IR"
+  },
+  {
     "id": "HolyGodTV.fr",
     "name": "HolyGod TV",
     "stream_urls": [
